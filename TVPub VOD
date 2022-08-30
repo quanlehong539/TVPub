@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://vthanh.xyz/ic/1.png", VTV1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png", VTC1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest?cb=20201020100923&path-prefix=vi", TTXVN
+https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/QPVN_2013.png/revision/latest?cb=20220121034022&path-prefix=vi", QPVN
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d7/Logo-NhanDan.png", Nhân Dân
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1935301625.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg/800px-Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg.png", Quốc Hội
+http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T1)
+https://kd.hd-bophim.com/20220629/16278_b4396351/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T2)
+https://kd.hd-bophim.com/20220630/16530_13dac2b2/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T3)
+https://kd.hd-bophim.com/20220706/17487_38f6ebbc/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T4)
+https://kd.hd-bophim.com/20220707/17591_ae3f5a26/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T5)
+https://kd.hd-bophim.com/20220713/18118_cd34ec4d/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T6)
+https://kd.hd-bophim.com/20220714/18194_6967ad26/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T7)
+https://kd.hd-bophim.com/20220720/18569_8f69da5e/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T8)
+https://hd.1080phim.com/20220721/25994_924f7dde/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T9)
+https://hd.1080phim.com/20220727/26130_7e3c05a2/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T10)
+https://hd.1080phim.com/20220728/26159_1a61e9ae/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T11)
+https://hd.1080phim.com/20220803/26223_7b09ffae/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T12)
+https://kd.hd-bophim.com/20220804/19532_8b4c964a/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T13)
+https://kd.hd-bophim.com/20220810/19911_1a199f23/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T14)
+https://kd.hd-bophim.com/20220811/19997_aea5aaef/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T15)
+https://kd.hd-bophim.com/20220817/20244_000ff1dd/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T16)
+https://hd.hdbophim.com/20220818/21192_228a8283/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftham-tu-lung-danh-conan-gio-tra-cua-zero-thumb.jpg&w=256&q=75", THÁM TỬ LỪNG DANH CONAN: GIỜ TRÀ CỦA ZERO (T1)
+https://hd.1080phim.com/20220729/26193_a0876f48/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftham-tu-lung-danh-conan-gio-tra-cua-zero-thumb.jpg&w=256&q=75", THÁM TỬ LỪNG DANH CONAN: GIỜ TRÀ CỦA ZERO (T2)
+https://hd.1080phim.com/20220729/26194_0200759d/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftham-tu-lung-danh-conan-gio-tra-cua-zero-thumb.jpg&w=256&q=75", THÁM TỬ LỪNG DANH CONAN: GIỜ TRÀ CỦA ZERO (T3)
+https://hd.1080phim.com/20220729/26195_cf209fe5/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftham-tu-lung-danh-conan-gio-tra-cua-zero-thumb.jpg&w=256&q=75", THÁM TỬ LỪNG DANH CONAN: GIỜ TRÀ CỦA ZERO (T4)
+https://hd.1080phim.com/20220729/26196_e678e372/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftham-tu-lung-danh-conan-gio-tra-cua-zero-thumb.jpg&w=256&q=75", THÁM TỬ LỪNG DANH CONAN: GIỜ TRÀ CỦA ZERO (T5)
+https://hd.1080phim.com/20220729/26197_bad32961/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftham-tu-lung-danh-conan-gio-tra-cua-zero-thumb.jpg&w=256&q=75", THÁM TỬ LỪNG DANH CONAN: GIỜ TRÀ CỦA ZERO (T6)
+https://hd.1080phim.com/20220729/26198_b224e2df/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fdragon-ball-super-super-hero-thumb.jpg%3Fv%3D1&w=256&q=75", BẢY VIÊN NGỌC RỒNG SIÊU CẤP: SIÊU ANH HÙNG
+https://kd.hd-bophim.com/20220820/20406_f10c3ecb/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fdoraemon-nobita-va-cuoc-chien-vu-tru-ti-hon-thumb.jpg&w=256&q=75", DORAEMON: NOBITA VÀ CUỘC CHIẾN VŨ TRỤ TÍ HON
+https://hd.1080phim.com/20220815/26495_7571224c/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fco-gai-vuot-thoi-gian-thumb.jpg&w=256&q=75", CÔ GÁI VƯỢT THỜI GIAN
+https://aa.nguonphimmoi.com/20220622/21369_7e3967c3/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fthe-blue-skies-at-your-feet-thumb.jpg&w=256&q=75", BẦU TRỜI XANH DƯỚI CHÂN CẬU
+https://kd.hd-bophim.com/20220825/20550_137af7e9/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fchung-ta-thumb.jpg&w=256&q=75", CHÚNG TAO
+https://aa.nguonphimmoi.com/20220511/15132_e492a9af/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnope-thumb.jpg&w=256&q=75", ĐÉO
+https://hd.hdbophim.com/20220825/21618_69dd3d2f/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftron-thoat-thumb.jpg&w=256&q=75", CÚT
+https://kd.hd-bophim.com/20220809/19829_42e78de5/index.m3u8
+#EXTINF:-1 group-title="FILM 18+" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fhon-dao-toi-loi-thumb.jpg&w=256&q=75", HÒN ĐẢO TỘI LỖI
+https://hd.1080phim.com/20220331/2438_0460d412/index.m3u8
+#EXTINF:-1 group-title="FILM 18+" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fthit-gai-lang-choi-thumb.jpg&w=256&q=75", THỊT GÁI LÀNG CHƠI
+https://aa.nguonphimmoi.com/20220331/6967_a43d27c6/index.m3u8
+#EXTINF:-1 group-title="FILM 18+" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fchuoc-say-roi-thit-vo-ban-thumb.jpg&w=256&q=75", CHUỐC SAY RỒI THỊT VỢ BẠN
+https://aa.nguonphimmoi.com/20220402/7260_f2bf90ff/index.m3u8
+#EXTINF:-1 group-title="FILM 18+" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftrao-doi-ban-tinh-thumb.jpg&w=256&q=75", TRAO ĐỔI BẠN TÌNH
+https://hd.1080phim.com/20220402/2547_4ff6019b/index.m3u8
+#EXTINF:-1 group-title="FILM 18+" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fban-gai-toi-20-tuoi-thumb.jpg&w=256&q=75", CON GHỆ TUỔI 20
+https://aa.nguonphimmoi.com/20220405/7758_99d2bd56/index.m3u8
+#EXTINF:-1 group-title="FILM 18+" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftro-choi-69-thumb.jpg&w=256&q=75", TRÒ CHƠI CON CẶC
+https://aa.nguonphimmoi.com/20220405/7910_d9872fbc/index.m3u8
+#EXTINF:-1 group-title="FILM 18+" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fmilk-stargram-thumb.jpg&w=256&q=75", MAI ÂM ĐẠO
+https://vie.haiphim.com/20220415/7822_8d603d3a/index.m3u8
