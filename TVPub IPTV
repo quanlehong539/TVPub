@@ -1,5 +1,5 @@
 #EXTM3U
-
+-- Đây là dịch vụ xem tivi của TVPub, nếu muốn xem phim hãy chạy list này trên các trình phát M3U8: https://bit.ly/3TDXVKN --
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://vthanh.xyz/ic/1.png", VTV1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
