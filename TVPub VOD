@@ -202,7 +202,7 @@ https://aa.nguonphimmoi.com/20220319/4330_dc8a99dc/index.m3u8
 https://kd.hd-bophim.com/20220715/18273_b763047b/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftu-ngu-noi-len-nhu-bot-soda-thumb.jpg&w=256&q=75", TỪ NGỮ NỔI LÊN NHƯ BỌT SODA
 https://hd.1080phim.com/20220220/10_7e533a04/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fbattle-royale-thumb.jpg&w=256&q=75", CUỘC CHIẾN HOÀNG KIM
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fbattle-royale-thumb.jpg&w=256&q=75", CUỘC CHIẾN KINH HOÀNG
 https://1080.hdphimonline.com/20220315/2009_3dc8b958/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnang-cong-chua-va-chang-phi-cong-thumb.jpg&w=256&q=75", NÀNG CÔNG CHÚA VÀ CHÀNG PHI CÔNG
 https://hd.hdbophim.com/20220711/20472_7d7cf1b3/index.m3u8
@@ -214,6 +214,10 @@ https://hd.1080phim.com/20220228/363_8d8c5f35/index.m3u8
 https://kd.hd-bophim.com/20220318/1670_0c7b2d07/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Flinh-hon-bac-2-luat-le-dat-ra-la-de-pha-bo-thumb.jpg&w=256&q=75", LINH HỒN BẠC 2
 https://kd.hd-bophim.com/20220318/1671_fdac5e70/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ften-cau-la-gi-thumb.jpg&w=256&q=75", TÊN CẬU LÀ GÌ?
+https://1080.hdphimonline.com/20220315/2087_9b2fb836/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftokyo-revengers-kich-truong-cua-takemichi-thumb.jpg&w=256&q=75", ANH SẼ LÀM GIANG HỒ VÌ EM
+https://vie.haiphim.com/20220321/1271_fdbb7948/index.m3u8
 #EXTINF:-1 group-title="FILM 18+" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftro-ly-tinh-duc-thumb.jpg&w=256&q=75", TRỢ LÝ TÌNH DỤC
 https://kd.hd-bophim.com/20220725/18958_d346910e/index.m3u8
 #EXTINF:-1 group-title="FILM 18+" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fthit-gai-lang-choi-thumb.jpg&w=256&q=75", THỊT GÁI LÀNG CHƠI
