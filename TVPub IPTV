@@ -22,27 +22,27 @@ http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live
-http://live-vn.cvacetv.ga:8080/live1
+http://live-vn.cvacetv.ga:8080/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
-http://103.133.108.107/tvpub2/mpegts
+http://103.133.108.107/tvpub/mpegts
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://lirp-cdn.multiscreensite.com/b9b696b1/dms3rep/multi/opt/logogradient-1920w.png", LVTT Live
 http://103.133.108.107/lvtt/mpegts
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/1939791921
+http://live-sg.cvacetv.ga:8080/stream/channelid/107945303
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 2
-http://live-sg.cvacetv.ga:8080/stream/channelid/1757056325
+http://live-sg.cvacetv.ga:8080/stream/channelid/2058446761
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 3
-http://live-sg.cvacetv.ga:8080/stream/channelid/347502729
+http://live-sg.cvacetv.ga:8080/stream/channelid/1662401069
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 4
-http://live-sg.cvacetv.ga:8080/stream/channelid/223187494
+http://live-sg.cvacetv.ga:8080/stream/channelid/1390830944
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 5
-http://live-sg.cvacetv.ga:8080/stream/channelid/1986591044
+http://live-sg.cvacetv.ga:8080/stream/channelid/1164104878
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 6
-http://live-sg.cvacetv.ga:8080/stream/channelid/1898167137
+http://live-sg.cvacetv.ga:8080/stream/channelid/363553794
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 7
-http://live-vn.cvacetv.ga:8080/PolsatPre1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1487908107
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 8
-http://live-vn.cvacetv.ga:8080/PolsatPre2
+http://live-sg.cvacetv.ga:8080/stream/channelid/86341192
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 9
 http://live-vn.cvacetv.ga:8080/vtv6
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 10
