@@ -153,8 +153,7 @@ https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png", RT
 https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/220px-NHK_World.svg.png", NHK World
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUGrc_kWbzm3U8KiXgrn95kZfFA4CRM_w0nQgEdbhauB_LJuCVZ3IQrcX_UczKNnCV1uaDINtJzULeMa1WywqVN_ypm32OJIeP0oklqYt_qh7v7J-og2Lp0EL4t12UZ1u8nraRaclNT0WRXYDT0e-16CzFaIeja6sWWNPjStROA6UrZr3g-KTv6pBe/s320/esports247_app_livechannels_1920x1080.jpg", Esports 24/7
 https://live-lunaott.akamaized.net/esport247_ottera/975f1d27-2546-4e05-89b7-554d52ca11ea_PreRoll_1080p/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWXGCU3Gh47M5V4p2IkTITRV6YjAWxA6aj6lCSNQw9mJzpUs-7F59uxP1blpBTxjnm6CVcmM-DyQ6PeuDACbEZvTQvl2xtZRTECAQuK-wumIB2Q3NKqs0VdQvlL5km2yf2Fn_vUuVv837ykbh6L54U-JHg-Ert32EUX12IBjRiJ8aQKr_VqyY-LY8b/s320/screamflix_channelthumbnail_livetvhomepage_1920x1080_0.jpg", Scream Flix
