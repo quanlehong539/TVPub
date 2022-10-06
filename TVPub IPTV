@@ -113,11 +113,11 @@ http://live.vthanhtivi.pw:8080/vtvcab18
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/196
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/34/Yeah1TV.png", Yeah1 TV
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/195
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/An_Ninh_Th%E1%BA%BF_Gi%E1%BB%9Bi_logo_26-08-2022.png/revision/latest?cb=20220901105136&path-prefix=vi", An Ninh Thế Giới
-https://api.vthanhtivi.pw/v1/getlink/tv360/21/0
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="http://youtv.vn/images/logo.png", YouTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/An_Ninh_Th%E1%BA%BF_Gi%E1%BB%9Bi_logo_26-08-2022.png/revision/latest?cb=20220901105136&path-prefix=vi", An Ninh Thế Giới
+https://api.vthanhtivi.pw/v1/getlink/tv360/21/0
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/7f/LogoHTVCGiaDinh2018.png/100px-LogoHTVCGiaDinh2018.png", HTVC Gia đình
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
