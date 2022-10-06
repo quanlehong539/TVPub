@@ -124,9 +124,6 @@ https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/a9/HTVC_PHUNU.png/130px-HTVC_PHUNU.png", HTVC Phụ nữ
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/HTVC_Du_l%E1%BB%8Bch_v%C3%A0_Cu%E1%BB%99c_s%E1%BB%91ng_logo.png/revision/latest/scale-to-width-down/200?cb=20220609022934&path-prefix=vi", HTVC Du lịch & Cuộc sống
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.pngkit.com/png/full/223-2235483_hbo-logo-black-and-white-french-flag-1815.png", HBO
 #EXTVLCOPT:http-user-agent=VThanhTivi
