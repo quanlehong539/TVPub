@@ -28,13 +28,13 @@ http://live-vn.cvacetv.ga/tvpub/mpegts
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://lirp-cdn.multiscreensite.com/b9b696b1/dms3rep/multi/opt/logogradient-1920w.png", LVTT Live
 http://live-vn.cvacetv.ga/lvtt/mpegts
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/440445033
+http://live-sg.cvacetv.ga:8080/stream/channelid/1120636137
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 2
-http://live-sg.cvacetv.ga:8080/stream/channelid/2137345979
+http://live-sg.cvacetv.ga:8080/stream/channelid/2129388128
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 3
-http://live-sg.cvacetv.ga:8080/stream/channelid/1043073498
+http://live-sg.cvacetv.ga/ESPN
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 4
-http://live-sg.cvacetv.ga:8080/stream/channelid/1149412499
+http://live-sg.cvacetv.ga/ESPN2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 5
 http://live-sg.cvacetv.ga:8080/stream/channelid/301731277
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 6
@@ -81,8 +81,7 @@ https://vips-livecdn.fptplay.net/hda3/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/Vie_Channel_logo.png/revision/latest?cb=20200510235050&path-prefix=vi", HTV2
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+http://live-vn.cvacetv.ga:8080/htv2
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htv3tv.vn/wp-content/uploads/2019/12/HTV3-DreamsTV-1.png", HTV3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
@@ -93,8 +92,7 @@ https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+http://live-vn.cvacetv.ga:8080/htvtt
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/SCTV3_See_TV_2021.png/revision/latest/scale-to-width-down/1000?cb=20211117121519&path-prefix=vi", SCTV3
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/chunklist_w253895996_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/SCTV9_logo.png/revision/latest/scale-to-width-down/200?cb=20211117121333&path-prefix=vi", SCTV9
@@ -110,9 +108,11 @@ http://live.vthanhtivi.pw:8080/vtvcab3
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1814?cb=20220403050655&path-prefix=vi", On Sports News
 http://live.vthanhtivi.pw:8080/vtvcab18
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/On_Sports_Plus_logo_2D.png/revision/latest?cb=20210728021318&path-prefix=vi", On Sports Plus
-https://api.vthanhtivi.pw/v1/getlink/vtvgo/196
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://livevlive.vtvcab.vn/hls/HAY_TV_1924/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/34/Yeah1TV.png", Yeah1 TV
-https://api.vthanhtivi.pw/v1/getlink/vtvgo/195
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAQ/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="http://youtv.vn/images/logo.png", YouTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
