@@ -62,7 +62,7 @@ https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/Logo_VTV_CanTho_2013.png/revision/latest/scale-to-width-down/220?cb=20220202125936&path-prefix=vi", VTV Cần Thơ
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://bit.ly/3yqY4rk", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/2560px-VTV9_logo_2013_final.svg.png", VTV9
@@ -192,8 +192,8 @@ https://live.hanoitv.vn/hntvlive/tv2live.m3u8
 http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://danangtv.vn/Images/drt1.png", Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://danangtv.vn/Images/drt2.png", Đà Nẵng 2
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png", Long An
+https://lms-public-ingest.swiftfederation.com/la34/tvlive-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png", Hải Phòng
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
@@ -229,8 +229,9 @@ https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png", Khánh Hòa
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/THGL_Gia_Lai-0.png/revision/latest/scale-to-width-down/1200?cb=20211020031618&path-prefix=vi", Gia Lai
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://kontumtv.vn/wp-content/themes/kontum/imgs/big_logo.png", Kon Tum
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://ttv11.vn/public/Home/images/logotayninh.png", Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://travinhtv.vn/images/TH/Logo.svg", Trà Vinh
