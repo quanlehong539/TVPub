@@ -119,8 +119,9 @@ https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAQ/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="http://youtv.vn/images/logo.png", YouTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/VTC_Now_logo.png/revision/latest?cb=20201207114555&path-prefix=vi", VTC Now
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665568812/ei/yztGY_CPO53r2roPp-Sc4AM/ip/103.140.250.237/id/IVLZu9ytdoQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCdXNsllhxufF4BE8yFudIEm332EimaQJmauBiEKwufQCID1TMfILPpVC8GbB08FAtNwfKiE47Nz_rVYBJD_ey_Zc/file/index.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/HTVC_Plus.png/revision/latest?cb=20210131020959&path-prefix=vi", HTVC Plus
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/7f/LogoHTVCGiaDinh2018.png/100px-LogoHTVCGiaDinh2018.png", HTVC Gia đình
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
