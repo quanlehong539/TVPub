@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fchainsaw-man-thumb.jpg&w=256&q=75", CHAINSAW MAN (T1)
+https://hd.hdbophim.com/20221011/23697_0e264b40/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fbleach-huyet-chien-ngan-nam-thumb.jpg&w=256&q=75", BLEACH: HUYẾT CHIẾN NGÀN NĂM (T1)
+https://1080.hdphimonline.com/20221010/36627_9027788c/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fblue-lock-thumb.jpg&w=256&q=75", NHÀ NGỤC SÂN CỎ (T1)
+https://1080.hdphimonline.com/20221008/36613_acdf9c76/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T1)
 https://kd.hd-bophim.com/20220629/16278_b4396351/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fnu-luat-su-ky-la-woo-young-woo-thumb.jpg&w=256&q=75", NỮ LUẬT SƯ KỲ LẠ WOO YOUNG WOO (T2)
@@ -63,6 +69,10 @@ https://kd.hd-bophim.com/20220915/21465_79a1759f/index.m3u8
 https://vie.haiphim.com/20220921/24973_ef8e13e0/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fgood-job-thumb.jpg&w=256&q=75", ĐỐI TÁC HOÀN HẢO (T10)
 https://vie.haiphim.com/20220922/24982_5681aad5/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fgood-job-thumb.jpg&w=256&q=75", ĐỐI TÁC HOÀN HẢO (T11)
+https://hd.hdbophim.com/20220929/22977_0e9547eb/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fgood-job-thumb.jpg&w=256&q=75", ĐỐI TÁC HOÀN HẢO (T12)
+https://vie.haiphim.com/20220929/25072_b4ffa1da/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fdua-tre-mat-tich-thumb.jpg&w=256&q=75", ĐỨA TRẺ BỊ MẤT TÍCH (T1)
 https://1080.hdphimonline.com/20220829/36062_6a740a90/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fdua-tre-mat-tich-thumb.jpg&w=256&q=75", ĐỨA TRẺ BỊ MẤT TÍCH (T2)
@@ -85,6 +95,8 @@ https://kd.hd-bophim.com/20220919/21678_8c52fdc1/index.m3u8
 https://vie.haiphim.com/20220920/24962_24e7f9af/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fdua-tre-mat-tich-thumb.jpg&w=256&q=75", ĐỨA TRẺ BỊ MẤT TÍCH (T11)
 https://vie.haiphim.com/20220926/25026_060256a6/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fdua-tre-mat-tich-thumb.jpg&w=256&q=75", ĐỨA TRẺ BỊ MẤT TÍCH (T12)
+https://vie.haiphim.com/20220927/25043_39da3897/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fhat-len-lan-nua-thumb.jpg&w=256&q=75", HÁT LÊN LẦN NỮA (T1)
 https://hd.hdbophim.com/20220827/21712_46045108/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fhat-len-lan-nua-thumb.jpg&w=256&q=75", HÁT LÊN LẦN NỮA (T2)
@@ -449,10 +461,16 @@ https://aa.nguonphimmoi.com/20220623/21591_2d3096bb/index.m3u8
 https://aa.nguonphimmoi.com/20220623/21592_fa0e0e47/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fyeu-tinh-goblin-thumb.jpg&w=256&q=75", YÊU TINH (T16)
 https://aa.nguonphimmoi.com/20220623/21593_9ad52586/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fbuong-giam-mat-na-thumb.jpg&w=256&q=75", BỆNH VIỆN NGỤY TRANG
+https://hd.1080phim.com/20220415/4043_273dbcf5/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Funder-the-open-sky-thumb.jpg&w=256&q=75", BẦU TRỜI RỘNG MỞ 
+https://aa.nguonphimmoi.com/20220319/4376_222d5937/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fdragon-ball-super-super-hero-thumb.jpg%3Fv%3D1&w=256&q=75", BẢY VIÊN NGỌC RỒNG SIÊU CẤP: SIÊU ANH HÙNG
 https://kd.hd-bophim.com/20220820/20406_f10c3ecb/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fdoraemon-nobita-va-cuoc-chien-vu-tru-ti-hon-thumb.jpg&w=256&q=75", DORAEMON: NOBITA VÀ CUỘC CHIẾN VŨ TRỤ TÍ HON
 https://hd.1080phim.com/20220815/26495_7571224c/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fjujutsu-kaisen-0-chu-thuat-hoi-chien-thumb.jpg&w=256&q=75", CHÚ THUẬT HỒI CHIẾN: TIỀN TRUYỆN
+https://hd.hdbophim.com/20220921/22596_53fb59ed/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fco-gai-vuot-thoi-gian-thumb.jpg&w=256&q=75", CÔ GÁI VƯỢT THỜI GIAN
 https://aa.nguonphimmoi.com/20220622/21369_7e3967c3/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fthe-blue-skies-at-your-feet-thumb.jpg&w=256&q=75", BẦU TRỜI XANH DƯỚI CHÂN CẬU
@@ -547,7 +565,7 @@ https://kd.hd-bophim.com/20220609/13749_90088561/index.m3u8
 https://aa.nguonphimmoi.com/20220310/2961_9089d2a3/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Ftran-chau-cang-thumb.jpg&w=256&q=75", TRÂN CHÂU CẢNG
 https://1080.hdphimonline.com/20220507/23686_2213f43f/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fits-a-summer-film-thumb.jpg&w=256&q=75", BỘ PHIM MÙA HÈ
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fits-a-summer-film-thumb.jpg&w=256&q=75", THƯỚC PHIM NGÀY HÈ
 https://kd.hd-bophim.com/20220616/14569_606ff92c/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://ophim.cc/_next/image?url=https%3A%2F%2Fimg.ophim.cc%2Fuploads%2Fmovies%2Fjosee-khi-nang-tho-yeu-thumb.jpg&w=256&q=75", JOSEE: KHI NÀNG THƠ YÊU
 https://aa.nguonphimmoi.com/20220220/636_9d6438af/index.m3u8
