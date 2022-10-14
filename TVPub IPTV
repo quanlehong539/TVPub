@@ -32,9 +32,9 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1120636137
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 2
 http://live-sg.cvacetv.ga:8080/stream/channelid/2129388128
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 3
-http://5.tcp.eu.ngrok.io:17498/CanalPlus1
+http://live-sg.cvacetv.ga:8080/stream/channelid/1343237403
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 4
-http://5.tcp.eu.ngrok.io:17498/CanalPlus2
+http://live-sg.cvacetv.ga:8080/stream/channelid/1187390163
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 5
 http://live-sg.cvacetv.ga:8080/stream/channelid/301731277
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 6
