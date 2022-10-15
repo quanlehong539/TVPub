@@ -24,7 +24,7 @@ https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live
 http://live-vn.cvacetv.ga:8080/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
-https://live.hpscamera.com/live/TVPub/index.m3u8
+https://singapore-1.onestream.studio/content/hls/live/live_1525014_cs0k5pgw2/hls.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://lirp-cdn.multiscreensite.com/b9b696b1/dms3rep/multi/opt/logogradient-1920w.png", LVTT Live
 http://live-vn.cvacetv.ga/lvtt/mpegts
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 1
@@ -238,7 +238,7 @@ https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://kontumtv.vn/wp-content/themes/kontum/imgs/big_logo.png", Kon Tum
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://ttv11.vn/public/Home/images/logotayninh.png", Tây Ninh
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_TTV11_Tay_Ninh_TV_25-02-2020.png", Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://travinhtv.vn/images/TH/Logo.svg", Trà Vinh
 #EXTVLCOPT:http-user-agent=VThanhTivi
