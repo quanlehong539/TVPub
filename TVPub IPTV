@@ -26,9 +26,9 @@ http://live-vn.cvacetv.ga:8080/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 1
 http://live-vn.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
-
+http://live-vn.cvacetv.ga:8080/live2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CqYE7zqGyWKWhyg4-nlzCCCoiISh7JN9KM2NI_CWuBZrKse9kr6Evn4ZdVkw8THWLdO9GhvPo7PRWhCgalw6v6NCnxlcctViXITh-VPMd0_EcfCHQOkS_cg9tCUZ6YsHFm4hgvvrLBlYhhLls8Kt3GNwoAhv2NbCIHCQc6ldtL_9Q4AKZhYm4Z4elJj5ECXjEZ_z3DqvvJU09M5QWgMlLDv_6faXcaMDLsW4lOq9aOhdmx6kRxx-MOpYmP7QDrIRrzfiPKwGNA-H1U1NjG40o_5HH5sYdxb45PcLEo-BiR1GVlH-XkF7_gi_DLDKd4Q3XwkZ6rTvQEGH0DLXXLeNaYhZmwMTuXX_gfCe-W3Lt9Vca5BCMo77aMNCLjBHe2J3NdOZ6B9oePfT-xk7ZLuD-YwxsmOqtiVeux_CgriMKLl6-0vtzG4Eml6yBPCofdXAHjupKfWkigB1bQDLpxRq6GvGZ6LHgB0AYgKQOj6Cj5p6fQswl_4Ym97EoWF-SPXsdYxo7oVNA0V9z5Q_Fj60UcxIt-HtsE3hxxtg3Qs2ArVLqAHuRAoNAqftzCto3fOHA6cREBhPRJUWyaPj0mWGSgyImBaAauQSCx9vE8OvK46QeXdCY9vsWHSf0eelTo9uAlxnXuyB-rlUJszu5R9JvpziWQ4hZscJBBNZLVNRKlUytpOWt_5FWi7X72-MrY3HgCUuhvXtrLWWG06HUZzpBn2xfE_Nwq0LUBoMh7EITwMI88vphxXiIAEqCXVzLXdlc3QtMjD3BA.m3u8
+
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://lirp-cdn.multiscreensite.com/b9b696b1/dms3rep/multi/opt/logogradient-1920w.png", LVTT Live
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 1
@@ -170,10 +170,10 @@ https://sub2.neetball.net/live/neet.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUGrc_kWbzm3U8KiXgrn95kZfFA4CRM_w0nQgEdbhauB_LJuCVZ3IQrcX_UczKNnCV1uaDINtJzULeMa1WywqVN_ypm32OJIeP0oklqYt_qh7v7J-og2Lp0EL4t12UZ1u8nraRaclNT0WRXYDT0e-16CzFaIeja6sWWNPjStROA6UrZr3g-KTv6pBe/s320/esports247_app_livechannels_1920x1080.jpg", Esports 24/7
-https://live-lunaott.akamaized.net/esport247_ottera/975f1d27-2546-4e05-89b7-554d52ca11ea_PreRoll_1080p/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWXGCU3Gh47M5V4p2IkTITRV6YjAWxA6aj6lCSNQw9mJzpUs-7F59uxP1blpBTxjnm6CVcmM-DyQ6PeuDACbEZvTQvl2xtZRTECAQuK-wumIB2Q3NKqs0VdQvlL5km2yf2Fn_vUuVv837ykbh6L54U-JHg-Ert32EUX12IBjRiJ8aQKr_VqyY-LY8b/s320/screamflix_channelthumbnail_livetvhomepage_1920x1080_0.jpg", Scream Flix
-https://live-lunaott.akamaized.net/screamflix_ottera/b4d77e59-15bd-4051-8a87-e59cb767c625_PreRoll_720p/chunklist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png",EBS1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/2560px-EBS_2_logo.svg.png",EBS2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png", Blue Ant Extreme
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
