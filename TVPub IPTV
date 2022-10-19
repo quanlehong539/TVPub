@@ -17,7 +17,7 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d7/Logo-NhanDan.png", Nhân Dân
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1935301625.m3u8
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg/800px-Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg.png", Quốc Hội
-http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
+https://media.quochoitv.vn/live/qhtv_720p/chunklist_b1628000.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
@@ -36,9 +36,9 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1120636137
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 2
 http://live-sg.cvacetv.ga:8080/stream/channelid/2129388128
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 3
-http://live-sg.cvacetv.ga:8080/stream/channelid/1343237403
+http://live-vn.cvacetv.ga:9981/stream/channelid/2011491260
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 4
-http://live-sg.cvacetv.ga:8080/stream/channelid/1187390163
+http://live-vn.cvacetv.ga:9981/stream/channelid/1451071581
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 5
 http://live-sg.cvacetv.ga:8080/stream/channelid/301731277
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 6
