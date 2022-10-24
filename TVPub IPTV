@@ -108,6 +108,8 @@ http://live-vn.cvacetv.ga:8080/htvtt
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/chunklist_w253895996_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/SCTV9_logo.png/revision/latest/scale-to-width-down/200?cb=20211117121333&path-prefix=vi", SCTV9
 https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/chunklist_w774796140_b1692000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/SCTV11_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20210821040108&path-prefix=vi", SCTV11
+https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest/scale-to-width-down/1000?cb=20211211011115&path-prefix=vi", SCTV15
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist_w812674288_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/SCTV17_SSport.png/revision/latest/scale-to-width-down/1000?cb=20211211011123&path-prefix=vi", SCTV17
@@ -131,9 +133,6 @@ https://livevlive.vtvcab.vn/hls/OS_THETHAO_GOLF_HD/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="http://youtv.vn/images/logo.png", YouTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/HTVC_Plus.png/revision/latest?cb=20210131020959&path-prefix=vi", HTVC Plus
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/7f/LogoHTVCGiaDinh2018.png/100px-LogoHTVCGiaDinh2018.png", HTVC Gia đình
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
