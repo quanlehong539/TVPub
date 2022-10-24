@@ -45,7 +45,7 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1472356433
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 7
 http://live-sg.cvacetv.ga:8080/stream/channelid/571322026
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 8
-http://125.212.231.123:8080/ksport1/mpegts
+http://live-sg.cvacetv.ga:8080/stream/channelid/1017563489
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 9
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
