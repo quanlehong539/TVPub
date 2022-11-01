@@ -27,23 +27,23 @@ https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://live-vn.cvacetv.ga:8080/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 1
-http://live-vn.cvacetv.ga:8880/stream/channelid/1650652848
+http://live-vn.cvacetv.ga:8880/stream/channelid/78844952
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 2
-http://live-vn.cvacetv.ga:8880/stream/channelid/2021115150
+http://live-vn.cvacetv.ga:8880/stream/channelid/546626316
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
-http://live-sg.cvacetv.ga:8080/stream/channelid/1642444086
+http://live-vn.cvacetv.ga:8880/stream/channelid/651398353
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
-http://live-vn.cvacetv.ga:8880/stream/channelid/1990641538
+http://live-sg.cvacetv.ga:8080/stream/channelid/1642444086
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
-http://live-vn.cvacetv.ga:8880/stream/channelid/1597536732
+http://live-vn.cvacetv.ga:8880/stream/channelid/1990641538
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 6
-http://live-sg.cvacetv.ga:8080/stream/channelid/1472356433
+http://live-vn.cvacetv.ga:8880/stream/channelid/1597536732
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 7
-http://live-sg.cvacetv.ga:8080/stream/channelid/571322026
+http://live-sg.cvacetv.ga:8080/stream/channelid/1472356433
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 8
-http://live-sg.cvacetv.ga:8080/stream/channelid/1017563489
+http://live-sg.cvacetv.ga:8080/stream/channelid/571322026
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 9
-http://live-sg.cvacetv.ga:8080/stream/channelid/136281050
+http://live-sg.cvacetv.ga:8080/stream/channelid/1017563489
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 10
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
