@@ -33,9 +33,9 @@ http://live-vn.cvacetv.ga:8880/stream/channelid/546626316
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
 http://live-vn.cvacetv.ga:8880/stream/channelid/651398353
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
-http://live-sg.cvacetv.ga:8080/stream/channelid/1120636137
+http://live3.cvacetv.ga:8080/stream/channelid/1229260875
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
-http://live-sg.cvacetv.ga:8080/stream/channelid/2129388128
+http://live3.cvacetv.ga:8080/stream/channelid/1466833630
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 6
 http://live-sg.cvacetv.ga:8080/stream/channelid/264345559
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 7
@@ -110,9 +110,6 @@ https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist_w812674288_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/SCTV17_SSport.png/revision/latest/scale-to-width-down/1000?cb=20211211011123&path-prefix=vi", SCTV17
 https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist_w760089870_b1692000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/ON_Football_TV_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023748&path-prefix=vi", On Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
-https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023726&path-prefix=vi", On Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_HD/sc-gaFEAA/m30_index.m3u8
@@ -122,6 +119,9 @@ https://livevlive.vtvcab.vn/hls/OS_THETHAO_TINTUC_HD/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/On_Sports_Plus_logo_2D.png/revision/latest?cb=20210728021318&path-prefix=vi", On Sports Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://livevlive.vtvcab.vn/hls/HAY_TV_1924/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/ON_Football_TV_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023748&path-prefix=vi", On Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5e/ON_Golf_TV_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023800&path-prefix=vi", On Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_GOLF_HD/sc-gaFEAA/m30_index.m3u8
