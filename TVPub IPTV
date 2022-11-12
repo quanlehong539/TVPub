@@ -31,13 +31,13 @@ http://live-vn.cvacetv.ga:8880/stream/channelid/2011491260
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 2
 http://live-vn.cvacetv.ga:8880/stream/channelid/1451071581
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
-http://live-sg.cvacetv.ga:8080/stream/channelid/264345559
+http://live3.cvacetv.ga:8080/stream/channelid/2103119835
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
-http://live-sg.cvacetv.ga:8080/stream/channelid/1472356433
+http://live3.cvacetv.ga:8080/stream/channelid/1423012514
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
-http://live-sg.cvacetv.ga:8080/stream/channelid/571322026
+http://live3.cvacetv.ga:8080/stream/channelid/273211888
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 6
-http://live-sg.cvacetv.ga:8080/stream/channelid/1017563489
+http://live3.cvacetv.ga:8080/stream/channelid/1245579723
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 7
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
