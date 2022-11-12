@@ -21,7 +21,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1935301625.m3u
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
-https://hls.c1.omlet.gg/live/GIZTKLJYG4WTQOJNGE3DGLJSGE3S2MRUFUZDAOJNGE3TCLJRGQ3S2OJVFU2DCLJUGMWTEMRSFUYTSNRNGE4C2MJQGQ/playlist.m3u8?sc=TWO&cdn=NginxCNC
+http://live3.cvacetv.ga:8080/stream/channelid/140459395
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
