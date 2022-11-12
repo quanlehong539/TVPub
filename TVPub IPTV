@@ -176,7 +176,7 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://iaspr.tmgrup.com.tr/v2/i/aspor-logo.png", A Spor
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=enJL_UrddSk
+https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?st=7sHOQgptDoCOE18gQ2rSKQ&e=1668295885&sid=4w2s62o4axla&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.taiwanplus.com/assets/img/footer_logo.svg?v=3", TaiwwanPlus
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dZp87qnWelE
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Vg_new_logo.png", Vanguard Channel
