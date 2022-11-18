@@ -226,8 +226,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=OODSN3I0VmI
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.taiwanplus.com/assets/img/footer_logo.svg?v=3", TaiwanPlus
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dZp87qnWelE
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Vg_new_logo.png", Vanguard Channel
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EhHaIZosgWk
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.e-muse.com.sg/wp-content/uploads/2019/07/museasia_logo_v4_png-01.png", Muse Asia
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=j4jOnXQKSVY
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
