@@ -38,14 +38,14 @@ https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="K+ 🐧" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/1000?cb=20220127020318&path-prefix=vi", K+ CINE
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=RainTv 
+https://raintv.tk/get/cliptv/Box-Movie-1/playlist.m3u8
 #EXTINF:-1 group-title="K+ 🐧" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/1000?cb=20220127020322&path-prefix=vi", K+ LIFE
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=RainTv 
+https://raintv.tk/get/cliptv/Woman/playlist.m3u8
 #EXTINF:-1 group-title="K+ 🐧" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/1000?cb=20220127020331&path-prefix=vi", K+ KIDS
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=RainTv 
+https://raintv.tk/get/cliptv/Happy-Kids/playlist.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
