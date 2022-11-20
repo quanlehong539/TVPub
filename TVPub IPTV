@@ -53,10 +53,10 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 
 #EXTINF:-1 group-title="KPLUS 🐧" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/1000?cb=20220127020318&path-prefix=vi", KPLUS CINE
 #EXTVLCOPT:http-user-agent=RainTv 
-https://raintv.tk/cliptv/981f99d2f21e619f902641f463e49a974ff81138/Box-Movie-1
+https://raintv.tk/cliptv/6df3cf08565ec7660d8d88350cef39bc681ac02c/Box-Movie-1
 #EXTINF:-1 group-title="KPLUS 🐧" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/1000?cb=20220127020322&path-prefix=vi", KPLUS LIFE
 #EXTVLCOPT:http-user-agent=RainTv 
-https://raintv.tk/cliptv/981f99d2f21e619f902641f463e49a974ff81138/Woman
+https://raintv.tk/cliptv/6df3cf08565ec7660d8d88350cef39bc681ac02c/Woman
 #EXTINF:-1 group-title="KPLUS 🐧" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/1000?cb=20220127020325&path-prefix=vi", KPLUS SPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
@@ -65,7 +65,7 @@ https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
 https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="KPLUS 🐧" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/1000?cb=20220127020331&path-prefix=vi", KPLUS KIDS
 #EXTVLCOPT:http-user-agent=RainTv 
-https://raintv.tk/cliptv/981f99d2f21e619f902641f463e49a974ff81138/Happy-Kids
+https://raintv.tk/cliptv/6df3cf08565ec7660d8d88350cef39bc681ac02c/Happy-Kids
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
 http://sg.cvacetv.ga:8080/stream/channelid/1560768115
