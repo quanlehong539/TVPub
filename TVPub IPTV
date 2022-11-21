@@ -221,14 +221,15 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", Kix
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/small_283fe3d945c4efdc8fbced8185065ba6e5460760.png", Riyadiya 1
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vI7Fmg4wKts
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/small_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png", Riyadiya 2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=OODSN3I0VmI
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.taiwanplus.com/assets/img/footer_logo.svg?v=3", TaiwanPlus
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dZp87qnWelE
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202109/20210930/20210930184212950ddn.png", SPOTV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/CinemaWorld_Our_World_of_Films.png/revision/latest?cb=20220707061529&path-prefix=vi", CinemaWorld
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/440px-TV_Asahi_Logo.svg.png", TV Asahi
+http://123.30.146.168:21585/1304/video.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-logo.png", SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1668750862~exp=9007200923491853~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=de9b2f157cf711fdce6ac26cb4520f4947ee0e56899df3bd4526b352e207d839
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-2-logo.png", SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1669024425~exp=9007200923765416~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_1/chunklist.m3u8*~hmac=eef66ad5e84c8c1039f2ba43f79083c87f22c1156095c1adb08dc7801a8f66ec
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
