@@ -35,15 +35,15 @@ http://live.vthanhtivi.pw:8080/vtv3
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV5 SV2
 http://live.vthanhtivi.pw:8080/vtv5
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV CẦN THƠ SV2
-https://wallpapermeter.tk/worldcup/vtvcanthomytv
+http://live.vthanhtivi.pw:8080/vtvct
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV2 SV3
-http://live2.vthanhtivi.pw/vtv2
+http://bolero.myftp.org:6001/stream/channelid/768326915?profile=pass
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV3 SV3
-http://live2.vthanhtivi.pw/vtv3
+http://bolero.myftp.org:6001/stream/channelid/165907585?profile=pass
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV5 SV3
-http://live2.vthanhtivi.pw/vtv5
+http://bolero.myftp.org:6001/stream/channelid/706696953?profile=pass
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV CẦN THƠ SV3
-http://27.72.63.63:9981/stream/channelid/1082408882?auth=PmoC-yNH1P-xfEIRR4sxZEHcVoeg&profile=pass
+https://wallpapermeter.tk/worldcup/vtvcantho
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV5 TÂY NAM BỘ SV1
 http://live.vthanhtivi.pw:8080/vtv5tnb
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV5 TÂY NAM BỘ SV2
