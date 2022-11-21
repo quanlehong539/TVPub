@@ -164,16 +164,16 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist_w760089870_b1692000.m3
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/Box_Movie_1_logo_2018_3D.png/revision/latest?cb=20221121032414&path-prefix=vi", Box Movie
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/cliptv.php?id=822
-#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/Dr._Fit_logo_3D.png/revision/latest?cb=20220720011330&path-prefix=vi", Dr.Fit
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://tvprofil.com/img/kanali-logo/Dr_Fit_logo.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/cliptv.php?id=823
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi", Happy Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/cliptv.php?id=824
-#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/Planet_Earth_logo.png/revision/latest/scale-to-width-down/1000?cb=20220714132655&path-prefix=vi", Planet Earth
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://tvprofil.com/img/kanali-logo/Planet_earth_logo.png", Planet Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/cliptv.php?id=826
-#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/40/WOMAN_logo_3D.png/revision/latest?cb=20220713121123&path-prefix=vi", Woman
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://tvprofil.com/img/kanali-logo/woman_logo.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/cliptv.php?id=827
 
