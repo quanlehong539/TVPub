@@ -64,7 +64,7 @@ https://api.anttv.xyz/cliptv.php?id=826
 https://api.anttv.xyz/cliptv.php?id=827
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
-http://sg.cvacetv.ga:8080/stream/channelid/1560768115
+http://vn2.cvacetv.ga/TVP_Sport
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
@@ -76,11 +76,11 @@ http://sg.cvacetv.ga:8080/stream/channelid/1705267767
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
 http://vn2.cvacetv.ga/matchtv
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
-http://sg.cvacetv.ga:8080/stream/channelid/1423012514
+http://vn2.cvacetv.ga/futbol1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
-http://sg.cvacetv.ga:8080/stream/channelid/273211888
+http://vn2.cvacetv.ga/futbol2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 6
-http://sg.cvacetv.ga:8080/stream/channelid/1245579723
+http://vn2.cvacetv.ga/futbol3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 7
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
