@@ -33,23 +33,23 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV1 SV1
-http://vn1.cvacetv.ga/vtv1
+http://vn2.cvacetv.ga/vtv1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV2 SV1
-http://vn1.cvacetv.ga/vtv2
+http://vn2.cvacetv.ga/vtv2
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV3 SV1
-http://vn1.cvacetv.ga/vtv3
+http://vn2.cvacetv.ga/vtv3
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV5 SV1
-http://vn1.cvacetv.ga/vtv5
+http://vn2.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV CẦN THƠ SV1
 https://wallpapermeter.tk/worldcup/vtvcanthomytv
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV1 SV2
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/vtv1@high.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV2 SV2
-http://live2.vthanhtivi.pw/vtv2
+http://sg.cvacetv.ga/vtv2
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV3 SV2
-http://vn2.cvacetv.ga/vtv3
+http://sg.cvacetv.ga/vtv3
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV5 SV2
-http://live2.vthanhtivi.pw/vtv5
+http://sg.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV CẦN THƠ SV2
 http://live2.vthanhtivi.pw/vtvct
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV5 TÂY NAM BỘ
@@ -291,7 +291,7 @@ https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://tv.tubep.sale/bep40tv.gif", Bep4.0 TV
 http://42.96.3.70:8081/hls/0/stream.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
-http://vn1.cvacetv.ga/4KUHD
+http://sg.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 1
 http://sg.cvacetv.ga:8080/stream/channelid/684151253
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 2
