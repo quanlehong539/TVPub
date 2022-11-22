@@ -207,8 +207,6 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305", Discovery Asia
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", Sky News
-https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png", Fashion TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
@@ -218,32 +216,34 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png", Animax
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w500-q80/hero/bp_mtv_new_200pxh.png", MTV
-http://sg.cvacetv.ga/MTV
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png", Russia Today
-https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
-https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS
-http://sg.cvacetv.ga/SBS
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png", MBC
-http://sg.cvacetv.ga/MBC
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png", Blue Ant Extreme
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png", Blue Ant Entertainment
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png", TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", Kix
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/CinemaWorld_Our_World_of_Films.png/revision/latest?cb=20220707061529&path-prefix=vi", CinemaWorld
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/440px-TV_Asahi_Logo.svg.png", TV Asahi
-http://123.30.146.168:21585/1304/video.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w500-q80/hero/bp_mtv_new_200pxh.png", MTV
+http://sg.cvacetv.ga/MTV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS
+http://vn2.cvacetv.ga/SBS
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png", MBC
+http://vn2.cvacetv.ga/MBC
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png",History
+http://sg.cvacetv.ga/History
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png", TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png", Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-logo.png", SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1668750862~exp=9007200923491853~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=de9b2f157cf711fdce6ac26cb4520f4947ee0e56899df3bd4526b352e207d839
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-2-logo.png", SPOTV2
