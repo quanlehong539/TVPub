@@ -285,7 +285,7 @@ https://tv.tchgroup.vn/live/tv_web/chunklist_w714756963.m3u8
 https://tv.thbl.vn/live/tv/tv.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
-https://hls.c1.omlet.gg/live/GIZTKLJYG4WTQOJNGE3DGLJSGE3S2MRUFUZDAOJNGE3TCLJRGQ3S2OJVFU2DCLJUGMWTEMRSFUYTSNRNGE4C2MJQGQ/playlist.m3u8?sc=TWO&cdn=NginxCNC
+http://vn2.cvacetv.ga/TVP_Sport
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://tv.tubep.sale/bep40tv.gif", Bep4.0 TV
