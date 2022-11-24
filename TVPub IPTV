@@ -3,9 +3,9 @@
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png", VTC1 HD
+#EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://nds-static.vtc.gov.vn/category/c37ffafd-7c9d-4905-800c-7c4751a69ee6/VTC1.png", VTC1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+https://hqth.me/VTC1
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest?cb=20201020100923&path-prefix=vi", VNews HD
 https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV HD
@@ -40,44 +40,6 @@ http://sg.cvacetv.ga/vtv5
 http://live2.vthanhtivi.pw/vtvct
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV5 TÂY NAM BỘ
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
-
-#EXTINF:-1 group-title="KPLUS" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/1000?cb=20220127020318&path-prefix=vi", KPLUS CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WSOoLfEU9x+SVh2DNLK1Bw", "kid":"8q6cYhpwQ0uC8X2dzfn6Aw" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
-#EXTINF:-1 group-title="KPLUS" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/1000?cb=20220127020322&path-prefix=vi", KPLUS LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5ln9IHAeQkbq7Otd3hj7jQ", "kid":"n9uAn0b4S1WZGtEwxe4tJA" } ], "type":"temporary" }
-https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:-1 group-title="KPLUS" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/1000?cb=20220127020325&path-prefix=vi", KPLUS SPORT1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBVxtyB3u+BMXXSKa1YcFQ", "kid":"edXcCn9xTimAENoGOyIVWw" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-#EXTINF:-1 group-title="KPLUS" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/1000?cb=20220127020328&path-prefix=vi", KPLUS SPORT2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VA6PFy/RdEer0tdTxQRI5A", "kid":"+EfokHt0QOiD+kmWwUVubw" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-#EXTINF:-1 group-title="KPLUS" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/1000?cb=20220127020331&path-prefix=vi", KPLUS KIDS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iFHffZunOHkTwG+i2az+3w", "kid":"OTa6v8nsQoqTcoV/trUXaQ" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
-#EXTINF:-1 group-title="KPLUS" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/K%2B_Live_1.png/revision/latest/scale-to-width-down/1000?cb=20211013135146&path-prefix=vi", KPLUS LIVE 1
-#EXTVLCOPT:http-user-agent=VAgroup
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E/lKqaCoDSJDGmE4sm8uqA", "kid":"oQmXPyCPRAWImODH6+Mezg" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd
-#EXTINF:-1 group-title="KPLUS" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/K%2B_Live_2.png/revision/latest/scale-to-width-down/1000?cb=20211013135722&path-prefix=vi", KPLUS LIVE 2
-#EXTVLCOPT:http-user-agent=VAgroup 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1Ry0WuVnmgE1q32jGSbL2g", "kid":"Zvp32FYbRrOGuMbvOajJxA" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
-#EXTINF:-1 group-title="KPLUS" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/K%2B_Live_3.png/revision/latest/scale-to-width-down/1000?cb=20211013135816&path-prefix=vi", KPLUS LIVE 3
-#EXTVLCOPT:http-user-agent=VAgroup
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+D2eVPPkivNNYc1PcsT7Xg", "kid":"kvV7YfJMTz+8oe/bDTMvuA" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
 http://vn2.cvacetv.ga/TVP_Sport
@@ -132,16 +94,34 @@ https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/41654c39-f705-4397-900e-2082bb3ff5b4/VTC2.png", VTC2
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+https://hqth.me/VTC2
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/13190053-0698-4961-aab2-fc818f1073f1/VTC3.png", VTC3 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+https://hqth.me/VTC3
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/1176749e-606e-4548-916b-501b21ab60dc/VTC4.png", VTC4 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/d2ed3274-4189-425c-84bb-14f37228a654/VTC12.png", VTC12
+https://hqth.me/VTC4
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/cb4735b6-c8f0-4a4b-b652-48052c3c3f2f/VTC7.png", VTC7
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+https://hqth.me/VTC7
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/a05801d0-15c0-410c-878c-61df7455a0db/VTC8.png", VTC8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://hqth.me/VTC8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/077d0aaa-1515-42e0-89f0-9ee3f272486e/VTC9.png", VTC9
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://hqth.me/VTC9
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/9dca943b-bd27-4c04-9033-685da7b480f8/VTC10.png", VTC10
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://hqth.me/VTC10
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/3baf4176-314c-4d30-af08-3bc27b0b72d4/VTC11.png", VTC11
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://hqth.me/VTC11
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/8d941459-10fc-4aec-9547-b85e6361ffee/VTC13.png", VTC13
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://hqth.me/VTC13
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/358253cb-196c-4148-a402-acd516ff134a/VTC14.png", VTC14
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://hqth.me/VTC14
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/Vie_Channel_logo.png/revision/latest?cb=20200510235050&path-prefix=vi", Vie Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
