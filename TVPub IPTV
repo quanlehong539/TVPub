@@ -116,15 +116,15 @@ https://hqth.me/VTC9
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/9dca943b-bd27-4c04-9033-685da7b480f8/VTC10.png", VTC10 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://hqth.me/VTC10
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/3baf4176-314c-4d30-af08-3bc27b0b72d4/VTC11.png", VTC11
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://hqth.me/VTC11
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/8d941459-10fc-4aec-9547-b85e6361ffee/VTC13.png", VTC13 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://hqth.me/VTC13
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/358253cb-196c-4148-a402-acd516ff134a/VTC14.png", VTC14 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://hqth.me/VTC14
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/ba8d4e15-9675-49dd-9dc1-2970ae85663b/VTC16.png", VTC16 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://hqth.me/VTC16
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/Vie_Channel_logo.png/revision/latest?cb=20200510235050&path-prefix=vi", Vie Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
