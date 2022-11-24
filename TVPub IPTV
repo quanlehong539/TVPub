@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
