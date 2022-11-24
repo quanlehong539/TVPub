@@ -293,17 +293,17 @@ http://42.96.3.70:8081/hls/0/stream.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://sg.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 1
-http://0.tcp.ngrok.io:19970/FS1
+http://vn2.cvacetv.ga/BBC1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 2
-http://0.tcp.ngrok.io:19970/FS2
+http://vn2.cvacetv.ga/ITV
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
 http://vn2.cvacetv.ga/matchtv
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
-http://vn2.cvacetv.ga/futbol1
+http://vn1.cvacetv.ga/futbol1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
-http://vn2.cvacetv.ga/futbol2
+http://vn1.cvacetv.ga/futbol2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 6
-http://vn2.cvacetv.ga/futbol3
+http://vn1.cvacetv.ga/futbol3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT2/sc-gaFEAA/m30_index.m3u8
