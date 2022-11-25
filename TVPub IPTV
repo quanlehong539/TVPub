@@ -183,6 +183,8 @@ https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.pngkit.com/png/full/223-2235483_hbo-logo-black-and-white-french-flag-1815.png", HBO
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -233,8 +235,6 @@ https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1668750862~exp=9007200923491853~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=de9b2f157cf711fdce6ac26cb4520f4947ee0e56899df3bd4526b352e207d839
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-2-logo.png", SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1669024425~exp=9007200923765416~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_1/chunklist.m3u8*~hmac=eef66ad5e84c8c1039f2ba43f79083c87f22c1156095c1adb08dc7801a8f66ec
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png", Aniplus
-https://hqth.me/ANIPLUS
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w500-q80/hero/bp_mtv_new_200pxh.png", MTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
