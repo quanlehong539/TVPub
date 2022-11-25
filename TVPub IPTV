@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 aspect-ratio=16:9
+#EXTM3U
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -216,6 +216,8 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", Kix
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png", EDGE Sport
+https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/CinemaWorld_Our_World_of_Films.png/revision/latest?cb=20220707061529&path-prefix=vi", CinemaWorld
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
@@ -236,8 +238,6 @@ https://hqth.me/ANIPLUS
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w500-q80/hero/bp_mtv_new_200pxh.png", MTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/640px-Logo_of_the_Korean_Central_Television.svg.png", KCTV
-https://hqth.me/KCTV
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
