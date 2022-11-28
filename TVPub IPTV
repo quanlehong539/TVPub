@@ -241,6 +241,10 @@ https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://danangtv.vn/Images/drt1.png", Đà Nẵng 1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623744314channel3_DN2.png", Đồng Nai 2 HD
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/255/3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo-"https://mediadrt.mediatech.vn/upload/files/image/logo.png", Đắk Lắk HD
+http://103.90.220.236/drtlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png", Long An HD
 https://lms-public-ingest.swiftfederation.com/la34/tvlive-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png", Hải Phòng HD
@@ -282,12 +286,8 @@ https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_TTV11_Tay_Ninh_TV_25-02-2020.png", Tây Ninh HD
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://vinhphuctv.vn/Portals/4/images/logo-vp.png", Vĩnh Phúc HD
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_THTPCT.png/800px-Logo_THTPCT.png", TP Cần Thơ HD
 https://tv.tchgroup.vn/live/tv_web/chunklist_w714756963.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/85/Logo_%C4%90%C3%A0i_PT-TH_B%E1%BA%A1c_Li%C3%AAu.png", Bạc Liêu HD
-https://tv.thbl.vn/live/tv/tv.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
 https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
