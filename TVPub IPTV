@@ -31,7 +31,7 @@ http://vn2.cvacetv.ga/vtv5
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV CẦN THƠ SV1
 https://wallpapermeter.tk/worldcup/vtvcanthomytv
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV1 SV2
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/vtv1@high.m3u8
+http://192.168.31.1:4025/rtp/232.84.1.117:10254
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV2 SV2
 http://sg.cvacetv.ga/vtv2
 #EXTINF:-1 group-title="VTV (FIFA WORLD CUP 2022)" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV3 SV2
@@ -68,17 +68,17 @@ https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
-http://vn2.cvacetv.ga/4KUHD
+http://live4k.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 1
-http://vn2.cvacetv.ga/matchtv
+http://sg.cvacetv.ga/TSN1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 2
-http://vn2.cvacetv.ga/futbol1
+http://sg.cvacetv.ga/TSN2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
-http://vn2.cvacetv.ga/futbol2
+http://sg.cvacetv.ga:8080/stream/channelid/1423012514
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
-http://vn2.cvacetv.ga/futbol3
+http://sg.cvacetv.ga:8080/stream/channelid/273211888
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
-http://sg.cvacetv.ga:8080/stream/channelid/2103119835
+http://sg.cvacetv.ga:8080/stream/channelid/1245579723
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 6
 http://sg.cvacetv.ga/FS1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 7
