@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="BATV" tvg-logo="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/316563738_817514646196363_987257921261371175_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=UOJo45Ytu1oAX_H6hfd&_nc_ht=scontent.fhan18-1.fna&oh=03_AdQQvpWH_GebE20Azljh1pKhc2PiDEv8KOmWUwB5VXA4TA&oe=63AC7149", BATV - Quán Truyền Hình OTT
+https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -290,8 +293,6 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://tv.tubep.sale/bep40tv.gif", Bep4.0 TV
-http://42.96.3.70:8081/hls/0/stream.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://live4k.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 1
