@@ -32,11 +32,6 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="TVPUB" tvg-logo="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/316161987_1175176263398891_5942271966390323029_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=6jlhh4jxXeYAX_vnTEW&_nc_ht=scontent.fhan18-1.fna&oh=03_AdQNYrLFUD9RBXalv3lHL4nn8tF92Ulw_IJpIE2OD7XNvg&oe=63AC6C8E", BATV
-https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="TVPUB" tvg-logo="https://bit.ly/3CmRMMf", TVPub
-https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
-
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV1 SV1
 http://vn2.cvacetv.ga/vtv1
 #EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://file1.dangcongsan.vn/data/0/images/2022/10/27/upload_2676/world-cup-vtv-8096.jpg", VTV2 SV1
@@ -97,6 +92,12 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1935301625.m3u
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg/800px-Logo_Qu%E1%BB%91c_H%E1%BB%99i_%28Truy%E1%BB%81n_h%C3%ACnh%29_from_3.6.2022.svg.png", Quốc Hội HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="TVPUB" tvg-logo="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/316161987_1175176263398891_5942271966390323029_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=6jlhh4jxXeYAX_vnTEW&_nc_ht=scontent.fhan18-1.fna&oh=03_AdQNYrLFUD9RBXalv3lHL4nn8tF92Ulw_IJpIE2OD7XNvg&oe=63AC6C8E", BATV
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="TVPUB" tvg-logo="https://bit.ly/3CmRMMf", TVPub
+https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 
 #EXTINF:-1 group-title="DATVIETVAC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/Vie_Channel_logo.png/revision/latest?cb=20200510235050&path-prefix=vi", Vie Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
