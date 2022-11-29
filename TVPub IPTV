@@ -136,11 +136,6 @@ https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_GOLF_HD/sc-gaFEAA/m30_index.m3u8
 
-#EXTINF:-1 group-title="TVPUB" tvg-logo="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/316161987_1175176263398891_5942271966390323029_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=6jlhh4jxXeYAX_vnTEW&_nc_ht=scontent.fhan18-1.fna&oh=03_AdQNYrLFUD9RBXalv3lHL4nn8tF92Ulw_IJpIE2OD7XNvg&oe=63AC6C8E", BATV
-https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
-#EXTINF:-1 group-title="TVPUB" tvg-logo="https://bit.ly/3CmRMMf", TVPub
-https://vtsstr4.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qDYDacAAF2KI?format=png", SCTV3
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/chunklist_w253895996_b1692000.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9
@@ -151,6 +146,11 @@ https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist_w812674288_b1692000.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
 https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist_w760089870_b1692000.m3u8
+
+#EXTINF:-1 group-title="TVPUB" tvg-logo="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/316161987_1175176263398891_5942271966390323029_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=6jlhh4jxXeYAX_vnTEW&_nc_ht=scontent.fhan18-1.fna&oh=03_AdQNYrLFUD9RBXalv3lHL4nn8tF92Ulw_IJpIE2OD7XNvg&oe=63AC6C8E", BATV
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+#EXTINF:-1 group-title="TVPUB" tvg-logo="https://bit.ly/3CmRMMf", TVPub
+https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/Box_Movie_1_logo_2018_3D.png/revision/latest?cb=20221121032414&path-prefix=vi", Box Movie
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
