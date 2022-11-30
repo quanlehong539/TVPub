@@ -147,11 +147,6 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist_w812674288_b1692
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
 https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist_w760089870_b1692000.m3u8
 
-#EXTINF:-1 group-title="TVPUB" tvg-logo="https://bit.ly/3CmRMMf", TVPub
-https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
-#EXTINF:-1 group-title="TVPUB" tvg-logo="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/316161987_1175176263398891_5942271966390323029_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=6jlhh4jxXeYAX_vnTEW&_nc_ht=scontent.fhan18-1.fna&oh=03_AdQNYrLFUD9RBXalv3lHL4nn8tF92Ulw_IJpIE2OD7XNvg&oe=63AC6C8E", BATV
-https://vtsstr4.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/Box_Movie_1_logo_2018_3D.png/revision/latest?cb=20221121032414&path-prefix=vi", Box Movie
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/cliptv.php?id=822
@@ -291,20 +286,24 @@ http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_THTPCT.png/800px-Logo_THTPCT.png", TP Cần Thơ HD
 https://tv.tchgroup.vn/live/tv_web/chunklist_w714756963.m3u8
 
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3CmRMMf", TVPub Live
+https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://tv.tubep.sale/bep40tv.gif", Bep4.0 TV
+http://42.96.3.70:8081/hls/0/stream.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
-http://sg.cvacetv.ga/4KUHD
+http://eu.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 1
-http://sg.cvacetv.ga/BBC1
+http://eu.cvacetv.ga/BBC1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 2
-http://sg.cvacetv.ga/BBC2
+http://eu.cvacetv.ga/BBC2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
-http://sg.cvacetv.ga/ITV
+http://eu.cvacetv.ga/ITV
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
 http://sg.cvacetv.ga/ITV4
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
-http://sg.cvacetv.ga:8080/stream/channelid/1011319346
+http://eu.cvacetv.ga/matchpre
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m30_index.m3u8
