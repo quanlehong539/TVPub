@@ -139,6 +139,8 @@ https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://scontent.fhan18-1.fna.fbcdn.net/v/t1.15752-9/318378362_1468413313681323_655312957584663279_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QhhNrg6pMKEAX_luV4a&_nc_ht=scontent.fhan18-1.fna&oh=03_AdT414ChFiVxOrxRSE2lSSfDOgIAXaDBTaTCZ2jgcUc1cg&oe=63B804E5", On Movies HD
+https://856175157.r.vtvcdn.com/ondrm/VAN_HOA/m20_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023726&path-prefix=vi", On Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_HD/sc-gaFEAA/m30_index.m3u8
@@ -164,8 +166,6 @@ https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist_w812674288_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
 https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist_w760089870_b1692000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qQtXaAAMGj6n?format=png", SCTV19
-https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="http://youtv.vn/images/logo.png", YouTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
