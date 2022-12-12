@@ -190,8 +190,8 @@ https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://danangtv.vn/Images/drt1.png", Đà Nẵng 1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623744314channel3_DN2.png", Đồng Nai 2 HD
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/255/3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png", Hà Nội 2 HD
+https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://mediadrt.mediatech.vn/upload/files/image/logo.png", Đắk Lắk HD
 http://103.90.220.236/drtlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png", Long An HD
