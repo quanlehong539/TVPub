@@ -205,7 +205,7 @@ https://livecdn.fptplay.net/sda/tuyenquang_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png", Hà Nam HD
 http://103.90.220.236/thhnlive/tv1live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/TRT_logo_02-11-2021.png/revision/latest?cb=20211102104125&path-prefix=vi", Thừa Thiên Huế
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/TRT_logo_02-11-2021.png/revision/latest?cb=20211102104125&path-prefix=vi", Thừa Thiên Huế HD
 https://nvzoftzsvflivcf.vcdn.com.vn/huetv/huetv@high.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.hungyentv.vn/templates/frontend/hytv/Assets/img/logo-vien-trang-1_22.png", Hưng Yên HD
 https://nvzoftzsvflivcf.vcdn.com.vn/hungyentv/hungyentv@high.m3u8
