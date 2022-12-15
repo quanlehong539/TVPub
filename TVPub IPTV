@@ -24,9 +24,9 @@ https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u
 https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://88404bbd1d.vws.vegacdn.vn/live/_definst_/stream_1_ca762/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png", CVmedia Live 1
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/4k.png", CVmedia Live 4K
 http://vn3.cvacetv.ga/4KUHD
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png", CVmedia Live 2
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png", CVmedia Live FANS
 http://vn2.cvacetv.ga/FANS
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 1
 http://sg.cvacetv.ga/BBC1
