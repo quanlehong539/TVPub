@@ -233,10 +233,10 @@ https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="HẢI NGOẠI", SET
-https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w848886703.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI", SET2
-https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w1017303506.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI", GLOBAL TV
+https://live.relentlessinnovations.net:1936/globaltv/globaltv/chunklist_w320465872.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI", VIETSKY TV
+http://tna6.tulix.tv/live/5ae0b1bcf3b0bbb8b387ca6317be5586/639e10bc/vchannel13.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI", LSTV
 https://media.streambrothers.com:1936/8228/8228/chunklist_w1571223397.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI", VBS
