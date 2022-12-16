@@ -68,9 +68,9 @@ https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/cb4735b6-c8f0-4a4b-b652-48052c3c3f2f/VTC7.png", VTC7
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/todaytv_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/d2ed3274-4189-425c-84bb-14f37228a654/VTC12.png", VTC12
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/077d0aaa-1515-42e0-89f0-9ee3f272486e/VTC9.png", VTC9 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/vtc9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/Vie_Channel_logo.png/revision/latest?cb=20200510235050&path-prefix=vi", Vie Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
