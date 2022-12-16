@@ -233,7 +233,7 @@ https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="HẢI NGOẠI", GLOBAL TV
+#EXTINF:-1 group-title="HẢI NGOẠI", Viet Global TV
 https://live.relentlessinnovations.net:1936/globaltv/globaltv/chunklist_w320465872.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI", IVTV
 https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
