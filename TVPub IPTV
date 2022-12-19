@@ -26,29 +26,29 @@ https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 https://88404bbd1d.vws.vegacdn.vn/live/_definst_/stream_1_ca762/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/4k.png", CVmedia Live 4K
 http://vn3.cvacetv.ga/4KUHD
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png", CVmedia Live World Cup 1
-http://vn2.cvacetv.ga/WC1
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc2.png", CVmedia Live World Cup 2
-http://vn2.cvacetv.ga/FANS
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 1
-http://sg.cvacetv.ga/BBC1
+http://vn1.cvacetv.ga/Diema1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 2
-http://sg.cvacetv.ga/BBC2
+http://vn1.cvacetv.ga/Diema2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
 http://sg.cvacetv.ga/Diema3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
 http://sg.cvacetv.ga/matchtv
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
-http://vn1.cvacetv.ga/beIN
+http://sg.cvacetv.ga/futbol1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 6
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m30_index.m3u8
+http://sg.cvacetv.ga/futbol2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 7
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT2/sc-gaFEAA/m30_index.m3u8
+http://sg.cvacetv.ga/futbol3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 8
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT3/sc-gaFEAA/m30_index.m3u8
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 9
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT4/sc-gaFEAA/m30_index.m3u8
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT2/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 10
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT3/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 11
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT4/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 12
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT5/sc-gaFEAA/m30_index.m3u8
 
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png", VTV2 HD
