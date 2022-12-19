@@ -232,15 +232,15 @@ http://42.96.3.70:8081/hls/0/stream.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://vn3.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 1
-http://sg.cvacetv.ga/BBC1
+http://vn1.cvacetv.ga/Diema1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 2
-http://sg.cvacetv.ga/BBC2
+http://vn1.cvacetv.ga/Diema2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
-http://sg.cvacetv.ga/matchtv
+http://sg.cvacetv.ga/Diema3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
-http://vn1.cvacetv.ga/cctv1
+http://sg.cvacetv.ga:8080/stream/channelid/836061641
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
-http://vn1.cvacetv.ga/beIN
+http://sg.cvacetv.ga:8080/stream/channelid/1604309142
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 6
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 7
