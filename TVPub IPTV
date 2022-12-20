@@ -31,7 +31,7 @@ http://vn1.cvacetv.ga/Diema1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 2
 http://vn1.cvacetv.ga/Diema2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 3
-http://sg.cvacetv.ga/Diema3
+http://sg.cvacetv.ga:8080/stream/channelid/2103119835
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 4
 http://sg.cvacetv.ga/matchtv
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 5
@@ -41,28 +41,33 @@ http://sg.cvacetv.ga/futbol2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 7
 http://sg.cvacetv.ga/futbol3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 8
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m30_index.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 9
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT2/sc-gaFEAA/m30_index.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 10
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT3/sc-gaFEAA/m30_index.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 11
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT4/sc-gaFEAA/m30_index.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sports 12
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT5/sc-gaFEAA/m30_index.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png", VTV2 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sevent/vtv2_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://bit.ly/3CSdQyi", VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://nds-static.vtc.gov.vn/category/13190053-0698-4961-aab2-fc818f1073f1/VTC3.png", VTC3 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
@@ -131,9 +136,8 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305", Discovery Asia
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png", Outdoor Channel
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png", Fashion TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
@@ -148,8 +152,8 @@ https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png", EDGE Sport
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.tennischannel.app/image/original/6580da0c-bfd3-407e-ae12-144790330b17.png?v=20210527180713", Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image.xumo.com/v1/channels/channel/99991627/600x600.png?type=color_onBlack", Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
