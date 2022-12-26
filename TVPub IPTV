@@ -154,6 +154,8 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://inverleigh.com/wp-content/uploads/2020/07/unbeaten_full_logo_white.png", Unbeaten
 https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png", TVB Jade
+http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/jade_twn/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
@@ -244,7 +246,5 @@ https://live.relentlessinnovations.net:1936/globaltv/globaltv/chunklist_w3204658
 https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI", LSTV
 https://media.streambrothers.com:1936/8228/8228/chunklist_w1571223397.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI", VBS
-https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/chunklist_w1511031572_b1228800.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI", IBC
 https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w650072595.m3u8
