@@ -139,8 +139,6 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305", Discovery Asia
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", Russia Today
-https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png", Fashion TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
@@ -149,6 +147,8 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png", CONtv Anime
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png", EDGE Sport
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://inverleigh.com/wp-content/uploads/2020/07/unbeaten_full_logo_white.png", Unbeaten
@@ -240,7 +240,7 @@ https://tv.tchgroup.vn/live/tv_web/chunklist_w714756963.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/HBTV_logo_2021_%28H%C3%ACnh_hi%E1%BB%87u%29.png/revision/latest?cb=20211224015823&path-prefix=vi", Hòa Bình HD
 https://api.vthanhtivi.pw/v2/getlink/mytv/159/hd.m3u8
 
-#EXTINF:-1 group-title="HẢI NGOẠI", Viet Global TV
+#EXTINF:-1 group-title="HẢI NGOẠI", VGTV
 https://live.relentlessinnovations.net:1936/globaltv/globaltv/chunklist_w320465872.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI", IVTV
 https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
