@@ -84,7 +84,7 @@ https://856175157.r.vtvcdn.com/ondrm/SCTV15_HD/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
 https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist_w760089870_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/1000?cb=20220127020318&path-prefix=vi", K+ CINE
-https://livevlive.vtvcab.vn/hls/K_LIFE/sc-gaFEAA/m30_index.m3u8
+https://livevlive.vtvcab.vn/hls/K_CINE/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/1000?cb=20220127020322&path-prefix=vi", K+ LIFE
 https://livevlive.vtvcab.vn/hls/K_LIFE/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="http://youtv.vn/images/logo.png", YouTV
