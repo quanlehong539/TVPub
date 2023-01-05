@@ -106,6 +106,13 @@ https://livevlive.vtvcab.vn/hls/K_CINE/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/1000?cb=20220127020322&path-prefix=vi", K+ LIFE
 https://livevlive.vtvcab.vn/hls/K_LIFE/sc-gaFEAA/m30_index.m3u8
 
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7f/LogoHTVCGiaDinh2018.png", HTVC Gia đình HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png", HTVC Phụ nữ HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://sledovanietv.sk/cache/logos256/nasatv_uhd.png", NASA TV UHD
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.myrai.com.br/assets/img/canais/Logo_LoveNature_486x226.png", Love Nature 4K
