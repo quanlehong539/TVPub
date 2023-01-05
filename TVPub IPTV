@@ -221,7 +221,7 @@ https://api.vthanhtivi.pw/v2/getlink/mytv/159/hd.m3u8
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://vietglobaltv.com/wp-content/uploads/2022/02/VietGBTV-B.png", VGTV
 https://live.relentlessinnovations.net:1936/globaltv/globaltv/chunklist_w320465872.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png/v1/fill/w_233,h_167,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%203d.png", IVTV
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png", IVTV
 https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Little_Saigon_TV_logo.svg/2089px-Little_Saigon_TV_logo.svg.png", LSTV
 https://media.streambrothers.com:1936/8228/8228/chunklist_w1016181685.m3u8
