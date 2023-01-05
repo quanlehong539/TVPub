@@ -123,8 +123,8 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png", TVB Jade
-http://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/KIDZBOP_Core_Logo_Treated_RGB_NO_BACK_GLOW.png", Kidz Bop
+https://kidzbop-rokuus.amagi.tv/kidzbop-roku/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png", EDGE Sport
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://inverleigh.com/wp-content/uploads/2020/07/unbeaten_full_logo_white.png", Unbeaten
