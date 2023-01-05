@@ -147,6 +147,10 @@ https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/Star_Movies_logo_2009_%28B%E1%BA%A3n_3%29.png/revision/latest/scale-to-width-down/1000?cb=20221222123018&path-prefix=vi", Star Movies
+https://list.iptvcat.com/my_list/s/f1ec829dbcb7e200120726460a9d3163.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", MixBox
@@ -236,12 +240,10 @@ https://88404bbd1d.vws.vegacdn.vn/live/_definst_/stream_1_ca762/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://vn3.cvacetv.ga/4KUHD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 1
-http://sg.cvacetv.ga/Setanta1
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 2
 http://sg.cvacetv.ga/Setanta2
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 3
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 2
 http://sg.cvacetv.ga:8080/stream/channelid/836061641
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 4
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", Sport 3
 http://sg.cvacetv.ga:8080/stream/channelid/1604309142
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -252,6 +254,3 @@ https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", Event 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", Event 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
