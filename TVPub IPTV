@@ -219,14 +219,14 @@ https://tv.tchgroup.vn/live/tv_web/chunklist_w714756963.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/HBTV_logo_2021_%28H%C3%ACnh_hi%E1%BB%87u%29.png/revision/latest?cb=20211224015823&path-prefix=vi", Hòa Bình HD
 https://api.vthanhtivi.pw/v2/getlink/mytv/159/hd.m3u8
 
-#EXTINF:-1 group-title="HẢI NGOẠI", VGTV
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://vietglobaltv.com/wp-content/uploads/2022/02/VietGBTV-B.png", VGTV
 https://live.relentlessinnovations.net:1936/globaltv/globaltv/chunklist_w320465872.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI", IVTV
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png/v1/fill/w_233,h_167,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%203d.png", IVTV
 https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI", LSTV
-https://media.streambrothers.com:1936/8228/8228/chunklist_w1571223397.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI", IBC
-https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w650072595.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Little_Saigon_TV_logo.svg/2089px-Little_Saigon_TV_logo.svg.png", LSTV
+https://media.streambrothers.com:1936/8228/8228/chunklist_w1016181685.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://setchannel.tv/wp-content/uploads/2019/08/SET-web-logo.png", SET
+https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1824446961.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://88404bbd1d.vws.vegacdn.vn/live/_definst_/stream_1_ca762/chunklist.m3u8
