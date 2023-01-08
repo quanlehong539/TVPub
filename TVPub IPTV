@@ -127,14 +127,14 @@ https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/Star_Movies_logo_2009_%28B%E1%BA%A3n_3%29.png/revision/latest/scale-to-width-down/1000?cb=20221222123018&path-prefix=vi", Star Movies
-http://juzu.online:2082/luinnew/H8hQgb7455/238068?checkedby:iptvcat.com
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png", TF1
+https://s13.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", MixBox
-https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=cf4ff4cfc278f99f16fc9bd378144807c50885074b34892116693cc1f514eaf6
+https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=62456900fbcbae9b16603a4d736cb531785869b7423dbc10c56ea494cd155b8f
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-logo.png", SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1668750862~exp=9007200923491853~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=de9b2f157cf711fdce6ac26cb4520f4947ee0e56899df3bd4526b352e207d839
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-2-logo.png", SPOTV2
