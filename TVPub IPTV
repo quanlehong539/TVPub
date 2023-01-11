@@ -134,7 +134,7 @@ https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", MixBox
-https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=70c1caf3e782ca99a0a65e89a8f8c3a98dfd9aa4f0ca92836544349eae188915
+https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=c23d1f9ae93e4b9cd0e34af684e3e4df672977c275f5b318d9edf86b69a023aa
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-logo.png", SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1668750862~exp=9007200923491853~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=de9b2f157cf711fdce6ac26cb4520f4947ee0e56899df3bd4526b352e207d839
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-2-logo.png", SPOTV2
