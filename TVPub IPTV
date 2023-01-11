@@ -134,6 +134,8 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png", Metro TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673463069/ei/vbC-Y9LeDryxxN8Prb-ouAQ/ip/92.205.15.128/id/JN5XZ_0_WjY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALcVVrxnoJsb1kncU0FAiYQYz9cRY6dqzEhF1-qF9SBEAiAlhZwVr_9u8ZvhGqpjA3ipjQUwGvi3EPPypkYSX1m-Bw%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/KIDZBOP_Core_Logo_Treated_RGB_NO_BACK_GLOW.png", Kidz Bop
 https://kidzbop-rokuus.amagi.tv/kidzbop-roku/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png", EDGE Sport
@@ -146,8 +148,6 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png", TF1
-https://s13.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", MixBox
 https://d1v045aykfix0b.cloudfront.net/live/Mixbox_1.m3u8?key=70c1caf3e782ca99a0a65e89a8f8c3a98dfd9aa4f0ca92836544349eae188915
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-logo.png", SPOTV
