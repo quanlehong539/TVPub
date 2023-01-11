@@ -215,7 +215,7 @@ https://tv.tchgroup.vn/live/tv_web/chunklist_w714756963.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/HBTV_logo_2021_%28H%C3%ACnh_hi%E1%BB%87u%29.png/revision/latest?cb=20211224015823&path-prefix=vi", Hòa Bình HD
 https://api.vthanhtivi.pw/v2/getlink/mytv/159/hd.m3u8
 
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/a3570d_8c500a22bcc34631a2dc8480e5567240~mv2.png", GTV
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/a3570d_8c500a22bcc34631a2dc8480e5567240~mv2.png", VGTV
 https://live.relentlessinnovations.net:1936/globaltv/globaltv/chunklist_w320465872.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png", IVTV
 https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
