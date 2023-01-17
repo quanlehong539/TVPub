@@ -143,18 +143,18 @@ https://kidzbop-rokuus.amagi.tv/kidzbop-roku/playlist1080p.m3u8
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://inverleigh.com/wp-content/uploads/2020/07/unbeaten_full_logo_white.png", Unbeaten
 https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", Sky News
-https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", MixBox
 https://hqth.me/MixBox
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-logo.png", SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1668750862~exp=9007200923491853~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=de9b2f157cf711fdce6ac26cb4520f4947ee0e56899df3bd4526b352e207d839
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.firstmedia.com/files/images/Aset/SPOTV/spotv-2-logo.png", SPOTV2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1669024425~exp=9007200923765416~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_1/chunklist.m3u8*~hmac=eef66ad5e84c8c1039f2ba43f79083c87f22c1156095c1adb08dc7801a8f66ec
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/1280px-Arirang.svg.png", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png", Aniplus
+http://live.vthanhtivi.pw/aniplus
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Box Movie 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Hollywood Classics
