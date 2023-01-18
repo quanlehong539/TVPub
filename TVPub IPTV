@@ -85,7 +85,7 @@ https://livevlive.vtvcab.vn/hls/OS_THETHAO_TINTUC_HD/sc-gaFEAA/m30_index.m3u8
 https://livevlive.vtvcab.vn/hls/HAY_TV_1924/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Football_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023748&path-prefix=vi", ON Football HD
 https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
-#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5e/ON_Golf_TV_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023800&path-prefix=vi", ON Golf HD
+#EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/ON_Golf_logo_2022.png/revision/latest?cb=20230118075014&path-prefix=vi", ON Golf HD
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_GOLF_HD/sc-gaFEAA/m30_index.m3u8
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qDYDacAAF2KI?format=png", SCTV3
