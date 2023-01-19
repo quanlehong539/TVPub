@@ -176,8 +176,8 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/THVL3_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20220411074327&path-prefix=vi", Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1622021423channel2_TN%202.png", Thái Nguyên 2
-https://mziyw7t0yhliv.vcdn.cloud/322a2f8521327722c81c80550213e1e5/1674078834649/live/thainguyen2/chunklist_1.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/41/HanoiTV1_HD_screenbug_logo_2016.png/revision/latest?cb=20220816113633&path-prefix=vi", Hà Nội 1 HD
+https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_logo_2019-nay.png/revision/latest/scale-to-width-down/1000?cb=20210915161705&path-prefix=vi", Đồng Tháp 2 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
