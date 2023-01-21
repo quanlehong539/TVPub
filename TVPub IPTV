@@ -136,7 +136,7 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.multivu.com/players/English/8357551-the-reader-china-cultural-cctv1-jane-goodall/image/Logo_1530203138035-null-HR.png", CCTV1
-http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_1200.m3u8
+http://171.104.198.53:8015/stream/channel/55afa2a8cf60b7437f605aa89a1a3de9?ticket=eb244a620982af0518d2bd16e1ff28815a44542d
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/1280px-Arirang.svg.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png", Aniplus
