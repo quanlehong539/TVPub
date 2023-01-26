@@ -135,11 +135,11 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.multivu.com/players/English/8357551-the-reader-china-cultural-cctv1-jane-goodall/image/Logo_1530203138035-null-HR.png", CCTV1
-http://171.104.198.53:8015/stream/channel/55afa2a8cf60b7437f605aa89a1a3de9?ticket=eb244a620982af0518d2bd16e1ff28815a44542d
+http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/cctv1/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/1280px-Arirang.svg.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png", Aniplus
-https://hqth.me/aniplus
+https://hqth.me/ANIPLUS
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Box Movie 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Hollywood Classics
