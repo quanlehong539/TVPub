@@ -88,8 +88,8 @@ https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m40_index.m3u8
 #EXTINF:-1 group-title="VTVCAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/ON_Golf_logo_2022.png/revision/latest?cb=20230118075014&path-prefix=vi", ON Golf HD
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_GOLF_HD/sc-gaFEAA/m40_index.m3u8
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qDYDacAAF2KI?format=png", SCTV3
-https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/chunklist_w253895996_b1692000.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qDX_aMAIhXha?format=png", SCTV1
+https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9
 https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/chunklist_w774796140_b1692000.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qJmNaMAA_HU3?format=png", SCTV11
