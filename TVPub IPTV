@@ -209,7 +209,8 @@ https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_TTV11_Tay_Ninh_TV_25-02-2020.png", Tây Ninh HD
-http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=TVPub
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_THTPCT.png/800px-Logo_THTPCT.png", TP Cần Thơ HD
 https://tv.tchgroup.vn/live/tv_web/chunklist_w714756963.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/HBTV_logo_2021_%28H%C3%ACnh_hi%E1%BB%87u%29.png/revision/latest?cb=20211224015823&path-prefix=vi", Hòa Bình HD
