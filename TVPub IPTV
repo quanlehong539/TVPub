@@ -91,10 +91,10 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/SamsungTVplus_BTVplus_UHD_190x190.png?$default$", Bloomberg TV+ UHD
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://sledovanietv.sk/cache/logos256/nasatv_uhd.png", NASA TV UHD
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/SamsungTVplus_BTVplus_UHD_190x190.png?$default$", Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.widemedia.tv/wp-content/uploads/2020/07/ln-logo_peacock_4k-1024x602.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.pngkit.com/png/full/223-2235483_hbo-logo-black-and-white-french-flag-1815.png", HBO
