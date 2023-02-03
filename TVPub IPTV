@@ -101,9 +101,9 @@ https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist_w760089870_b1692000.m3
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qQtXaAAMGj6n?format=png", SCTV19
 https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://img.hplus.com.vn/355x200/poster/2022/08/23/793814-CA-NHAC-LOGO.png", HTVC Ca nhạc HD
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png", HTVC Ca nhạc HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://img.hplus.com.vn/355x200/poster/2018/06/05/591916-pHIM.png", HTVC Phim HD
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/7746138-logo-kenh-phim-.png", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://sledovanietv.sk/cache/logos256/nasatv_uhd.png", NASA TV UHD
