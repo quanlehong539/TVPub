@@ -230,9 +230,9 @@ https://88404bbd1d.vws.vegacdn.vn/live/_definst_/stream_1_ca762/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png", MyTV Sự kiện
 http://vn2.vietanhtv.pw:8081/mytv804
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", TVPub Sport 1
-http://2.cvmtv.site/Setanta1
+http://vn2.vietanhtv.pw:8081/events1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", TVPub Sport 2
-http://2.cvmtv.site/es2
+http://vn2.vietanhtv.pw:8081/events2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", TVPub Sport 3
 http://2.cvmtv.site/Diema3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", TVPub Sport 4
