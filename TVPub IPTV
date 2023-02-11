@@ -236,13 +236,13 @@ https://88404bbd1d.vws.vegacdn.vn/live/_definst_/stream_1_ca762/chunklist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png", MyTV Sự kiện
 http://vn2.vietanhtv.pw:8081/mytv804
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", TVPub Sport 1
-http://8.tcp.ngrok.io:16126/kiptvsport/setanta1
+http://8.tcp.ngrok.io:16126/kiptvsport/espn
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", TVPub Sport 2
-http://8.tcp.ngrok.io:16126/kiptvsport/dazn2
+http://8.tcp.ngrok.io:16126/kiptvsport/espn2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", TVPub Sport 3
-http://vn2.vietanhtv.pw:8083/foxsport3/mpegts
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", TVPub Sport 4
 http://8.tcp.ngrok.io:16126/kiptvsport/espn4
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bit.ly/3dLR9RY", TVPub Sport 4
+http://8.tcp.ngrok.io:16126/kiptvsport/espnextra
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
