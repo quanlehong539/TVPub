@@ -233,25 +233,25 @@ https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w1761305886.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://88404bbd1d.vws.vegacdn.vn/live/_definst_/stream_1_ca762/chunklist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png", Night Wolf V.League CH1
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png", V.League CH1
 http://vn2.vietanhtv.pw:8081/events1
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png", Night Wolf V.League CH2
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png", V.League CH2
 http://vn2.vietanhtv.pw:8081/events2
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png", Night Wolf V.League CH3
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png", V.League CH3
 http://vn2.vietanhtv.pw:8081/events3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Ngoại hạng Anh CH1
 http://0.vylc.name.vn/Setanta1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Ngoại hạng Anh CH2
 http://0.vylc.name.vn/Setanta2
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 1
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 2
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 3
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 4
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 4
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
