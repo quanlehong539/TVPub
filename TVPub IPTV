@@ -227,17 +227,17 @@ https://media.streambrothers.com:1936/8228/8228/chunklist_w1016181685.m3u8
 https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w1761305886.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://assets.uefa.tv.uicentric.net/images/tiles/UCL_circle_web_medium.png", UCL Live 1
-http://8.tcp.ngrok.io:16126/kiptvsport/espn
+http://171.244.61.233/SCTV
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://assets.uefa.tv.uicentric.net/images/tiles/UCL_circle_web_medium.png", UCL Live 2
-http://8.tcp.ngrok.io:16126/kiptvsport/espn2
+http://171.244.61.233/MOJI
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/uploads/2018/11/logo-vpf.png", VPF Live 1
 http://vn2.vietanhtv.pw:8081/events1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/uploads/2018/11/logo-vpf.png", VPF Live 2
 http://vn2.vietanhtv.pw:8081/events2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", EPL Live 1
-http://0.vylc.name.vn/Setanta1
+http://8.tcp.ngrok.io:16126/kiptvsport/dazn1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", EPL Live 2
-http://0.vylc.name.vn/Setanta2
+http://8.tcp.ngrok.io:16126/kiptvsport/dazn2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
