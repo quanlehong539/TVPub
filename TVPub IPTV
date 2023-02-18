@@ -177,8 +177,8 @@ https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 http://103.90.220.236/drtlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png", Long An HD
 https://lms-public-ingest.swiftfederation.com/la34/tvlive-transmux.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi", Hải Phòng Plus HD
-https://live.thhp.vn/hls/thpplus/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hatinhtv.vn/img/logo-footer.png", Hà Tĩnh HD
+https://wse.hatinhtv.net/live/httv1/chunklist_w1664474240.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png", Ninh Bình HD
 http://103.90.220.236/nbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245085074.png", Lạng Sơn HD
@@ -225,6 +225,10 @@ https://media.streambrothers.com:1936/8228/8228/chunklist_w1016181685.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET
 https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w1761305886.m3u8
 
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1920px-Logo_Vleague1_2023.svg.png", 17h00-18/02: SHB Đà Nẵng vs Topenland Bình Định (VĐQG NIGHT WOLF V-League 1 2023 - Vòng 4)
+https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/Ct8FDK7crNKx4ECaGZD4Mu5z1MmN1fI4rwp9bk6JQ1d46E3_7GlNTPyMMRXMZC7awBQoprJhfK6eHW81SVd3C_59dR8NN8oW9tuzfkDTx2lsTGZ2E_hQkVb9hxQO7jFaBtidzWwbCQGX40vSLXZiuY2GQUjP0tVma8eX02ygGmxsKqpbuTC9tYF0XbCXPCk9zfBUbCVXfs5ULjV6cWR-Sx1kDM0eFUwyyqcbhloOCKNJlr2AC3B25OPeAHzH71GAimUDtpX_8awTPjmzriPB3lsmpWPXZyTndw_rXoV6ptFbLuNagZ3sqInjvkzAKVrHIgPSyp3RoYKECkagoHYVRCjSeRvtOoI1bczue1XHbFQ8iMKc6-g0i6un_C9TiAncY7ZNYjhK8en34CSnakCP907v84RWYqc2a2VudiHDTv4ICIOROkB4dsqtFo4OKx8455zpisCTnFms6u6rXMfcUqIRY4snpD9v1xSTiCCV5g5pNxSWA8J6nbX_vqoS2mSP0JvgIufLwGFyiHYs-aXf-3uhOQpVJscKD4h5GrGsYndBHBlP5c1WFQu6WJgJPQK8wIFavRAWDgnktv73kgIVlTShJ9S_7KX0CBs-VhTWTQyoecTBURgv0-1xn6iAbYTEulPIVXPwqdLfhNvxNjW8Tnnm807enlNbPJKIZS04tw2P7ul9z3ZdFQXjiQbUzN0zhUgCc_1Wnq0JzryKUbrnnwX8BBzLNRWp3S1t2Rpdxw_DMWSWdCy40MQnrhVI7mwNoUHtATLQMDGt-mbka-WPhHdxTIxkOUUekljjMW9GVtaeOivJ16PD6JgNNBjVSuoYmvwaWT6muoYMNJ5GawiUdzMVy6i0TMf89tSG5HesfamLEq723mhaCfo3-vx9_2cTlYmaETc-aMmaCssfI4n0HS2kn0m1z47GX51AGEVmQbLb5MdK_ai3FY8DjKLi9lf7ulZxm3FsHz08ONSCoMlv3WaNGgxjcK3oua_NWTCCUW0gASoJdXMtd2VzdC0yMPIF.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d4/Logo_Vleague1_2023.svg/1200px-Logo_Vleague1_2023.svg.png", 19h15-18/02: Hải Phòng vs Hồng Lĩnh Hà Tĩnh (VĐQG NIGHT WOLF V-League 1 2023 - Vòng 4)
+https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/Ct8FDK7crNKx4ECaGZD4Mu5z1MmN1fI4rwp9bk6JQ1d46E3_7GlNTPyMMRXMZC7awBQoprJhfK6eHW81SVd3C_59dR8NN8oW9tuzfkDTx2lsTGZ2E_hQkVb9hxQO7jFaBtidzWwbCQGX40vSLXZiuY2GQUjP0tVma8eX02ygGmxsKqpbuTC9tYF0XbCXPCk9zfBUbCVXfs5ULjV6cWR-Sx1kDM0eFUwyyqcbhloOCKNJlr2AC3B25OPeAHzH71GAimUDtpX_8awTPjmzriPB3lsmpWPXZyTndw_rXoV6ptFbLuNagZ3sqInjvkzAKVrHIgPSyp3RoYKECkagoHYVRCjSeRvtOoI1bczue1XHbFQ8iMKc6-g0i6un_C9TiAncY7ZNYjhK8en34CSnakCP907v84RWYqc2a2VudiHDTv4ICIOROkB4dsqtFo4OKx8455zpisCTnFms6u6rXMfcUqIRY4snpD9v1xSTiCCV5g5pNxSWA8J6nbX_vqoS2mSP0JvgIufLwGFyiHYs-aXf-3uhOQpVJscKD4h5GrGsYndBHBlP5c1WFQu6WJgJPQK8wIFavRAWDgnktv73kgIVlTShJ9S_7KX0CBs-VhTWTQyoecTBURgv0-1xn6iAbYTEulPIVXPwqdLfhNvxNjW8Tnnm807enlNbPJKIZS04tw2P7ul9z3ZdFQXjiQbUzN0zhUgCc_1Wnq0JzryKUbrnnwX8BBzLNRWp3S1t2Rpdxw_DMWSWdCy40MQnrhVI7mwNoUHtATLQMDGt-mbka-WPhHdxTIxkOUUekljjMW9GVtaeOivJ16PD6JgNNBjVSuoYmvwaWT6muoYMNJ5GawiUdzMVy6i0TMf89tSG5HesfamLEq723mhaCfo3-vx9_2cTlYmaETc-aMmaCssfI4n0HS2kn0m1z47GX51AGEVmQbLb5MdK_ai3FY8DjKLi9lf7ulZxm3FsHz08ONSCoMlv3WaNGgxjcK3oua_NWTCCUW0gASoJdXMtd2VzdC0yMPIF.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://assets.uefa.tv.uicentric.net/images/tiles/UCL_circle_web_medium.png", UCL Live 1
 http://171.244.61.233/SCTV
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://assets.uefa.tv.uicentric.net/images/tiles/UCL_circle_web_medium.png", UCL Live 2
