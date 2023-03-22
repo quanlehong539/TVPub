@@ -234,9 +234,9 @@ https://media.streambrothers.com:1936/8228/8228/chunklist_w1016181685.m3u8
 https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w1761305886.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/59/Logo_UEFA_2012.png", UEFA Live 1
-http://0.vylc.name.vn/SCTV
+http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-3M.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/59/Logo_UEFA_2012.png", UEFA Live 2
-http://0.vylc.name.vn/MOJI
+http://live-ali2.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", EPL Live 1
 http://0.vylc.name.vn/Diema1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", EPL Live 2
