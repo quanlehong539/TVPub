@@ -84,12 +84,10 @@ https://vietanhtv.xyz/vipvieon.php?id=vtvcab23
 https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qDYGakAM2fo4?format=png", SCTV2
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qMJeaIAAur_z?format=png", SCTV14
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14_s2/index.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qTC-akAET2F-?format=png", SCTV21
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9
+https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6_C5DacAA33zP?format=png", SCTV Phim Tổng hợp
 https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png", HTVC Ca nhạc HD
@@ -139,8 +137,15 @@ https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png", CNN
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J Sports 1
+https://code.vthanhtivi.pw/getlink/jptv/EYDXkRRGT1GJnkUTfJvLHA==/playlist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J Sports 2
+https://code.vthanhtivi.pw/getlink/jptv/JZgVUmwbYrMVRyY5Nd9SeQ==/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", Sky News
-https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+http://0.vylc.name.vn/SkyNews
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png", TRT World
@@ -241,12 +246,6 @@ http://live-ali2.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 http://0.vylc.name.vn/Diema1
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", EPL Live 2
 http://0.vylc.name.vn/Diema2
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/uploads/2018/11/logo-vpf.png", VPF Live 1
-http://vn2.vietanhtv.pw:8081/events1
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/uploads/2018/11/logo-vpf.png", VPF Live 2
-http://vn2.vietanhtv.pw:8081/events2
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/uploads/2018/11/logo-vpf.png", VPF Live 3
-http://vn2.vietanhtv.pw:8081/events3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
