@@ -249,7 +249,7 @@ https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w1761305886.m3u8
 http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-3M.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+ 4
 http://live-ali2.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png", MyTV 802
+https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png", MyTV 803
 http://103.56.160.133:8081/mytv803
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vnptmedia.vn/file/8a10a0d36ccebc89016cf4ff8bd72177/8a10a0d36e16e5b3016e261985ed51fc/052020/logoMyTVkenhkovien0220200409153947_2020052992254.png", MyTV 804
-http://103.56.160.133:8081/mytv804
