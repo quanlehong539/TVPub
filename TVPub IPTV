@@ -145,10 +145,10 @@ https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png", BBC World News
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J Sports 1
-https://code.vthanhtivi.pw/getlink/jptv/EYDXkRRGT1GJnkUTfJvLHA==/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J Sports 2
-https://code.vthanhtivi.pw/getlink/jptv/JZgVUmwbYrMVRyY5Nd9SeQ==/playlist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.ytv.co.jp/common/img/logo_ytv.png", Yomiuri TV
+https://code.vthanhtivi.pw/getlink/jptv2/21/playlist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png", Aniplus
+https://code.vthanhtivi.pw/getlink/jptv2/113/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png", TRT World
@@ -233,8 +233,7 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2023/01/top-header-logo-full-name.png", TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/HBTV_logo_2021_%28H%C3%ACnh_hi%E1%BB%87u%29.png/revision/latest?cb=20211224015823&path-prefix=vi", TH Hòa Bình
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/159/hd.m3u8
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/a3570d_8c500a22bcc34631a2dc8480e5567240~mv2.png", VGTV
 https://live.relentlessinnovations.net:1936/globaltv/globaltv/chunklist_w320465872.m3u8
