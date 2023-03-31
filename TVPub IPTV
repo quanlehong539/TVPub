@@ -34,6 +34,8 @@ https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://bit.ly/3CSdQyi", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png", VTV5 Tây Nam Bộ
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/7KUzwk9y_VTC3.png", VTC3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
@@ -102,11 +104,6 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/SamsungTVplus_BTVplus_UHD_190x190.png?$default$", Bloomberg TV+ UHD
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.pngkit.com/png/full/223-2235483_hbo-logo-black-and-white-french-flag-1815.png", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gdplayer.tv/license/?drm=widevine&key=hbo&token=bGVmUFZrMmxSZ1ZCTE40M3lZb2pCUT09Ojr6WWe%2BbtNH8zh3ENqP6LJ9
-https://sv2.mixstreams.net/nyanv/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png", AXN
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
