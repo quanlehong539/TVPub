@@ -246,13 +246,13 @@ http://live.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+ 4
 http://live-ali2.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/267.png", MyTV 801
-https://code.vthanhtivi.pw/getlink/mytv/267/hd.m3u8
+http://code.vthanhtivi.pw/getlink/onplus/THETHAO_HD/m401_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/349.png", MyTV 802
-https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
+http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/447.png", MyTV 803
-https://code.vthanhtivi.pw/getlink/mytv/447/hd.m3u8
+http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/449.png", MyTV 804
-https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8
+http://code.vthanhtivi.pw/getlink/onplus/THETHAO_GOLF_HD/m401_index.m3u8
 
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", IVANN
 https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
@@ -350,8 +350,6 @@ https://code.vthanhtivi.pw/bongda/socolive/214855.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", BLV LONG
 https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
-#EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", YUKI
-https://code.vthanhtivi.pw/bongda/socolive/101511.m3u8
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", SONBAEMIN
 https://code.vthanhtivi.pw/bongda/socolive/201986.m3u8
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", LUCY
@@ -360,18 +358,12 @@ https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", BLV MÍM
 https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
-#EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", BLV FIREMAN
-https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", BLV MĂNG CỤT
 https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
-#EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", BLV G Hip
-https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", BLV EDWARD
 https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", BLV BEAN
 https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", BLV LEO
-https://code.vthanhtivi.pw/bongda/socolive/129184.m3u8
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", BLV BEE
 https://code.vthanhtivi.pw/bongda/socolive/181398.m3u8
 #EXTINF:-1 group-title="SOCOLIVE" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo-footer.png", SÙNG A MÚP
