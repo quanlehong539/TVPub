@@ -116,26 +116,21 @@ https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png", Aniplus
 http://uslive.vthanhtivi.pw/aniplus
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png", AXN
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", KIX
+http://cdn-cf.vthanhtivi.pw/fptplay/kix/bitrate_5000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner TV
+http://cdn-cf.vthanhtivi.pw/fptplay/warner-tv/bitrate_5000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png", National Geographic
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/national-geographic-hd/bitrate_5000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305", Discovery Asia
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/discovery-asia/bitrate_5000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.fashiontvindia.in/images/about-f-logo.png", Fashion TV
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/fashion-tv/bitrate_5000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.dreamworks-asia.com/images/dwalogo.png", DreamWorks
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/cartoon-network/bitrate_5000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", Animax
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/animax/bitrate_5000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/KIDZBOP_Core_Logo_Treated_RGB_NO_BACK_GLOW.png", Kidz Bop
 https://kidzbop-rokuus.amagi.tv/kidzbop-roku/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
@@ -144,24 +139,12 @@ https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png", FTF Sports
 https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FTFNextUS/9d253ec6-82ee-431e-82d0-a926b93ea7b7/5.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner TV
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png", CinemaWorld
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/cinemawork_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png", BBC News
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", KIX
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/chunklist-b2500000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png", Dr.Fit
@@ -182,6 +165,12 @@ https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
 https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo
+https://code.vthanhtivi.pw/getlink/jptv2/8/playlist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png", Rock Action
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/1200px-Rock_Entertainment.png", Rock Entertainment
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
