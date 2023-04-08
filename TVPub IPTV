@@ -273,10 +273,10 @@ http://live.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 http://live-ali2.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822547208/f54ea5aae42c_640_360.png", VTV5 (TV360)
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/09/16/08/1663293574696/dbea9fd957b6_640_360.png", ON Football (TV360)
-http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823359549/5a6a7ae3d796_640_360.png", HTV Thể thao (TV360)
 http://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/09/16/08/1663293574696/dbea9fd957b6_640_360.png", ON Football (TV360)
+http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/447.png", MyTV 803
 http://103.56.160.133:8081/mytv803
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/449.png", MyTV 804
