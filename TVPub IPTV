@@ -261,8 +261,8 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1975860527.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET2
 https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w1761305886.m3u8
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCIVFzQSHI-3_tBkTbNrvIlXEQM0b9ziL0-mTH8KodhPf25jzAi5dShJNyncY9eqtpadzIod5xXHsnp6NeJszejefZZ5LQheU6VeJ-Uqg1fDKXLqDijpMz51IBhaNTOG_0cTVTfPcH7iuPUA1qk8HAPw1B7bMyY2Qz5RO5zd3uoskTvm18aYbycWZA/s617/262259636_519455765683529_5503286251226392478_n%20%284%29.png", TVPub
-https://hqth.me/tvpublive
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png", Cửu Long (TV360 Miền Tây)
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_640_360.png", TV360+ 1
 http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-3M.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_640_360.png", TV360+ 2
