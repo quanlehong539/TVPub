@@ -123,8 +123,6 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586681795_766.png", CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV12
-https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png", CCTV14
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1200px-CNN_Philippines_Logo.svg.png", CNN Philippines
@@ -245,8 +243,6 @@ https://livecdn.fptplay.net/sda/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 http://103.90.220.236/sltvlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://thaibinhtv.vn/templates/frontend/tbtv/Assets/img/logo.png", TH Thái Bình
 http://103.90.220.236/tbtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Thainguyentv.png/640px-Thainguyentv.png", TH Thái Nguyên
-http://103.90.220.236/tntvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/archive/e/ec/20230220033604%21THTG_Logo.png", TH Tiền Giang
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/THTV2_logo_20-06-2022.png/revision/latest?cb=20221230043742&path-prefix=vi", TH Trà Vinh 2
@@ -258,9 +254,13 @@ https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
 https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET
 https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1975860527.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET2
-https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w1761305886.m3u8
 
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCIVFzQSHI-3_tBkTbNrvIlXEQM0b9ziL0-mTH8KodhPf25jzAi5dShJNyncY9eqtpadzIod5xXHsnp6NeJszejefZZ5LQheU6VeJ-Uqg1fDKXLqDijpMz51IBhaNTOG_0cTVTfPcH7iuPUA1qk8HAPw1B7bMyY2Qz5RO5zd3uoskTvm18aYbycWZA/s320/262259636_519455765683529_5503286251226392478_n%20%284%29.png", TVPub 1
+https://hqth.me/tvpublive
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCIVFzQSHI-3_tBkTbNrvIlXEQM0b9ziL0-mTH8KodhPf25jzAi5dShJNyncY9eqtpadzIod5xXHsnp6NeJszejefZZ5LQheU6VeJ-Uqg1fDKXLqDijpMz51IBhaNTOG_0cTVTfPcH7iuPUA1qk8HAPw1B7bMyY2Qz5RO5zd3uoskTvm18aYbycWZA/s320/262259636_519455765683529_5503286251226392478_n%20%284%29.png", TVPub 2
+https://hqth.me/tvpublive2
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCIVFzQSHI-3_tBkTbNrvIlXEQM0b9ziL0-mTH8KodhPf25jzAi5dShJNyncY9eqtpadzIod5xXHsnp6NeJszejefZZ5LQheU6VeJ-Uqg1fDKXLqDijpMz51IBhaNTOG_0cTVTfPcH7iuPUA1qk8HAPw1B7bMyY2Qz5RO5zd3uoskTvm18aYbycWZA/s320/262259636_519455765683529_5503286251226392478_n%20%284%29.png", TVPub 3
+https://hqth.me/tvpublive3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png", TV360 Miền Tây
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_640_360.png", TV360+ 1
