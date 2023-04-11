@@ -130,7 +130,7 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist_w1741171755.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png", National Geographic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.fashiontvindia.in/images/about-f-logo.png", Fashion TV
-https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", Animax
@@ -248,12 +248,12 @@ http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/THTV2_logo_20-06-2022.png/revision/latest?cb=20221230043742&path-prefix=vi", TH Trà Vinh 2
 https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png", IVTV
-https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://ibctv.us/wp-content/uploads/2019/10/IBClogo-Copy-2.png", IBC
-https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET
 https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1975860527.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://ibctv.us/wp-content/uploads/2019/10/IBClogo-Copy-2.png", IBC
+https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png", IVTV
+https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCIVFzQSHI-3_tBkTbNrvIlXEQM0b9ziL0-mTH8KodhPf25jzAi5dShJNyncY9eqtpadzIod5xXHsnp6NeJszejefZZ5LQheU6VeJ-Uqg1fDKXLqDijpMz51IBhaNTOG_0cTVTfPcH7iuPUA1qk8HAPw1B7bMyY2Qz5RO5zd3uoskTvm18aYbycWZA/s320/262259636_519455765683529_5503286251226392478_n%20%284%29.png", TVPub 1
 https://hqth.me/tvpublive
