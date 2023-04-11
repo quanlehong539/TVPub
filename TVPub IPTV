@@ -125,8 +125,8 @@ https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png", CCTV14
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1200px-CNN_Philippines_Logo.svg.png", CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/chunklist_w1741171755.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/27/7efef52d-0b05-3d9a-892a-a40af5524cda.png?bf=0&f=png", DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png", National Geographic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.fashiontvindia.in/images/about-f-logo.png", Fashion TV
