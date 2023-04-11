@@ -278,9 +278,9 @@ http://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/09/16/08/1663293574696/dbea9fd957b6_640_360.png", ON Football (TV360)
 http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/447.png", MyTV 803
-http://103.56.160.133:8081/mytv803
+http://vn1.vietanhtv.pw:8081/mytv803
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/449.png", MyTV 804
-http://103.56.160.133:8081/mytv804
+http://vn1.vietanhtv.pw:8081/mytv804
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
