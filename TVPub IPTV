@@ -195,7 +195,7 @@ http://103.90.220.236/hytvlive/tv1live.m3u8
 http://103.90.220.236/sltvlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://thaibinhtv.vn/templates/frontend/tbtv/Assets/img/logo.png", TH Thái Bình
 http://103.90.220.236/tbtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png", TH Yên Bái
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo.png", TH Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://truyenhinhnghean.vn/common/v1/image/logo_footer.png", TH Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
