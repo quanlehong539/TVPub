@@ -69,17 +69,17 @@ https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023726&path-prefix=vi", ON Sports
-http://livevlive.vtvcab.vn/THETHAO_HD/m401_index.m3u8
+http://103.75.186.169/b4tv/b4tv/1.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f6/On_Sports_Plus_logo_2D.png/revision/latest?cb=20210728021318&path-prefix=vi", ON Sports Plus
-http://livevlive.vtvcab.vn/HAY_TV/m401_index.m3u8
+http://103.75.186.169/b4tv/b4tv/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Football_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20220311023748&path-prefix=vi", ON Football
-http://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
+http://103.75.186.169/b4tv/b4tv/3.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1814?cb=20220403050655&path-prefix=vi", ON Sports News
-http://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
+http://103.75.186.169/b4tv/b4tv/4.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/ON_Golf_logo_2022.png/revision/latest?cb=20230118075014&path-prefix=vi", ON Golf
-http://livevlive.vtvcab.vn/THETHAO_GOLF_HD/m401_index.m3u8
+http://103.75.186.169/b4tv/b4tv/5.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/BTV5_logo_2023.png/revision/latest?cb=20230127121049&path-prefix=vi", ON Sports Action
-http://livevlive.vtvcab.vn/BTV5/m30_index.m3u8
+http://103.75.186.169/b4tv/b4tv/6.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qDX_aMAIhXha?format=png", SCTV1
 https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9
