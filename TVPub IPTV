@@ -153,7 +153,7 @@ https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/chunklist-b2500000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referer=https://www.ilike-movie.com/
 https://sport.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.ilike-movie.com/
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="", True Premier Football 1
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/l78", True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referer=https://www.ilike-movie.com/
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.ilike-movie.com/
