@@ -249,7 +249,7 @@ https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.tvb.com/tvb_footer_logo.svg?format=png", TVB
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/tvblogo", TVB
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET
 https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w748139724.m3u8
