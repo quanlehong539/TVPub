@@ -137,8 +137,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/668e5cac2b43703c3c63d973fa2bf712.png", EDGE Sport
-https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png", FTF Sports
 https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FTFNextUS/9d253ec6-82ee-431e-82d0-a926b93ea7b7/5.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
@@ -149,6 +147,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/chunklist-b2500000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://btv.com.kh/image/logo.png", BTV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", BeIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referer=https://www.ilike-movie.com/
