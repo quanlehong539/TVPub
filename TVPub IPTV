@@ -119,12 +119,10 @@ https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", CCTV8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586681795_766.png", CCTV9
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", CCTV10
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV12
 https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", CCTV15
-https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/27/7efef52d-0b05-3d9a-892a-a40af5524cda.png?bf=0&f=png", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png", National Geographic
@@ -264,6 +262,8 @@ https://hqth.me/tvpublive
 https://hqth.me/tvpublive2
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://hqth.me/3D4", TVPub 3
 https://hqth.me/tvpublive3
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://hqth.me/3D4", TVPub 4
+https://hqth.me/tvpublive4
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png", TV360 Miền Tây
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_640_360.png", TV360+ 1
