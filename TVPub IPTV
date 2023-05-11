@@ -83,9 +83,9 @@ http://103.75.186.169/b4tv/b4tv/3.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1814?cb=20220403050655&path-prefix=vi", ON Sports News
 http://103.75.186.169/b4tv/b4tv/4.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/ON_Golf_logo_2022.png/revision/latest?cb=20230118075014&path-prefix=vi", ON Golf
-https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
+http://103.75.186.169:9981/stream/channelid/1653547236?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/BTV5_logo_2023.png/revision/latest?cb=20230127121049&path-prefix=vi", ON Sports Action
-https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+http://103.75.186.169:9981/stream/channelid/692620033?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qGXCaQAAjs56?format=png", SCTV4
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9
@@ -127,8 +127,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", Animax
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/vDgcLG", ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png", FTF Sports
@@ -137,14 +137,14 @@ https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png", CH7 Thailand
+http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/chunklist-b2500000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://btv.com.kh/image/logo.png", BTV News
 http://203.176.130.123:8989/live/bayontv1_480k.stream/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png", Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", BeIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referer=https://www.ilike-movie.com/
