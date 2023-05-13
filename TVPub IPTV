@@ -319,72 +319,72 @@ https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
 https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=animax
-https://subs-livecdn.fptplay.net/mskychannel/animaxport_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=469
+https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=boomerang
-https://subs-livecdn.fptplay.net/mskychannel/boomerang_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=467
+https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=cartoon-network
-https://subs-livecdn.fptplay.net/mskychannel/cartoonnetworkhd_4000.stream/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png", BabyTV HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=babytv-hd
-https://subs-livecdn.fptplay.net/mskychannel/babytvhd_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=592
+https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=593
+https://s7768.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=bbc-earth
-https://subs-livecdn.fptplay.net/mskychannel/bbcearth_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=517
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png", BBC Lifestyle HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=bbc-lifestyle
-https://subs-livecdn.fptplay.net/mskychannel/bbclifestyle_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=519
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=bbc-news
 https://subs-livecdn.fptplay.net/mskychannel/bbcnews_4000.stream/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=cnn
-https://subs-livecdn.fptplay.net/mskychannel/cnn_4000.stream/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/215.png", ABC Australia HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=australia-plus
-https://subs-livecdn.fptplay.net/mskychannel/australiaplus_4000.stream/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=animal-planet
-https://subs-livecdn.fptplay.net/mskychannel/animalplanet_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=589
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=discovery
-https://subs-livecdn.fptplay.net/mskychannel/discovery_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=594
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=travel-living
-https://subs-livecdn.fptplay.net/mskychannel/travelliving_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=596
+https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=axn
-https://subs-livecdn.fptplay.net/mskychannel/axnhd_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=590
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=597
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=warner-tv
-https://subs-livecdn.fptplay.net/mskychannel/warnertv_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/history.php
+https://sglivevega.kplus.vn/bpk-tv/prod_history/default/index.mpd
