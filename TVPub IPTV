@@ -83,9 +83,9 @@ http://103.75.186.169/b4tv/b4tv/3.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest/scale-to-width-down/1814?cb=20220403050655&path-prefix=vi", ON Sports News
 http://103.75.186.169/b4tv/b4tv/4.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/ON_Golf_logo_2022.png/revision/latest?cb=20230118075014&path-prefix=vi", ON Golf
-http://103.75.186.169:9981/stream/channelid/1653547236?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
+https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/BTV5_logo_2023.png/revision/latest?cb=20230127121049&path-prefix=vi", ON Sports Action
-http://103.75.186.169:9981/stream/channelid/692620033?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
+https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qGXCaQAAjs56?format=png", SCTV4
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9
