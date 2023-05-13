@@ -109,6 +109,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/SamsungTVplus_BTVplus_UHD_190x190.png?$default$", Bloomberg TV+ UHD
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", CCTV1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png", CCTV3
 https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", CCTV5
@@ -119,6 +121,8 @@ https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV12
 https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564582431720_401.png", CCTV17
+https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/27/7efef52d-0b05-3d9a-892a-a40af5524cda.png?bf=0&f=png", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png", National Geographic
@@ -145,14 +149,6 @@ https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/chunklist-b2500000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://btv.com.kh/image/logo.png", BTV News
 http://203.176.130.123:8989/live/bayontv1_480k.stream/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png", BeIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referer=https://www.ilike-movie.com/
-https://sport.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.ilike-movie.com/
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/l78", True Premier Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referer=https://www.ilike-movie.com/
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.ilike-movie.com/
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_640_360.png", Box Movie 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822419264/1ce59b8c00e8_640_360.png", Hollywood Classics
