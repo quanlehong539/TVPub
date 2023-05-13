@@ -338,16 +338,6 @@ https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=593
 https://s7768.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=517
-https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=521
-https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -388,3 +378,13 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/history.php
 https://sglivevega.kplus.vn/bpk-tv/prod_history/default/index.mpd
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Lifestyle SD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=519
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News SD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=521
+https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
