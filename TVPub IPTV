@@ -196,10 +196,10 @@ http://103.90.220.236/tbtvlive/tv1live.m3u8
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://truyenhinhnghean.vn/common/v1/image/logo_footer.png", TH Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/TRT_logo_07-11-2021.png/revision/latest?cb=20220826232758&path-prefix=vi", TH Thừa Thiên Huế
+https://code.vthanhtivi.pw/getlink/tv360/63/2.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://mediadrt.mediatech.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
 https://live.drt.vn/drtlive/tv1live-transmux.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_THTPCT.png/800px-Logo_THTPCT.png", TH TP Cần Thơ
-https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/logo.png", TH Tiền Giang
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2017-06-12/3296978-1368156-logo-th.png", TH Đồng Tháp 1
