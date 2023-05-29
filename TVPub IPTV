@@ -46,6 +46,9 @@ https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/7KUzwk9y_VTC3.png", VTC3
 #EXTVLCOPT:http-user-agent=TVPub
 http://live.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/sF6hsIid_VTC5.png", VTC5
+#EXTVLCOPT:http-user-agent=TVPub
+https://code.vthanhtivi.pw/getlink/mytv/397/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/v9p4MuZs_VTC7.png", VTC7
 #EXTVLCOPT:http-user-agent=TVPub
 https://code.vthanhtivi.pw/getlink/mytv/398/auto.m3u8
@@ -58,9 +61,6 @@ https://code.vthanhtivi.pw/getlink/mytv/29/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/m6weJ6jE_VTC13.png", VTC13
 #EXTVLCOPT:http-user-agent=TVPub
 https://code.vthanhtivi.pw/getlink/mytv/184/auto.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/TA4L8Dsc_VTC14.png", VTC14
-#EXTVLCOPT:http-user-agent=TVPub
-https://code.vthanhtivi.pw/getlink/mytv/32/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", HTV2
 https://code.vthanhtivi.pw/getlink/mytv/127/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png", HTV7
@@ -123,7 +123,7 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://britasia.tv/wp-content/uploads/2020/12/logo-britasia-tv-new.png", BritAsia TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/0ecadd03-c97b-46a2-a143-3b36ab5cd195/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/3687b12a-e0cb-46b1-a4aa-8f1945f6ae0a/0.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png", FTF Sports
 https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FTFNextUS/9d253ec6-82ee-431e-82d0-a926b93ea7b7/5.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
