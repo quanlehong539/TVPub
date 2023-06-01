@@ -49,7 +49,7 @@ https://code.vthanhtivi.pw/getlink/mytv/190/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao
 https://code.vthanhtivi.pw/getlink/mytv/18/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
-https://code.vthanhtivi.pw/getlink/mytv/127/auto.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png", Vie Dramas
 https://code.vthanhtivi.pw/getlink/mytv/201/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/ON_Movies_logo_17-05-2023.png/revision/latest?cb=20230518112918&path-prefix=vi", ON Movies
@@ -59,10 +59,13 @@ https://code.vthanhtivi.pw/getlink/mytv/205/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/BTV5_logo_2023.png/revision/latest?cb=20230127121049&path-prefix=vi", ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest?cb=20220127020318&path-prefix=vi", K+ CINE
+#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest?cb=20220127020322&path-prefix=vi", K+ LIFE
+#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+ KIDS
+#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Us22DV9TZSt7UZFYKvfJNi8/m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV9.smil/chunklist_b942000.m3u8
@@ -73,7 +76,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6_C5DacAA33zP?format=png", SCTV Phim tổng hợp
-https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png", HTVC Ca nhạc
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png", HTVC Phim
@@ -168,8 +171,8 @@ http://103.90.220.236/tbtvlive/tv1live.m3u8
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://truyenhinhnghean.vn/common/v1/image/logo_footer.png", TH Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/TRT_logo_07-11-2021.png/revision/latest?cb=20220826232758&path-prefix=vi", TH Thừa Thiên Huế
-https://code.vthanhtivi.pw/getlink/tv360/63/2.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.brt.vn/static/media/logo.png", TH Bà Rịa Vũng Tàu
+https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://mediadrt.mediatech.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
 https://live.drt.vn/drtlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/logo.png", TH Tiền Giang
