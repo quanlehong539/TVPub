@@ -49,7 +49,7 @@ https://code.vthanhtivi.pw/getlink/mytv/190/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao
 https://code.vthanhtivi.pw/getlink/mytv/18/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png", Vie Dramas
 https://code.vthanhtivi.pw/getlink/mytv/201/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/ON_Movies_logo_17-05-2023.png/revision/latest?cb=20230518112918&path-prefix=vi", ON Movies
@@ -76,7 +76,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6_C5DacAA33zP?format=png", SCTV Phim tổng hợp
-https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png", HTVC Ca nhạc
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png", HTVC Phim
