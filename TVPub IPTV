@@ -49,7 +49,7 @@ https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/128/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
 https://code.vthanhtivi.pw/getlink/tv360/194/2.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
 https://code.vthanhtivi.pw/getlink/mytv/18/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
@@ -79,9 +79,9 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6_C5DacAA33zP?format=png", SCTV Phim tổng hợp
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6_C5DacAA33zP?format=png", SCTV Phim Tổng Hợp
 https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png", HTVC Ca nhạc
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png", HTVC Ca Nhạc
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png", HTVC Phim
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
@@ -250,7 +250,7 @@ http://live.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822547208/f54ea5aae42c_640_360.png", VTV5 (TV360)
 http://live.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823359549/5a6a7ae3d796_640_360.png", HTV Thể thao (TV360)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823359549/5a6a7ae3d796_640_360.png", HTV Thể Thao (TV360)
 http://live.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/267.png", MyTV 801
 https://code.vthanhtivi.pw/getlink/mytv/267/hd.m3u8
