@@ -122,6 +122,9 @@ https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", KIX
+#EXTVLCOPT:http-user-agent=TVPub
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", Match TV
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png", NHK World Premium
@@ -132,8 +135,6 @@ https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/chunklist-b2500000
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://tvkhd.tv/upload/photos/23TVK2logo.png", TVK2
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/27/7efef52d-0b05-3d9a-892a-a40af5524cda.png?bf=0&f=png", DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_640_360.png", Box Movie 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822419264/1ce59b8c00e8_640_360.png", Hollywood Classics
@@ -274,14 +275,6 @@ http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN HD
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet HD
-http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery HD
-http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia HD
-http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC HD
-http://sg.tinchuanchuaanh.com:8080/TLC_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV HD
@@ -290,16 +283,18 @@ http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
 http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth HD
 http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=525
-https://106d4d2f4.vws.vegacdn.vn/live_dzones/cbb.smil/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", DreamWorks HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/cliptv/?id=dreamworks
-https://106d4d2f4.vws.vegacdn.vn/live_dzones/dreamwork.smil/manifest.mpd
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet HD
+http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery HD
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia HD
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC HD
+http://sg.tinchuanchuaanh.com:8080/TLC_HD/index.m3u8
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX HD
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
+http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
