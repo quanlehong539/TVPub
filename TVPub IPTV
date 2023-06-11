@@ -96,12 +96,6 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canal%2B_Premium.svg/1200px-Canal%2B_Premium.svg.png", Canal+ Premium
 http://stream.cvmtv.site/canalpre?token=live
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", CCTV5
-http://stream.cvmtv.site/CCTV5?token=live
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV12
-https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564582431720_401.png", CCTV17
-https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
@@ -131,9 +125,9 @@ http://194.143.148.28/MatchHD/mono.m3u8
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/chunklist-b2500000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://tvkhd.tv/upload/photos/23TVKlogo.png", TVK1
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://netlinkbroadcaster.com/image/logo/tvk.png", TVK1
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://tvkhd.tv/upload/photos/23TVK2logo.png", TVK2
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://netlinkbroadcaster.com/image/logo/tvk2.png", TVK2
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_640_360.png", Box Movie 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
@@ -151,6 +145,33 @@ https://hqth.me/aniplus
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png", Rock Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png", CCTV1
+http://stream.cvmtv.site/CCTV1?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103580398_438.png", CCTV2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103576424_839.png", CCTV3
+http://stream.cvmtv.site/CCTV3?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550058411_61.png", CCTV4
+http://stream.cvmtv.site/CCTV4?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", CCTV5
+http://stream.cvmtv.site/CCTV5?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103559889_527.png", CCTV5+
+http://stream.cvmtv.site/CCTV5p?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/27/1635316384588_606.png", CCTV7
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103541537_570.png", CCTV9
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV12
+https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103509483_94.png", CCTV13
+http://stream.cvmtv.site/CCTV13?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103504911_769.png", CCTV14
+https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635161516494_338.png", CCTV16
+http://stream.cvmtv.site/CCTV16?token=live
+#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103493765_400.png", CCTV17
+https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
