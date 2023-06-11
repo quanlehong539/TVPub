@@ -170,7 +170,7 @@ http://stream.cvmtv.site/CCTV16?token=live
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png", ViuTV
 http://stream.cvmtv.site/Viu?token=live
-#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png", Phoenix Infonews
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png", Phoenix InfoNews
 http://stream.cvmtv.site/PhxInfo?token=live
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
