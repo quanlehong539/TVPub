@@ -146,32 +146,32 @@ http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png", Rock Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png", CCTV1
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png", CCTV1
 http://stream.cvmtv.site/CCTV1?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103580398_438.png", CCTV2
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103580398_438.png", CCTV2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103576424_839.png", CCTV3
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103576424_839.png", CCTV3
 http://stream.cvmtv.site/CCTV3?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550058411_61.png", CCTV4
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550058411_61.png", CCTV4
 http://stream.cvmtv.site/CCTV4?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", CCTV5
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", CCTV5
 http://stream.cvmtv.site/CCTV5?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103559889_527.png", CCTV5+
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103559889_527.png", CCTV5+
 http://stream.cvmtv.site/CCTV5p?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/27/1635316384588_606.png", CCTV7
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/27/1635316384588_606.png", CCTV7
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103541537_570.png", CCTV9
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV12
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", CCTV12
 https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103509483_94.png", CCTV13
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103509483_94.png", CCTV13
 http://stream.cvmtv.site/CCTV13?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103504911_769.png", CCTV14
-https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635161516494_338.png", CCTV16
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635161516494_338.png", CCTV16
 http://stream.cvmtv.site/CCTV16?token=live
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103493765_400.png", CCTV17
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103493765_400.png", CCTV17
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png", ViuTV
+http://stream.cvmtv.site/Viu?token=live
+#EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png", Phoenix Infonews
+http://stream.cvmtv.site/PhxInfo?token=live
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
