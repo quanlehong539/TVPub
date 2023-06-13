@@ -288,10 +288,6 @@ https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8
 #EXTVLCOPT:http-user-agent=TVPub
 https://livecdn.fptplay.net/hda3/pladio_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
-http://live.vthanhtivi.pw/hbo
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-http://live.vthanhtivi.pw/cinemax
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/on-sports/chunklist_b5128000.m3u8
@@ -304,6 +300,10 @@ https://code.vthanhtivi.pw/getlink/cliptv/on-sports-news/chunklist_b5128000.m3u8
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/on-golf/chunklist_b5128000.m3u8
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+http://live.vthanhtivi.pw/hbo
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+http://live.vthanhtivi.pw/cinemax
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 #EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang HD
