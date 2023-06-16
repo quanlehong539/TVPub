@@ -55,7 +55,7 @@ https://code.vthanhtivi.pw/getlink/tv360/194/2.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/18/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2021/01/13/txo16qc4_viedramas_logo_468_134.png", Vie Dramas
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/VTVCab_19.png/revision/latest?cb=20200206095636", Vie Dramas
 https://code.vthanhtivi.pw/getlink/mytv/201/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/ON_Movies_logo_17-05-2023.png/revision/latest?cb=20230518112918&path-prefix=vi", ON Movies
 https://code.vthanhtivi.pw/getlink/mytv/435/auto.m3u8
@@ -102,10 +102,10 @@ https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/strea
 http://stream.cvmtv.site/canalpre?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/opt1logo", OPT1
 http://stream.cvmtv.site/OPT1?token=live
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png", Channel 4
+http://stream.cvmtv.site/Channel4?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://pbs.twimg.com/profile_images/1265917366971621377/Xae_uymP_400x400.png", Sport en France
-https://sp1564435593-3qjok.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png", National Geographic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.fashiontvindia.in/images/about-f-logo.png", Fashion TV
