@@ -189,26 +189,25 @@ http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png", TH Ninh Bình
 http://103.90.220.236/nbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245085074.png", TH Lạng Sơn
-http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+http://live.langsontv.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.hungyentv.vn/templates/frontend/hytv/Assets/img/logo-vien-trang-1_22.png", TH Hưng Yên
 http://103.90.220.236/hytvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.sonlatv.vn/upload/files/logo/logo_footer.png", TH Sơn La
 http://103.90.220.236/sltvlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://thaibinhtv.vn/templates/frontend/tbtv/Assets/img/logo.png", TH Thái Bình
 http://103.90.220.236/tbtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo.png", TH Yên Bái
-https://yenbaitv.org.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/logo.png", TH Tiền Giang
+http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://truyenhinhnghean.vn/common/v1/image/logo_footer.png", TH Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.brt.vn/static/media/logo.png", TH Bà Rịa Vũng Tàu
 https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hqth.me/drtlogo", TH Đắk Lắk
 https://live.drt.vn/drtlive/tv1live-transmux.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/logo.png", TH Tiền Giang
-http://123.25.238.45:1935/live/thtg/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2017-06-12/3296978-1368156-logo-th.png", TH Đồng Tháp 1
-#EXTVLCOPT:http-user-agent=TVPub
-https://livecdn.fptplay.net/sdc/dongthap_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png", TH TP Cần Thơ
+https://live.canthotv.vn/live/tv_web/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/hanoitv1_vdsl.png", TH Hà Nội 1
+https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/THTV2_logo_20-06-2022.png/revision/latest?cb=20221230043742&path-prefix=vi", TH Trà Vinh 2
 https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623748593channel3_BTV3.png", TH Bình Dương 3
@@ -226,15 +225,13 @@ https://livecdn.fptplay.net/sda/tuyenquang_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png", TH Hà Nam
 http://103.90.220.236/thhnlive/tv1live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/762.png", TH Quảng Ngãi
-#EXTVLCOPT:http-user-agent=TVPub
-https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Phuyen.png", TH Phú Yên
-#EXTVLCOPT:http-user-agent=TVPub
-https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/PTQ.png", TH Quảng Ngãi
+http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_b1384000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/163936-Lamdong.png", TH Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png", TH Khánh Hòa
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://tv.ktv.org.vn/hls/ktv1.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://kontumtv.vn/wp-content/themes/kontum/imgs/big_logo.png", TH Kon Tum
 #EXTVLCOPT:http-user-agent=TVPub
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
@@ -243,8 +240,7 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2023/01/top-header-logo-full-name.png", TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi", TH Hải Phòng Plus
-#EXTVLCOPT:http-user-agent=TVPub
-https://livecdn.fptplay.net/sda/haiphongplus_hls.smil/chunklist_b2500000.m3u8
+https://live.thhp.vn/hls/thpplus/index.m3u8
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/tvblogo", TVB
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
