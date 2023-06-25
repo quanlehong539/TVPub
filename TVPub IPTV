@@ -105,6 +105,8 @@ http://stream.cvmtv.site/canalpre?token=live
 http://stream.cvmtv.site/OPT1?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png", Channel 4
 http://stream.cvmtv.site/Channel4?token=live
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/AniplusLogo", Aniplus
+https://hqth.me/aniplus
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png", National Geographic
@@ -117,9 +119,8 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", KIX
-#EXTVLCOPT:http-user-agent=TVPub
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.samsung.com/is/image/samsung/assets/it/tvs/smart-tv/samsung-tv-plus/tvplus_update/allchannels/Type40x1000px_YamatoAnimation_T.png", Yamato Animation
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", Match TV
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png", NHK World (AI Subs)
@@ -136,16 +137,14 @@ https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png", Planet Earth
-https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
-https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/AniplusLogo", Aniplus
-https://hqth.me/aniplus
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png", Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png", Rock Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN Asia
+http://210.210.155.37:80/dr9445/h/h20/01.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png", tvN Movies
+http://210.210.155.37:80/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 group-title="HOA NGỮ" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png", CCTV1
 http://stream.cvmtv.site/CCTV1?token=live
@@ -210,21 +209,18 @@ https://live.canthotv.vn/live/tv_web/chunklist.m3u8
 https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/hanoitv1_vdsl.png", TH Hà Nội 1
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/THTV2_logo_20-06-2022.png/revision/latest?cb=20221230043742&path-prefix=vi", TH Trà Vinh 2
-https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623748593channel3_BTV3.png", TH Bình Dương 3
-#EXTVLCOPT:http-user-agent=TVPub
-https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TRT.png/revision/latest?cb=20210722104634&path-prefix=vi", TH Thừa Thiên Huế
+https://code.vthanhtivi.pw/getlink/tv360/55/2.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.tuyenquangtv.vn/file/fb9e3a036ab59c2c016ac3618a0d3aec/fb9e3a036ab59c2c016b2c08c1835d52/062019/TTVchantrang_20190620104114.png", TH Tuyên Quang
+https://code.vthanhtivi.pw/getlink/tv360/92/2.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/HBTV_logo_2021.png/revision/latest?cb=20211207143328&path-prefix=vi", TH Hòa Bình
+https://code.vthanhtivi.pw/getlink/mytv/159/hd.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg/1920px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg.png", TH Phú Thọ
+https://code.vthanhtivi.pw/getlink/mytv/410/hd.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png", TH Long An
 https://lms-public-ingest.swiftfederation.com/la34/tvlive-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hatinhtv.vn/img/logo-footer.png", TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.tuyenquangtv.vn/file/fb9e3a036ab59c2c016ac3618a0d3aec/fb9e3a036ab59c2c016b2c08c1835d52/062019/TTVchantrang_20190620104114.png", TH Tuyên Quang
-#EXTVLCOPT:http-user-agent=TVPub
-https://livecdn.fptplay.net/sda/tuyenquang_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg/1920px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg.png", TH Phú Thọ
-#EXTVLCOPT:http-user-agent=TVPub
-https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png", TH Hà Nam
 http://103.90.220.236/thhnlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/PTQ.png", TH Quảng Ngãi
