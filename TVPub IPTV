@@ -86,8 +86,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09072021/Clarity_4K_190x190_Circle.png", Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-news/SamsungTVplus_BTVplus_UHD_190x190.png", Bloomberg TV+ UHD
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/easy-asset/all-channel/tbsr-8249/Loupe-4K-(Rev_11.9.22)_190x190_Circle.png", Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
