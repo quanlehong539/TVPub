@@ -31,7 +31,7 @@ https://code.vthanhtivi.pw/getlink/tv360/157/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/7KUzwk9y_VTC3.png", VTC3
 http://live.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/G292Zztq_VTC4.png", VTC4
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/v9p4MuZs_VTC7.png", VTC7
 https://code.vthanhtivi.pw/getlink/mytv/398/auto.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/O7AnyspZ_VTC9.png", VTC9
 https://code.vthanhtivi.pw/getlink/mytv/399/auto.m3u8
@@ -202,10 +202,12 @@ https://live.canthotv.vn/live/tv_web/chunklist.m3u8
 https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/hanoitv1_vdsl.png", TH Hà Nội 1
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi", TH Hải Phòng Plus
+https://mediatech.vncdn.vn//thplive/tv2live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TRT.png/revision/latest?cb=20210722104634&path-prefix=vi", TH Thừa Thiên Huế
+https://code.vthanhtivi.pw/getlink/tv360/63/2.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230609/4c4f164e-7c51-4cd8-bf20-a3d8f420498c.png", TH Gia Lai
 https://code.vthanhtivi.pw/getlink/tv360/55/2.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.tuyenquangtv.vn/file/fb9e3a036ab59c2c016ac3618a0d3aec/fb9e3a036ab59c2c016b2c08c1835d52/062019/TTVchantrang_20190620104114.png", TH Tuyên Quang
-https://code.vthanhtivi.pw/getlink/tv360/92/2.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/HBTV_logo_2021.png/revision/latest?cb=20211207143328&path-prefix=vi", TH Hòa Bình
 https://code.vthanhtivi.pw/getlink/mytv/159/hd.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg/1920px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg.png", TH Phú Thọ
@@ -220,15 +222,13 @@ http://103.90.220.236/thhnlive/tv1live.m3u8
 http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/163936-Lamdong.png", TH Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://kontumtv.vn/wp-content/themes/kontum/imgs/big_logo.png", TH Kon Tum
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://kontumtv.vn/wp-content/uploads/2020/12/logo.png", TH Kon Tum
 #EXTVLCOPT:http-user-agent=TVPub
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://quantri.thhg.vn/wp-content/uploads/2022/09/logo.png", TH Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2023/01/top-header-logo-full-name.png", TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi", TH Hải Phòng Plus
-https://live.thhp.vn/hls/thpplus/index.m3u8
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/tvblogo", TVB
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
