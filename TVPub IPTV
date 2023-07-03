@@ -286,9 +286,9 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
 #EXTINF:-1 group-title="MSKY - VTVPCD" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
-http://live.vthanhtivi.pw/hbo
+http://live.vthanhtivi.pw/hbo/index.m3u8
 #EXTINF:-1 group-title="MSKY - VTVPCD" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-http://live.vthanhtivi.pw/cinemax
+http://live.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF:-1 group-title="MSKY - VTVPCD" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 #EXTINF:-1 group-title="MSKY - VTVPCD" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang HD
