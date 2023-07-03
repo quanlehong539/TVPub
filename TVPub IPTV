@@ -63,6 +63,9 @@ http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
 http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+ KIDS
 http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV1_logo_2022.png/revision/latest?cb=20220427230925&path-prefix=vi", SCTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/SCTV6.png/revision/latest?cb=20210819100633&path-prefix=vi", SCTV6
 http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9
@@ -311,8 +314,6 @@ http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 group-title="MSKY - VTVPCD" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia HD
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY - VTVPCD" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC HD
-http://sg.tinchuanchuaanh.com:8080/TLC_HD/index.m3u8
 #EXTINF:-1 group-title="MSKY - VTVPCD" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="MSKY - VTVPCD" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
