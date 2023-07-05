@@ -34,22 +34,22 @@ https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/7KUzwk9y_VTC3.png", VTC3
 http://live.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/v9p4MuZs_VTC7.png", VTC7
-https://code.vthanhtivi.pw/getlink/mytv/398/auto.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/201/0.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/O7AnyspZ_VTC9.png", VTC9
-https://code.vthanhtivi.pw/getlink/mytv/399/auto.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/203/0.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/BdovMao2_VTC10.png", VTC10
-https://code.vthanhtivi.pw/getlink/mytv/29/auto.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/m6weJ6jE_VTC13.png", VTC13
-https://code.vthanhtivi.pw/getlink/mytv/184/auto.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/204/0.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/TA4L8Dsc_VTC14.png", VTC14
-https://code.vthanhtivi.pw/getlink/mytv/32/auto.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/17/0.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/1Ik4uGlz_VTC16.png", VTC16
+https://code.vthanhtivi.pw/getlink/tv360/18/0.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png", HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
 https://code.vthanhtivi.pw/getlink/tv360/194/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
-https://code.vthanhtivi.pw/getlink/mytv/18/auto.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/195/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/VTVCab_1.png/revision/latest?cb=20200509123228", Vie Giải Trí
@@ -191,14 +191,14 @@ https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist_b3128000_sleng
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi", TH Hải Phòng Plus
 https://mediatech.vncdn.vn//thplive/tv2live-transmux.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TRT.png/revision/latest?cb=20210722104634&path-prefix=vi", TH Thừa Thiên Huế
-https://code.vthanhtivi.pw/getlink/tv360/63/2.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230609/4c4f164e-7c51-4cd8-bf20-a3d8f420498c.png", TH Gia Lai
 https://code.vthanhtivi.pw/getlink/tv360/55/2.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/HBTV_logo_2021.png/revision/latest?cb=20211207143328&path-prefix=vi", TH Hòa Bình
-https://code.vthanhtivi.pw/getlink/mytv/159/hd.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TRT.png/revision/latest?cb=20210722104634&path-prefix=vi", TH Thừa Thiên Huế
+https://code.vthanhtivi.pw/getlink/tv360/63/2.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png", TH Khánh Hòa
+https://code.vthanhtivi.pw/getlink/tv360/65/2.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg/1920px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Th%E1%BB%8D_-_PTV.svg.png", TH Phú Thọ
-https://code.vthanhtivi.pw/getlink/mytv/410/hd.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/77/2.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png", TH Long An
 https://lms-public-ingest.swiftfederation.com/la34/tvlive-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hatinhtv.vn/img/logo-footer.png", TH Hà Tĩnh
