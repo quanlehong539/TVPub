@@ -213,8 +213,8 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/HBTV_logo_2021.png/revision/latest?cb=20211207143328&path-prefix=vi", TH Hòa Bình
 https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/TRT.png/revision/latest?cb=20210722104634&path-prefix=vi", TH Thừa Thiên Huế
-https://live.trt.com.vn/TRT-Online/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://qrt.vn/wp-content/uploads/2022/09/QRT_logo_2019.png", TH Quảng Nam
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/tvblogo", TVB
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
