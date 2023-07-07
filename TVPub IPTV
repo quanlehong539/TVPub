@@ -29,6 +29,8 @@ https://code.vthanhtivi.pw/getlink/tv360/98/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/157/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/1200px-Vtv5taynguyen_logo.svg.png", VTV5 Tây Nguyên
 https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png", VOV TV
+https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/7KUzwk9y_VTC3.png", VTC3
 http://live.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/v9p4MuZs_VTC7.png", VTC7
@@ -258,8 +260,6 @@ http://b4tv.live/b4tv/b4tv/2.m3u8
 http://b4tv.live/b4tv/b4tv/3.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv4.gif", B4TV4
 http://b4tv.live/b4tv/b4tv/4.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.vff.org.vn/logo.png", VFF Channel
-https://ythls.onrender.com/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8
 
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", VTVcab 3 HD
 http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7UvOzToOAulC3_uEKWloXA4U/m3u8
