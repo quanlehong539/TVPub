@@ -258,8 +258,8 @@ http://b4tv.live/b4tv/b4tv/2.m3u8
 http://b4tv.live/b4tv/b4tv/3.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv4.gif", B4TV4
 http://b4tv.live/b4tv/b4tv/4.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv.gif", B4TV CONNECT
-http://b4tv.live/b4tv/b4tv/5.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.vff.org.vn/logo.png", VFF Channel
+https://ythls.onrender.com/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8
 
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", VTVcab 3 HD
 http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7UvOzToOAulC3_uEKWloXA4U/m3u8
