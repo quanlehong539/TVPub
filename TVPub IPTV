@@ -252,14 +252,14 @@ https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/447/hd.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/449.png", MyTV 804
 https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv1.gif", B4TV1
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv1.gif", B4MEN
 http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv2.gif", B4TV2
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv2.gif", B4BOX
 http://b4tv.live/b4tv/b4tv/2.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv3.gif", B4TV3
-http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv4.gif", B4TV4
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv4.gif", B4TUBE
 http://b4tv.live/b4tv/b4tv/4.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv.gif", B4CONNECT
+http://b4tv.live/b4tv/b4tv/5.m3u8
 
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", VTVcab 3 HD
 http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7UvOzToOAulC3_uEKWloXA4U/m3u8
