@@ -262,11 +262,14 @@ http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7UlGGgS0mEtNkhTljHWUhZ9s/m3u8
 http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7UnAdTk-I_L4JFxO4p2u5XUA/m3u8
 
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", VTVcab 3 HD
-http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7UvOzToOAulC3_uEKWloXA4U/m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", VTVcab 16 HD
-http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7Ul4oX030WmXabktTspriCfc/m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", VTVcab 18 HD
-http://103.188.245.46:80/play/4QwRtVvD1xJIP-l7j-o7UsCC9msmGXZbXdOjHZX17XA/m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 http://live.vthanhtivi.pw/hbo/index.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
