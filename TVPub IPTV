@@ -22,11 +22,11 @@ http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png", VTV4
 https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
-https://code.vthanhtivi.pw/getlink/tv360/110/2.m3u8
+http://stream.cvmtv.site/vtv5?token=live
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://bit.ly/3CSdQyi", VTV Cần Thơ
 https://code.vthanhtivi.pw/getlink/tv360/98/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png", VTV5 Tây Nam Bộ
-https://code.vthanhtivi.pw/getlink/tv360/157/2.m3u8
+http://stream.cvmtv.site/vtv5tnb?token=live
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/1200px-Vtv5taynguyen_logo.svg.png", VTV5 Tây Nguyên
 https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png", VOV TV
