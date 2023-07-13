@@ -152,12 +152,14 @@ http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_640_360.png", In The Box
 http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest/scale-to-width-down/1000?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/THVL2.png/revision/latest?cb=20201115052058&path-prefix=vi", TH Vĩnh Long 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/THVL2_logo.png/revision/latest?cb=20230219024829&path-prefix=vi", TH Vĩnh Long 2
 http://live.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a5/THVL3_logo_10.02.2019-nay.png/revision/latest/scale-to-width-down/1000?cb=20220411074327&path-prefix=vi", TH Vĩnh Long 3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/THVL3_logo.png/revision/latest?cb=20220505105258&path-prefix=vi", TH Vĩnh Long 3
 http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest?cb=20220505105305&path-prefix=vi", TH Vĩnh Long 4
+http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://danangtv.vn/images/drt1.png", TH Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/binhphuoc2.png", TH Bình Phước 2
@@ -170,8 +172,6 @@ http://103.90.220.236/nbtvlive/tv1live.m3u8
 http://live.langsontv.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.hungyentv.vn/templates/frontend/hytv/Assets/img/logo-vien-trang-1_22.png", TH Hưng Yên
 http://103.90.220.236/hytvlive/tv1live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.sonlatv.vn/upload/files/logo/logo_footer.png", TH Sơn La
-http://103.90.220.236/sltvlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://thaibinhtv.vn/templates/frontend/tbtv/Assets/img/logo.png", TH Thái Bình
 http://103.90.220.236/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/logo.png", TH Tiền Giang
