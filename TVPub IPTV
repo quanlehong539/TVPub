@@ -44,20 +44,20 @@ https://1117141481.vnns.net/VTC14/chunks.m3u8
 https://1117141481.vnns.net/VTC16/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png", HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
+https://code.hqth.xyz/getlink/vieon/htv7-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
+https://code.hqth.xyz/getlink/vieon/htv9-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
 http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/VTVCab_1.png/revision/latest?cb=20200509123228", Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
+https://code.hqth.xyz/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/ON_Info_TV.png/revision/latest?cb=20230228111228&path-prefix=vi", ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab9-info-tv/playlist.m3u8
+https://code.hqth.xyz/getlink/vieon2/vtvcab9-info-tv/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest?cb=20230610014951&path-prefix=vi", ON Trending TV
 https://liveh12.vtvcab.vn/hls/YEAH1_TV/03.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV1_logo_2022.png/revision/latest?cb=20220427230925&path-prefix=vi", SCTV1
@@ -250,13 +250,13 @@ http://live.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823359549/5a6a7ae3d796_640_360.png", HTV Thể Thao (50fps)
 http://live.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/267.png", MyTV 801
-https://code.vthanhtivi.pw/getlink/mytv/267/hd.m3u8
+https://code.hqth.xyz/getlink/mytv/267/hd.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/349.png", MyTV 802
-https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
+https://code.hqth.xyz/getlink/mytv/349/hd.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/447.png", MyTV 803
-https://code.vthanhtivi.pw/getlink/mytv/447/hd.m3u8
+https://code.hqth.xyz/getlink/mytv/447/hd.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://webapi.mytv.vn/static/channel/449.png", MyTV 804
-https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8
+https://code.hqth.xyz/getlink/mytv/449/hd.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv1.gif", B4MEN
 http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bep40.me/live/b4tv2.gif", B4BOX
@@ -275,9 +275,9 @@ https://liveh12.vtvcab.vn/hls/ONSPORTNEWSTA/04.m3u8
 #EXTINF:-1 group-title="MSKY-ON PLUS" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/ad12aa62-1d69-4141-8852-18d65ab3be64.jpg", ON Golf ENG
 https://liveh12.vtvcab.vn/hls/ONGOLFTA/04.m3u8
 #EXTINF:-1 group-title="MSKY-ON PLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
-http://live.vthanhtivi.pw/hbo/index.m3u8
+http://live.hqth.xyz/hbo/index.m3u8
 #EXTINF:-1 group-title="MSKY-ON PLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
-http://live.vthanhtivi.pw/cinemax/index.m3u8
+http://live.hqth.xyz/cinemax/index.m3u8
 #EXTINF:-1 group-title="MSKY-ON PLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 #EXTINF:-1 group-title="MSKY-ON PLUS" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang
