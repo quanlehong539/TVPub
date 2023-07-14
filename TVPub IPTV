@@ -278,31 +278,31 @@ https://tiemnhazunn.click/vieon/vtvcab16.php
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", VTVcab 18 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/onsportsnews.php
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 http://live.hqth.xyz/hbo/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 http://live.hqth.xyz/cinemax/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang HD
 http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN HD
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV HD
 http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld HD
 http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth HD
 http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet HD
 http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia HD
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
 http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
