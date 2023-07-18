@@ -49,7 +49,7 @@ https://code.hqth.xyz/getlink/vieon/htv7-hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.hqth.xyz/getlink/vieon/htv9-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
-http://stream.cvmtv.site/htvtt?token=live
+https://code.hqth.xyz/getlink/htv/4009/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/VTVCab_1.png/revision/latest?cb=20200509123228", Vie Giải Trí
@@ -200,8 +200,6 @@ https://hqth.me/tvpublive2
 https://hqth.me/tvpublive3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://hqth.me/3D4", TVPub 4
 https://hqth.me/tvpublive4
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://hqth.me/3D4", TVPub 5
-https://hqth.me/tvpublive5
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png", TV360 Cửu Long
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_640_360.png", TV360+ 1
@@ -275,10 +273,8 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
 
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #2
-http://stream.cvmtv.site/qhtv?token=live
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #3
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #4
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #3
 https://ubfgr3yzbdliv.vcdn.cloud/live/smil:quochoitv.smil/chunklist_w1193867561_b3128000_sleng.m3u8
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", ON Football ENG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -286,6 +282,10 @@ https://code.hqth.xyz/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", ON Sports News ENG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.hqth.xyz/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Das Erste
+http://stream.cvmtv.site/DasErste?token=live
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", ZDF
+http://stream.cvmtv.site/ZDF?token=live
 
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://www.asahi.co.jp/img/gtop/facebook_ogp.png", ABC TV
 https://tiemnhazunn.click/japantv/?id=28
