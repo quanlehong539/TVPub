@@ -170,6 +170,8 @@ https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2021/06/08/925076-Logo-kenh-Dak-nong.png", TH Đắk Nông
 https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hatinhtv.vn/img/logo-footer.png", TH Hà Tĩnh
+https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/PTQ.png", TH Quảng Ngãi
 http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/163936-Lamdong.png", TH Lâm Đồng
@@ -284,8 +286,6 @@ https://code.hqth.xyz/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
 https://code.hqth.xyz/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Das Erste
 http://stream.cvmtv.site/DasErste?token=live
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", ZDF
-http://stream.cvmtv.site/ZDF?token=live
 
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://www.asahi.co.jp/img/gtop/facebook_ogp.png", ABC TV
 https://tiemnhazunn.click/japantv/?id=28
@@ -353,7 +353,7 @@ https://tiemnhazunn.click/japantv/?id=157
 https://tiemnhazunn.click/japantv/?id=114
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://tinyurl.com/2szxntcd", Dance Channel
 https://tiemnhazunn.click/japantv/?id=140
-#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://tinyurl.com/mu3u9fcx", Green
+#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://www.greenchannel.jp/campaign/lp2022/image/footer-logo_sp.png", Green Channel
 https://tiemnhazunn.click/japantv/?id=60
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://tinyurl.com/4tkn85ec", Gunma TV
 https://tiemnhazunn.click/japantv/?id=110
@@ -369,7 +369,7 @@ https://tiemnhazunn.click/japantv/?id=138
 https://tiemnhazunn.click/japantv/?id=139
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png", GAORA Sports
 https://tiemnhazunn.click/japantv/?id=1
-#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://tinyurl.com/2p89enzt", Golf
+#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://www.golfnetwork.plus/cms_img/new_home/img/jgn_logo.png", Golf Network
 https://tiemnhazunn.click/japantv/?id=67
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J Sports 1
 https://tiemnhazunn.click/japantv/?id=68
@@ -385,9 +385,9 @@ https://tiemnhazunn.click/japantv/?id=90
 https://tiemnhazunn.click/japantv/?id=72
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://tinyurl.com/bda877eu", Sports Live Plus
 https://tiemnhazunn.click/japantv/?id=150
-#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://www.mystery.co.jp/assets/images/meta/ogp.png", AXN Mystery
+#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://archive.ph/KUO42/6e59c0fe526db08cf970e6efe07372d2d17ffd67.png", AXN Mystery
 https://tiemnhazunn.click/japantv/?id=323
-#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN Japan
+#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png", AXN Japan
 https://tiemnhazunn.click/japantv/?id=137
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://i.imgur.com/iNwIAso.png", Eisei Gekijo
 https://tiemnhazunn.click/japantv/?id=84
@@ -423,13 +423,13 @@ https://tiemnhazunn.click/japantv/?id=133
 https://tiemnhazunn.click/japantv/?id=141
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/408/1020750.jpg", Toei Channel
 https://tiemnhazunn.click/japantv/?id=85
-#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest?cb=20200215065013", WOWOW Cinema
+#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png", WOWOW Cinema
 https://tiemnhazunn.click/japantv/?id=41
-#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://image-proxy.wowow.co.jp/uploads/attachment/file/43303/6f9795e0-7713-439e-af43-04809c98c867.png?w=800&h=800", WOWOW Live
+#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png", WOWOW Live
 https://tiemnhazunn.click/japantv/?id=40
-#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_sp.png?1130", WOWOW Plus
+#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_plus.png", WOWOW Plus
 https://tiemnhazunn.click/japantv/?id=55
-#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334", WOWOW Prime
+#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOW Prime
 https://tiemnhazunn.click/japantv/?id=39
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://tinyurl.com/ynaerbxp", Kayo Pops
 https://tiemnhazunn.click/japantv/?id=135
@@ -574,6 +574,8 @@ https://code.hqth.xyz/getlink/jptv2/30/playlist.m3u8
 https://code.hqth.xyz/getlink/jptv2/31/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/WOWOW_cinema.png", WOWOW Cinema
 https://code.hqth.xyz/getlink/jptv2/32/playlist.m3u8
+#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/WOWOW-plus-jp.png", WOWOW Plus
+https://code.hqth.xyz/getlink/jptv2/36/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
 https://code.hqth.xyz/getlink/jptv2/33/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2  
@@ -594,8 +596,6 @@ https://code.hqth.xyz/getlink/jptv2/45/playlist.m3u8
 https://code.hqth.xyz/getlink/jptv2/46/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png", BS Fishing Vision  
 https://code.hqth.xyz/getlink/jptv2/40/playlist.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/WOWOW-plus-jp.png", WOWOW Plus
-https://code.hqth.xyz/getlink/jptv2/36/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png", BS Japan Movie Channel  
 https://code.hqth.xyz/getlink/jptv2/38/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg", Disney Channel
