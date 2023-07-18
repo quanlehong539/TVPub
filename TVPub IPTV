@@ -598,7 +598,7 @@ https://code.hqth.xyz/getlink/jptv2/46/playlist.m3u8
 https://code.hqth.xyz/getlink/jptv2/40/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png", BS Japan Movie Channel  
 https://code.hqth.xyz/getlink/jptv2/38/playlist.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg", Disney Channel
+#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png", Disney Channel
 https://code.hqth.xyz/getlink/jptv2/39/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル / Home Drama Channel 
 https://code.hqth.xyz/getlink/jptv2/59/playlist.m3u8
