@@ -566,15 +566,15 @@ https://code.hqth.xyz/getlink/jptv2/26/playlist.m3u8
 https://code.hqth.xyz/getlink/jptv2/27/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BS TV Tokyo
 https://code.hqth.xyz/getlink/jptv2/28/playlist.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg", BS Fuji  
+#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.bsfuji.tv/top/common/img/head_logo_bsf.png", BS Fuji  
 https://code.hqth.xyz/getlink/jptv2/29/playlist.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/WOWOW_prime.png", WOWOW Prime  
+#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOW Prime
 https://code.hqth.xyz/getlink/jptv2/30/playlist.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/WOWOW_live.png", WOWOW Live  
+#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png", WOWOW Live
 https://code.hqth.xyz/getlink/jptv2/31/playlist.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/WOWOW_cinema.png", WOWOW Cinema
+#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png", WOWOW Cinema
 https://code.hqth.xyz/getlink/jptv2/32/playlist.m3u8
-#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/WOWOW-plus-jp.png", WOWOW Plus
+#EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_plus.png", WOWOW Plus
 https://code.hqth.xyz/getlink/jptv2/36/playlist.m3u8
 #EXTINF:-1 group-title="NHẬT BẢN #2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
 https://code.hqth.xyz/getlink/jptv2/33/playlist.m3u8
