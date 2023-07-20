@@ -290,7 +290,7 @@ https://arcgmoblie.site/cliptv/cliptv.php?id=on-football
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://arcgmoblie.site/cliptv/cliptv.php?id=on-sports-news
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", VTVcab 16 HD #3
-http://128.199.214.24/ONF/mpegts
+http://103.9.211.134:8080/ONF/index.m3u8
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", VTVcab 18 HD #3
 http://128.199.214.24/OSN/mpegts
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", HTV Thể Thao #2
