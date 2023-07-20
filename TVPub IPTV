@@ -256,16 +256,12 @@ http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #3
 http://stream.cvmtv.site/qhtv?token=live
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #4
-http://4.tcp.ngrok.io:17199/quochoi/index.m3u8
+http://103.9.211.134:8080/QHTV/index.m3u8
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #5
 http://128.199.214.24/QHTV/mpegts
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #6
 http://103.56.160.133:8081/quochoi
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #7
-https://fbvip88.com/mytv/mytv.php?id=223
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #8
-https://code.vthanhtivi.pw/getlink/mytv/223/hd.m3u8
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://arcgmoblie.site/cliptv/cliptv.php?id=quoc-hoi
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", VTVcab 16 HD #2
@@ -278,6 +274,10 @@ https://arcgmoblie.site/cliptv/cliptv.php?id=on-sports-news
 http://128.199.214.24/ONF/mpegts
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", VTVcab 18 HD #3
 http://128.199.214.24/OSN/mpegts
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", VTVcab 16 HD #4
+http://103.9.211.134:8080/onfootball/index.m3u8
+#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", VTVcab 18 HD #4
+http://103.9.211.134:8080/OSN/index.m3u8
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", FWWC Live Event +
 https://hqth.me/fwwc2023
 #EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", FWWC Live Event 1
