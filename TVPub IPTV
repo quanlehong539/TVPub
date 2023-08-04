@@ -247,6 +247,8 @@ http://b4tv.live/b4tv/b4tv/5.m3u8
 http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 http://live.vthanhtivi.pw/cinemax
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
+http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN HD
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX HD
@@ -470,8 +472,6 @@ https://tiemnhazunn.click/japantv/?id=107
 https://tiemnhazunn.click/japantv/?id=105
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://i0.wp.com/ciptv.org/img/Anime-Zone-TV.png?fit=750%2C422", Anime Zone
 https://tiemnhazunn.click/japantv/?id=109
-#EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://animeinasia.files.wordpress.com/2017/04/aniplus.png", ANIPLUS ASIA
-https://tiemnhazunn.click/japantv/?id=113
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", BS Animax
 https://tiemnhazunn.click/japantv/?id=56
 #EXTINF:-1 group-title="NHẬT BẢN #1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
