@@ -47,7 +47,7 @@ https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
-https://code.vthanhtivi.pw/getlink/mytv/18/hd.m3u8
+http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/VTVCab_1.png/revision/latest?cb=20200509123228", Vie Giải Trí
@@ -75,7 +75,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qMKjaQAUbw1Y?format=png", SCTV15
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
+https://code.vthanhtivi.pw/getlink/sctvonline/sctv15/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
@@ -83,7 +83,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2022/06/07/2749531-logoc-thuanviet.png", HTVC Thuần Việt
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png", HTVC Ca Nhạc
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png", HTVC Phim
@@ -92,7 +92,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://namhuongcorp.com.vn/wp-content/uploads/2018/08/logo-hitv.png", HiTV
-https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/32/0.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-science/Love_Nature_4K_190x190_circle.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -105,7 +105,7 @@ https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canal%2B_Premium.svg/1200px-Canal%2B_Premium.svg.png", Canal+ Premium
-http://stream.cvmtv.site/canalpre?token=live
+http://128.199.214.24:8080/canalpre?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png", Channel 4
 http://stream.cvmtv.site/Channel4?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/AniplusLogo", Aniplus
@@ -126,6 +126,8 @@ https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png", FTF Sports
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Logo_Anime-Digital-Network.svg/1024px-Logo_Anime-Digital-Network.svg.png", Animation Digital Network
+https://hqth.me/tvpublive5
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
@@ -171,7 +173,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/HanoiTV2_HD.png/revision/latest?cb=20220816111421&path-prefix=vi", TH Hà Nội 2
 https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi", TH Hải Phòng Plus
-https://mediatech.vncdn.vn//thplive/tv2live-transmux.m3u8
+https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png", TH TP Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.brt.vn/static/media/logo.png", TH Bà Rịa Vũng Tàu
@@ -205,8 +207,6 @@ https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w748139724.m3u8
 https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png", IVTV
 https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/vftvlogo", VFTV
-https://stream.bozztv.com/vnvnsys/vnvnsys/chunklist_w1375891137.m3u8
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://hqth.me/3D4", TVPub +
 https://hqth.me/tvpublive
@@ -218,8 +218,6 @@ https://hqth.me/tvpublive2
 https://hqth.me/tvpublive3
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://hqth.me/3D4", TVPub 4
 https://hqth.me/tvpublive4
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://hqth.me/3D4", TVPub 5
-https://hqth.me/tvpublive5
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png", TV360 Cửu Long
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_640_360.png", TV360+ 1
@@ -271,48 +269,13 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", VTVcab 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/onsports.php
+https://tiemnhazunn.click/vieon/vieoncab.php?id=vtvcab3-on-sports
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", VTVcab 6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/onsportsplus.php
+https://tiemnhazunn.click/vieon/vieoncab.php?id=vtvcab6-on-sport-plus
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", VTVcab 16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/vtvcab16.php
+https://tiemnhazunn.click/vieon/vieoncab.php?id=vtvcab16-on-football
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", VTVcab 18 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/onsportsnews.php
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/f6818e24-6211-42c5-aad5-4846dd29ee99.png", ON Football ENG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
-#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/5de42a4a-a26a-4eab-afcc-c119c9f918bb.png", ON Sports News ENG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #2
-http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #3
-http://stream.cvmtv.site/qhtv?token=live
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #4
-http://103.56.160.133:8081/quochoi
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #5
-http://128.199.214.24/QHTV/mpegts
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", Quốc Hội TV #6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptv/cliptv.php?id=quoc-hoi
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", VTVcab 18 HD #2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptv/cliptv.php?id=on-sports-news
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", VTVcab 18 HD #3
-http://128.199.214.24/OSN/mpegts
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", HTV Thể Thao #2
-http://stream.cvmtv.site/htvtt?token=live
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", FWWC Live Event +
-https://hqth.me/fwwc2023
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", FWWC Live Event 1
-https://hqth.me/sport1
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", FWWC Live Event 2
-https://hqth.me/sport2
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", FWWC Live Event 3
-https://hqth.me/sport3
-#EXTINF:-1 group-title="FIFA WOMEN'S WORLD CUP" tvg-logo="https://digitalhub.fifa.com/transform/2c7c1c6d-cc74-4082-b6d7-53e31496637d/Digital-logo-desktop-WWC", FWWC Live Event 4
-https://hqth.me/sport4
+https://tiemnhazunn.click/vieon/vieoncab.php?id=vtvcab18-on-sports-news
