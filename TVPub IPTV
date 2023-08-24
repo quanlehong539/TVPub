@@ -138,7 +138,7 @@ https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f2/Nippon_Television-Logo.svg/2560px-Nippon_Television-Logo.svg.png", Nippon TV
 http://203.162.235.41:16095/
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://media.info/l/f/6/6781.1672512690.png", Viaplay Xtra
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2023/07/VIAPLAY_XTRA_WEBSITE.png", Viaplay Xtra
 http://stream2.cvmtv.site:8080/ViaXtra?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", Match TV
 http://194.143.148.28/MatchHD/mono.m3u8
