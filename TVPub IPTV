@@ -20,9 +20,9 @@ http://live.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
 http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
-http://stream.cvmtv.site:8000/vtv5?token=live
+http://stream.cvmtv.site/vtv5?token=live
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png", VTV5 Tây Nam Bộ
-http://stream.cvmtv.site:8000/vtv5tnb?token=live
+http://stream.cvmtv.site/vtv5tnb?token=live
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/7KUzwk9y_VTC3.png", VTC3
 http://live.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/v9p4MuZs_VTC7.png", VTC7
@@ -50,7 +50,7 @@ https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
-http://stream.cvmtv.site:8000/htvtt?token=live
+http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/VTVCab_1.png/revision/latest?cb=20200509123228", Vie Giải Trí
@@ -106,9 +106,9 @@ https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canal%2B_Premium.svg/1200px-Canal%2B_Premium.svg.png", Canal+ Premium
-http://128.199.214.24:8080/canalpre?token=live
+http://stream.cvmtv.site/canalpre?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png", Channel 4
-http://stream2.cvmtv.site:8080/Channel4?token=live
+http://stream.cvmtv.site/Channel4?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/AniplusLogo", Aniplus
 https://hqth.me/aniplus
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
@@ -139,7 +139,7 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f2/Nippon_Television-Logo.svg/2560px-Nippon_Television-Logo.svg.png", Nippon TV
 http://203.162.235.41:16095/
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2023/07/VIAPLAY_XTRA_WEBSITE.png", Viaplay Xtra
-http://stream2.cvmtv.site:8080/ViaXtra?token=live
+http://stream.cvmtv.site/ViaXtra?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", Match TV
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://netlinkbroadcaster.com/image/logo/tvk.png", TVK
