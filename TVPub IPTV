@@ -125,6 +125,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/vDgcLG", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.retrocrush.tv/images/retrocrush/retrocrush_logo2.png", RetroCrush TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png", FTF Sports
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Logo_Anime-Digital-Network.svg/1024px-Logo_Anime-Digital-Network.svg.png", Anime Digital Network
@@ -142,10 +144,6 @@ http://203.162.235.41:16095/
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", Match TV
 http://194.143.148.28/MatchHD/mono.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://netlinkbroadcaster.com/image/logo/tvk.png", TVK
-https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://netlinkbroadcaster.com/image/logo/tvk2.png", TVK2
-https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.tvdream.net/img/yamatoanimation.png", Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.rajawali.com/wp-content/uploads/2017/04/Rajawali-Televisi.png", Rajawali TV
@@ -258,6 +256,9 @@ https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/axn/playlist.m3u8
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN HD
