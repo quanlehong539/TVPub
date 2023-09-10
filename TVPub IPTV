@@ -88,7 +88,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png", HTVC Phim
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2015-03-26/9681507-logo-htvc-dulic.png", HTVC Du lịch Cuộc sống
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/HTVCDulchvcucsng_150x902_1675158898.webp", HTVC Du Lịch & Cuộc Sống
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://bchannel.vn/wp-content/uploads/bfi_thumb/Logo-BTV9-Bchannelv2-q68qnhi49jh16dabrhrd7kq9yll6tl96rwgoyv34e8.png", BTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
