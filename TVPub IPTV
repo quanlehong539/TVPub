@@ -139,8 +139,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/nhkprelogo", NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://true4u.com/images/logo.png", True4U
-https://ctrl.laotv.la/live/True4U/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wp-white.png", Workpoint
+https://ctrl.laotv.la/live/WorkPoint/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://assets.website-files.com/605d30d204b9a4582f828426/605d4b8ff3a05a264692165e_ESTVwhite.png", ESTV
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", Match TV
