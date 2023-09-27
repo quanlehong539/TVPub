@@ -176,7 +176,7 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png", TH TP Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.brt.vn/static/media/logo.png", TH Bà Rịa Vũng Tàu
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.brt.vn/static/images/logo.png", TH Bà Rịa Vũng Tàu
 https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png", TH Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
