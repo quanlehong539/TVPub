@@ -19,9 +19,9 @@ http://live.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
 http://live.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wiki.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
 http://stream.cvmtv.site/vtv5?token=live
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wiki.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png", VTV5 Tây Nam Bộ
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png", VTV5 Tây Nam Bộ
 http://live.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/7KUzwk9y_VTC3.png", VTC3
 http://live.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
@@ -40,15 +40,15 @@ https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static-ott.admon.com.vn/assets/bc122c9c/thumbnail/2023/01/18/1Ik4uGlz_VTC16.png", VTC16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://1117141481.vnns.net/VTC16/chunks.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wiki.org/wikipedia/vi/4/4c/HTV7Logomoi.png", HTV7
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png", HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wiki.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wiki.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
 http://stream.cvmtv.site/htvtt?token=live
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wiki.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/VTVCab_1.png/revision/latest?cb=20200509123228", Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -56,6 +56,8 @@ https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/styletvmoi5.jpg", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab12-style-tv/playlist.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/kid2_1675158859.webp", ON Kids
+http://live.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/onlife5_1675158869.webp", ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
@@ -67,16 +69,16 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/SCTV6_2017.png/revision/latest?cb=20220223142106&path-prefix=vi", SCTV6
 http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com//Fa6qJlTagAAhEmX?format=png", SCTV9
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com//Fa6qMJeaIAAur_z?format=png", SCTV14
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qMJeaIAAur_z?format=png", SCTV14
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com//Fa6qMKjaQAUbw1Y?format=png", SCTV15
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qMKjaQAUbw1Y?format=png", SCTV15
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv15/playlist.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com//Fa6qQr8akAQB6LI?format=png", SCTV17
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qQr8akAQB6LI?format=png", SCTV17
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/SCTV21.png/revision/latest?cb=20210821043405&path-prefix=vi", SCTV21
@@ -93,6 +95,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://bchannel.vn/wp-content/uploads/bfi_thumb/Logo-BTV9-Bchannelv2-q68qnhi49jh16dabrhrd7kq9yll6tl96rwgoyv34e8.png", BTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="http://www.youtv.vn/images/logo.png", YouTV
+http://vthanhtivi.pw:5000/youtv/index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/Phim_hay.png/revision/latest?cb=20201023102537&path-prefix=vi", Phim Hay
 https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b2289152.m3u8
 
@@ -104,7 +108,7 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png", Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live
@@ -112,11 +116,11 @@ http://stream.cvmtv.site/canal1?token=live
 http://stream.cvmtv.site/canal2?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png", FTF Sports
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/vi/thumb/c/c7/Logo_Real_Madrid.svg/640px-Logo_Real_Madrid.svg.png", Real Madrid TV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/c7/Logo_Real_Madrid.svg/640px-Logo_Real_Madrid.svg.png", Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/150px-Zvezda_logo.svg.png", Zvezda TV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/150px-Zvezda_logo.svg.png", Zvezda TV
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -128,13 +132,13 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/vDgcLG", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wixstatic.com//3461da_652cf423cc0c4a09bd0ecac8848458f7~mv2.png", Moonbug
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wixstatic.com/media/3461da_652cf423cc0c4a09bd0ecac8848458f7~mv2.png", Moonbug
 https://moonbug-rokuus.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/fr/thumb/4/45/Logo_Anime-Digital-Network.svg/1024px-Logo_Anime-Digital-Network.svg.png", Anime Digital Network
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Logo_Anime-Digital-Network.svg/1024px-Logo_Anime-Digital-Network.svg.png", Anime Digital Network
 https://hqth.me/tvpublive5
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/nhkprelogo", NHK World Premium
@@ -143,24 +147,40 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://assets.website-files.com/605d30d204b9a4582f828426/605d4b8ff3a05a264692165e_ESTVwhite.png", ESTV
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/commons/b/b6/Match_TV_logo.png", Match TV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", Match TV
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.tvdream.net/img/yamatoanimation.png", Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/vi/thumb/a/a1/Man_Utd_FC_.svg/1200px-Man_Utd_FC_.svg.png", MUTV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/a1/Man_Utd_FC_.svg/1200px-Man_Utd_FC_.svg.png", MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mncvision.tv/userfiles/image/channel/celestial.png", Celestial Movies
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/commons/4/41/Rock_Action.png", Rock Action
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png", Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wiki.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/1200px-Rock_Entertainment.png", Rock Entertainment
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/1200px-Rock_Entertainment.png", Rock Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN Asia
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png", tvN Movies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/BoxMovie1_150x902_1675158875.webp", Box Movie 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/Hollywoodclassics_150x902_1675158893.webp", Hollywood Classics
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/MusicBOX_150x901j1_1675158894.webp", Music Box
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/DrFit_150x902_1675158875.webp", Dr.Fit
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/Happykids_150x902_1675158913.webp", Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
@@ -168,13 +188,17 @@ http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/THVL3_logo.png/revision/latest?cb=20220505105258&path-prefix=vi", TH Vĩnh Long 3
 http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://1clip.bacgiangtv.vn/upload/files/logo/v3/logo_v3.png", TH Bắc Giang
+https://stream.bacgiangtv.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_NTV_Ngh%E1%BB%87_An_2017.png/640px-Logo_NTV_Ngh%E1%BB%87_An_2017.png", TH Nghệ An
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://danangtv.vn/images/drt1.png", TH Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hqth.me/drtlogo", TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi", TH Hải Phòng Plus
 https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wiki.org/wikipedia/commons/7/73/Logo_THTPCT.png", TH TP Cần Thơ
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png", TH TP Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.brt.vn/static/images/logo.png", TH Bà Rịa Vũng Tàu
 https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8
@@ -198,10 +222,12 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2023/01/top-header-logo-full-name.png", TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png", TH Long An
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/tvblogo", TVB
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/-logo-saigon-entertainment-television-1.png", SET
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET
 https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w748139724.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/ibclogo", IBC
 https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
@@ -275,3 +301,64 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg", VTVcab 18 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg", VTVcab 23 HD
+http://live.tv360.vn/manifest/VTVcab23_Golf_HD_50fps/playlist_Golf-HD-50fps-1080P-5M.m3u8
+
+#EXTINF:-1 group-title="NGƯỜI LỚN", Penthouse
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", Playboy
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", Hustler
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", Brazzers
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Anal
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Asian
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Big Ass
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Big Dick
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Big Tits
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Blonde
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Blowjob
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Brunette
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Compilation
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Cuckold
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Fetish
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Gangbang
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Gay
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Hardcore
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Interracial
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Latina
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Lesbian
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Live Cams
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV MILF
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Pornstar
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV POV
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Rough
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Russian
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Teen
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
+https://cdn.adultiptv.net/threesome.m3u8
