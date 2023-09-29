@@ -56,6 +56,8 @@ https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/styletvmoi5.jpg", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab12-style-tv/playlist.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/kid2_1675158859.webp", ON Kids
+http://live.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/onlife5_1675158869.webp", ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
@@ -93,6 +95,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://bchannel.vn/wp-content/uploads/bfi_thumb/Logo-BTV9-Bchannelv2-q68qnhi49jh16dabrhrd7kq9yll6tl96rwgoyv34e8.png", BTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="http://www.youtv.vn/images/logo.png", YouTV
+http://vthanhtivi.pw:5000/youtv/index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/Phim_hay.png/revision/latest?cb=20201023102537&path-prefix=vi", Phim Hay
 https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b2289152.m3u8
 
@@ -162,12 +166,32 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png", tvN Movies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/BoxMovie1_150x902_1675158875.webp", Box Movie 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/Hollywoodclassics_150x902_1675158893.webp", Hollywood Classics
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/MusicBOX_150x901j1_1675158894.webp", Music Box
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/DrFit_150x902_1675158875.webp", Dr.Fit
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/Happykids_150x902_1675158913.webp", Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
+
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/THVL2_logo.png/revision/latest?cb=20230219024829&path-prefix=vi", TH Vĩnh Long 2
 http://live.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/THVL3_logo.png/revision/latest?cb=20220505105258&path-prefix=vi", TH Vĩnh Long 3
 http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://1clip.bacgiangtv.vn/upload/files/logo/v3/logo_v3.png", TH Bắc Giang
+https://stream.bacgiangtv.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_NTV_Ngh%E1%BB%87_An_2017.png/640px-Logo_NTV_Ngh%E1%BB%87_An_2017.png", TH Nghệ An
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://danangtv.vn/images/drt1.png", TH Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hqth.me/drtlogo", TH Đắk Lắk
@@ -198,6 +222,8 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2023/01/top-header-logo-full-name.png", TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png", TH Long An
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/tvblogo", TVB
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
@@ -275,3 +301,64 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg", VTVcab 18 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
+#EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg", VTVcab 23 HD
+http://live.tv360.vn/manifest/VTVcab23_Golf_HD_50fps/playlist_Golf-HD-50fps-1080P-5M.m3u8
+
+#EXTINF:-1 group-title="NGƯỜI LỚN", Penthouse
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", Playboy
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", Hustler
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", Brazzers
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Anal
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Asian
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Big Ass
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Big Dick
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Big Tits
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Blonde
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Blowjob
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Brunette
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Compilation
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Cuckold
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Fetish
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Gangbang
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Gay
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Hardcore
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Interracial
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Latina
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Lesbian
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Live Cams
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV MILF
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Pornstar
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV POV
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Rough
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Russian
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Teen
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
+https://cdn.adultiptv.net/threesome.m3u8
