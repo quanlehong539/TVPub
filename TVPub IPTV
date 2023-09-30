@@ -114,8 +114,8 @@ https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/strea
 http://stream.cvmtv.site/canal1?token=live
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png", Canal+ Sport 2
 http://stream.cvmtv.site/canal2?token=live
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png", FTF Sports
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://theme.zdassets.com/theme_assets/10231063/9c93e816315d3ff442a2262383d4611bac243857.png", Mnet Plus
+https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/c7/Logo_Real_Madrid.svg/640px-Logo_Real_Madrid.svg.png", Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
