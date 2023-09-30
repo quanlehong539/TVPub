@@ -169,9 +169,9 @@ http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/BoxMovie1_150x902_1675158875.webp", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/Hollywoodclassics_150x902_1675158893.webp", Hollywood Classics
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/PlanetEarth_150x902_1675158874.webp", Planet Earth
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/MusicBOX_150x901j1_1675158894.webp", Music Box
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
