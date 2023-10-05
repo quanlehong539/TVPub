@@ -87,17 +87,15 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png", HTVC Phim
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://hqth.me/logokplus1", K+ CINE
-http://vthanhtivi.pw:5000/kcine/mpegts
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://hqth.me/logokplus2", K+ ACTION
-http://vthanhtivi.pw:5000/klife/mpegts
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/Phim_hay.png/revision/latest?cb=20201023102537&path-prefix=vi", Phim Hay
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b2289152.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://bchannel.vn/wp-content/uploads/bfi_thumb/Logo-BTV9-Bchannelv2-q68qnhi49jh16dabrhrd7kq9yll6tl96rwgoyv34e8.png", BTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="http://www.youtv.vn/images/logo.png", YouTV
-http://vthanhtivi.pw:5000/youtv/index.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/Phim_hay.png/revision/latest?cb=20201023102537&path-prefix=vi", Phim Hay
-https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b2289152.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://hqth.me/logokplus1", K+ CINE (Test)
+https://hqth.me/testchannel1
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://hqth.me/logokplus2", K+ ACTION (Test)
+https://hqth.me/testchannel2
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/tvplus/all-channels/09222021/old-science/Love_Nature_4K_190x190_circle.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -142,6 +140,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/nhkprelogo", NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.etv.mn/wp-content/uploads/2021/08/etv-logo-1.png", ETV
+https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png", Thrill
 https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://assets.website-files.com/605d30d204b9a4582f828426/605d4b8ff3a05a264692165e_ESTVwhite.png", ESTV
