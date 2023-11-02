@@ -237,14 +237,6 @@ https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
 https://hqth.me/tvpublive
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png", TV360 Cửu Long
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_640_360.png", TV360+ 1
-http://live.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_640_360.png", TV360+ 2
-http://live.tv360.vn/manifest/u23-dubaicup2/playlist_U23-dubaicup2-360p.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+ 3
-http://live.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+ 4
-http://live.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822547208/f54ea5aae42c_640_360.png", VTV5 (50fps)
 http://live.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823359549/5a6a7ae3d796_640_360.png", HTV Thể Thao (50fps)
@@ -265,6 +257,14 @@ http://b4tv.live/b4tv/b4tv/3.m3u8
 http://b4tv.live/b4tv/b4tv/47.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 3
 http://b4tv.live/b4tv/b4tv/48.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS
+http://b4tv.live/b4tv/b4tv/120.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 1
+http://b4tv.live/b4tv/b4tv/19.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 2
+http://b4tv.live/b4tv/b4tv/20.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 3
+http://b4tv.live/b4tv/b4tv/21.m3u8
 
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -290,16 +290,16 @@ https://hqth.me/tvpublive4
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg", VTVcab 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
+https://hqth.me/zLje
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://imgvlive.vtvcab.vn/720X405/184f6e29-9a11-4876-85a8-1900e70bc3b3.jpg", VTVcab 6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
+https://hqth.me/and8
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg", VTVcab 16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
+https://hqth.me/jxee
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg", VTVcab 18 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
+https://hqth.me/iHJFD
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg", VTVcab 23 HD
 http://live.tv360.vn/manifest/VTVcab23_Golf_HD_50fps/playlist_Golf-HD-50fps-1080P-5M.m3u8
 
