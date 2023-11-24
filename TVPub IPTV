@@ -131,9 +131,6 @@ https://moonbug-rokuus.amagi.tv/playlist1080-p.m3u8
 https://hqth.me/tvpublive5
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1200px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://hqth.me/nhkprelogo", NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.etv.mn/wp-content/uploads/2021/08/etv-logo-1.png", ETV
@@ -160,11 +157,13 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/BoxMovie1_150x902_1675158875.webp", Box Movie 1
-http://asia.vthanhtivi.pw/Box_Movie_1/mpegts
+http://stream.vthanhtivi.pw/Box_Movie_1/mpegts
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/Hollywoodclassics_150x902_1675158893.webp", Hollywood Classics
-http://asia.vthanhtivi.pw/Hollywood_Classics/mpegts
+http://stream.vthanhtivi.pw/Hollywood_Classics/mpegts
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/IntheBoxChannel_150x901j1_1675158886.webp", In The Box
-http://asia.vthanhtivi.pw/In_The_Box/mpegts
+http://stream.vthanhtivi.pw/In_The_Box/mpegts
+#EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/boxHit_Logo_150x901_1675158888.webp", Box Hits
+http://stream.vthanhtivi.pw/Box_Hits/mpegts
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -183,8 +182,8 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hqth.me/drtlogo", TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/THP_Plus.png/revision/latest?cb=20210822012039&path-prefix=vi", TH Hải Phòng Plus
-https://hqth.me/thplus
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png", TH Hà Nam
+https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_THTPCT.png", TH TP Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.brt.vn/static/images/logo.png", TH Bà Rịa Vũng Tàu
@@ -252,12 +251,12 @@ http://b4tv.live/b4tv/b4tv/20.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://hqth.me/tvpublive1
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-http://vthanhtivi.pw:5000/cinemax/mpegts
+http://cdnlive.vthanhtivi.pw/cinemax/mpegts
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://hqth.me/tvpublive2
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
-http://vthanhtivi.pw:5000/animax/mpegts
+http://cdnlive.vthanhtivi.pw/animax/mpegts
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://hqth.me/tvpublive3
