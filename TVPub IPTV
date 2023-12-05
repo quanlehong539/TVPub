@@ -157,13 +157,13 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/BoxMovie1_150x902_1675158875.webp", Box Movie 1
-http://stream.vthanhtivi.pw/Box_Movie_1/mpegts
+http://edge.vthanhtivi.pw/Box_Movie_1/mpegts
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/Hollywoodclassics_150x902_1675158893.webp", Hollywood Classics
-http://stream.vthanhtivi.pw/Hollywood_Classics/mpegts
+http://edge.vthanhtivi.pw/Hollywood_Classics/mpegts
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/IntheBoxChannel_150x901j1_1675158886.webp", In The Box
-http://stream.vthanhtivi.pw/In_The_Box/mpegts
+http://edge.vthanhtivi.pw/In_The_Box/mpegts
 #EXTINF:-1 group-title="IN THE BOX" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20210731/2021073114/boxHit_Logo_150x901_1675158888.webp", Box Hits
-http://stream.vthanhtivi.pw/Box_Hits/mpegts
+http://edge.vthanhtivi.pw/Box_Hits/mpegts
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -177,7 +177,7 @@ https://code.vthanhtivi.pw/getlink/vieon/thvl3-hd/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://1clip.bacgiangtv.vn/upload/files/logo/v3/logo_v3.png", TH Bắc Giang
 https://stream.bacgiangtv.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_NTV_Ngh%E1%BB%87_An_2017.png/640px-Logo_NTV_Ngh%E1%BB%87_An_2017.png", TH Nghệ An
-https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
+https://cdn.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="http://danangtv.vn/images/drt1.png", TH Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hqth.me/drtlogo", TH Đắk Lắk
@@ -251,12 +251,12 @@ http://b4tv.live/b4tv/b4tv/20.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://hqth.me/tvpublive1
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-http://cdnlive.vthanhtivi.pw/cinemax/mpegts
+http://vthanhtivi.pw:5000/cinemax/mpegts
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://hqth.me/tvpublive2
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
-http://cdnlive.vthanhtivi.pw/animax/mpegts
+http://vthanhtivi.pw:5000/animax/mpegts
 #EXTINF:-1 group-title="MSKY-ON SPORTS" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://hqth.me/tvpublive3
