@@ -10,70 +10,70 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png", HTV7
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Htv7logo2016.png", HTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vc.101vn.com/htv/htvcmb.php?id=256
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png", HTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvthethaohd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vc.101vn.com/htv/htvcmb.php?id=2669
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/VTVCab_1.png/revision/latest?cb=20200509123228", Vie Giải Trí
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onviegiaitri" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/VTVCab_1.png/revision/latest?cb=20200509123228", Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/VTVcab_19.png/revision/latest?cb=20240918001756&path-prefix=vi", Vie Dramas
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onviedramas" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/VTVcab_19.png/revision/latest?cb=20240918001756&path-prefix=vi", Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/styletvmoi5.jpg", ON Style TV
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onstyle" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/styletvmoi5.jpg", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/onlife5_1675158869.webp", ON Life
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onlife" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/onlife5_1675158869.webp", ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/SCTV1_logo.png/revision/latest?cb=20220223140645&path-prefix=vi", SCTV1
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv1hd" tvg-logo="https://img.vtvprime.vn/PYph2rJ-XMzrNFRf8Hv0wb-XDpm2FzIUDN-84ijmLic/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODJkMDYzOTQtZmEwYi00MWI3LWIzMTYtOWMwMDNkNDBjNjExLnBuZw==.png", SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/SCTV1_logo.png/revision/latest?cb=20220223140645&path-prefix=vi", SCTV2
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv2hd" tvg-logo="https://img.vtvprime.vn/2-NtvNvKve2iVPZxEjQcsXZE_As2Re-izRbLrmGrsUg/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjE3ZWExZWYtYzFhMS00NWY0LTg3MzEtM2Y1ODhkZmE0OTBhLnBuZw==.png", SCTV2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/SCTV3_logo.png/revision/latest?cb=20211117121430&path-prefix=vi", SCTV3
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv3hd" tvg-logo="https://img.vtvprime.vn/SFR0K5H7NLTMtagNF5BhyqXEv4y5ek45kew7APgJ0Bw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2I4OTk1YzUtMjI1Mi00ZDcwLWI1ZGMtZTdiZDk2YjBlOGIyLnBuZw==.png", SCTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV3/01.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/SCTV3_logo.png/revision/latest?cb=20211117121430&path-prefix=vi", SCTV4
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv4hd" tvg-logo="https://img.vtvprime.vn/WMTZXKyigQ-RaYPgvoiNsQ-JmSRcv-r_2r-WJB9sQaM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNGM4MzMzNWEtZWVkMS00ZDI4LTg5YWYtNThmY2U3NWM2ZDExLnBuZw==.png", SCTV4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/SCTV3_logo.png/revision/latest?cb=20211117121430&path-prefix=vi", SCTV6
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv6hd" tvg-logo="https://img.vtvprime.vn/PJH8961fmQ4n1-_ft_t1NVX9fo0pGguTp6WwIpb147k/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzkzNzFlNDgtYWQxYy00NTJhLThiMjItNjUyNzZlYTE2OTJlLnBuZw==.png", SCTV6
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/SCTV3_logo.png/revision/latest?cb=20211117121430&path-prefix=vi", SCTV7
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv7hd" tvg-logo="https://img.vtvprime.vn/7DdEBmnXEhKFdbrbixhsUGm-f2_qQdT_LAZJ1eTCK4w/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjlhOWYyZTItODAxZi00MWY2LWI4N2MtZjBjNTgzNzgyMmRhLnBuZw==.png", SCTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV7/01.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/SCTV3_logo.png/revision/latest?cb=20211117121430&path-prefix=vi", SCTV8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv8hd" tvg-logo="https://img.vtvprime.vn/18HDa6ZsHK3OfmnSB8o8bfL3t6-BLtVjXCpN-nCfx5k/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYWRlZTMxMDAtNmU0Yy00NmNlLTliODItZjQwMTgzNWJkY2VjLnBuZw==.png", SCTV8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV8/01.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV11
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv11hd" tvg-logo="https://img.vtvprime.vn/eWaND4ssKhduh3y8xyVnH7HU6rpSMq7YtmP8GMOgA-E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjRmNDYwNzgtZjcxNy00N2U3LTk3ZjUtYTBlYjkyNGRmYTZmLnBuZw==.png", SCTV11
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV11/01.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV12
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv12hd" tvg-logo="https://img.vtvprime.vn/jYKJvoPERv5Gx9AWhslxlbdc4rzM2ICyqyChjz3ipi0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjM0MmI2NGYtNDkxNC00NDFlLTk3YTEtZGJlMmE2ZGIxZDJmLnBuZw==.png", SCTV12
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qJlTagAAhEmX?format=png", SCTV13
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv13hd" tvg-logo="https://img.vtvprime.vn/sQYYqzXYklvp6qVgetV_H5iougYm0Y6WL7Rgq4sCPNw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTRlNWVlNmItZWQyNi00NjNmLWJkM2MtYWIxZmVjOWY1Y2FjLnBuZw==.png", SCTV13
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qMJeaIAAur_z?format=png", SCTV14
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv14hd" tvg-logo="https://img.vtvprime.vn/Hr1euLmLVypl_nHZQ6xNme8bt-5nDwU24prbiWnCESI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWJkY2M3MGUtY2VjMy00NWE4LTg5M2MtMWI2NDViZGY4MmM3LnBuZw==.png", SCTV14
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qMJeaIAAur_z?format=png", SCTV18
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv18hd" tvg-logo="https://img.vtvprime.vn/lwCZ6Ou47DmElCmpM04jou1kewLPYbkxxBdB_OUy1PI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWRlNmQyYWQtODY1ZC00MzlmLWEyYzUtNDIwYjI5ZWU4Nzk1LnBuZw==.png", SCTV18
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://pbs.twimg.com/media/Fa6qMJeaIAAur_z?format=png", SCTV Phim tổng hợp
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctvhdpth" tvg-logo="https://img.vtvprime.vn/cf-cQKJDbIW9958UPPY8xOI8hO8vX_DZFbSv5-4jE1E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOWU5N2QxMzEtM2Q5ZS00ODVmLWFkNzYtODk5YzkzYjQ0YjM5LnBuZw==.png", SCTV Phim tổng hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 tvg-id="sctv4k" group-title="TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV4K 
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv4k" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV 4K 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://htvc.vn/uploads/channel/2022/06/07/2749531-logoc-thuanviet.png", HTVC Thuần Việt
@@ -217,21 +217,19 @@ https://618b88f69e53b.streamlock.net/NTV/ntvtv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_nen_tang_so_TTV_vien_den.png", TH Tây Ninh 1
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/tvblogo", TVB
-https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiur6-fWh2c9HH6LXbffDvmFtRHLHI5Yqe1GwRyhIcRrHbSXr29vkP4L9q_q_dXBavCh1YnSpS8S8KxRRJDNsBNMhQae86A7Kw75GXyMYBM1Lvw_H36gzcFhzriLUafmVk7nxlIK3RljnQDoLwI60iP7rfg7WesNbNazUD-dt-PtrO5Slhp2u8OIZRQ/s600/784px-Tvb_logo.svg.png", TVB
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET1
+https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w2030483250.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://www.vietfilmfest.com/wp-content/uploads/2019/10/media-logo-saigon-entertainment-television-1.png", SET2
 https://5dcabf026b188.streamlock.net/SET22/livestream/chunklist_w748139724.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://hqth.me/ibclogo", IBC
-https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqnLzHmUl0uQgcEAaZzwjm5rEw3JejZ5QV355DUTTrKSXhD5RCWnx2y_BepaE6Ar_9s_IZkb-BH9euHvc4qFrhxKIMJNOqQmgs8Q_XGKKlbjmLf05yYWfvaJX92hH9mwcOtwKUayWD-bLbZ46yuQWGuR3GXwNwJ51YNMm_a5FlTQ_5ZUHbCJZaFqJc2Q/s600/1683817053335.png", IBC
+https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w679341138.m3u8
 
-#EXTINF:-1 group-title="NGƯỜI LỚN", Penthouse
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1 group-title="NGƯỜI LỚN", Hustler
-http://23.237.100.82:8000/HUSTLER/index.m3u8
-#EXTINF:-1 group-title="NGƯỜI LỚN", Brazzers
-http://23.237.100.82:8000/BRAZZERS/index.m3u8
-#EXTINF:-1 group-title="NGƯỜI LỚN", Playboy
-http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN" tvg-id="pigoo" tvg-logo="https://baseec-img-mng.akamaized.net/images/user/logo/dde8cbaba8f25c311920bd2e0e13afd6.png", Pigoo
+https://ca01.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="NGƯỜI LỚN" tvg-id="v_paradise" tvg-logo="https://www.nagano-inc.co.jp/assets/img/tv/ch/ch-option04.png", V Paradise
+https://ca01.utako.moe/v_paradise/index.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Anal
 https://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Asian
@@ -282,4 +280,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
