@@ -73,7 +73,7 @@ https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctvhdpth" tvg-logo="https://img.vtvprime.vn/cf-cQKJDbIW9958UPPY8xOI8hO8vX_DZFbSv5-4jE1E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOWU5N2QxMzEtM2Q5ZS00ODVmLWFkNzYtODk5YzkzYjQ0YjM5LnBuZw==.png", SCTV Phim tổng hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv4k" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp", SCTV 4K 
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv4k" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmqZCflhDXCpj3us0v7jAC1WZk_Zy0XSIpDYmKH397M4YsX-umRpFQ2dtQH4SRGvm8m4kNgU7kHOHIvlc2QH4T25AI43TKZU4zLqe3rLz-eCxJMpv0xdf-r7-FYUuXGACdo6yc-kp0tRC9CKzCszfQCaUIwV2CHFw-EwpAayBb6T-3GCzbJUp_ef_c6-zo/s1000/SCTV_4K.png", SCTV 4K 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcthuanviet" tvg-logo="https://htvc.vn/uploads/channel/2022/06/07/2749531-logoc-thuanviet.png", HTVC Thuần Việt
@@ -82,10 +82,10 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvccanhachd" tvg-logo="https://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png", HTVC Ca nhạc
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcgiadinhhd" tvg-logo="https://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png", HTVC Gia đình
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcgiadinhhd" tvg-logo="https://htvc.vn/uploads/channel/2018/06/06/3590945-logo-htvc-gia-d.png", HTVC Gia đình
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcphunuhd" tvg-logo="https://htvc.vn/uploads/channel/2018/06/06/3590945-logo-htvc-gia-d.png", HTVC Phụ nữ
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcphunuhd" tvg-logo="https://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png", HTVC Phụ nữ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv4hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png", VTV4
@@ -177,64 +177,64 @@ https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/THVL2_logo.png/revision/latest?cb=20230219024829&path-prefix=vi", TH Vĩnh Long 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/THVL2_logo.png/revision/latest?cb=20230219024829&path-prefix=vi", TH Vĩnh Long 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/THVL3_logo.png/revision/latest?cb=20220505105258&path-prefix=vi", TH Vĩnh Long 3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/THVL3_logo.png/revision/latest?cb=20220505105258&path-prefix=vi", TH Vĩnh Long 3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest?cb=20220505105305&path-prefix=vi", TH Vĩnh Long 4
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong4hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest?cb=20220505105305&path-prefix=vi", TH Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://www.thvl.vn/wp-content/themes/thvl-2025/imgs/thvl5.png", TH Vĩnh Long 5
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong5hd" tvg-logo="https://www.thvl.vn/wp-content/themes/thvl-2025/imgs/thvl5.png", TH Vĩnh Long 5
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/5I28SE4GOB7V.png", TH Hà Nội 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi1" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/5I28SE4GOB7V.png", TH Hà Nội 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", TH Hà Nội 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi2" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", TH Hà Nội 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://cecex9g5cpliv.vcdn.cloud/events/HN2/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://dnrt.vn/Images/dnrt1.png", TH Đà Nẵng 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="danang1" tvg-logo="https://dnrt.vn/Images/dnrt1.png", TH Đà Nẵng 1
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://dnrt.vn/Images/dnrt2.png", TH Đà Nẵng 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="danang2" tvg-logo="https://dnrt.vn/Images/dnrt2.png", TH Đà Nẵng 2
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/Logo-BaoPTTH-Can-Tho-Kenh-1-01092025.png", TH Cần Thơ 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho1" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/Logo-BaoPTTH-Can-Tho-Kenh-1-01092025.png", TH Cần Thơ 1
 https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi", TH Cần Thơ 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi", TH Cần Thơ 2
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest?cb=20250912112412&path-prefix=vi", TH Cần Thơ 3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho3" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest?cb=20250912112412&path-prefix=vi", TH Cần Thơ 3
 https://live.canthotv.vn/live/cs3/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png?v=2.620250623134619", TH Thái Nguyên
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="thainguyen" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png?v=2.620250623134619", TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://bacninhtv.vn/upload/files/logo_btv.png?v=3.81", TH Bắc Ninh
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="bacninh" tvg-logo="https://bacninhtv.vn/upload/files/logo_btv.png?v=3.81", TH Bắc Ninh
 https://1253668792.e.cdneverest.net/CrgxYsCvw0iK9_gEvpt4eg/1760408173/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png", TH Ninh Bình
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="ninhbinh" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png", TH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://hatinhtv.vn/Media/FileManager/logo/nocompressbht.png", TH Hà Tĩnh
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hatinh" tvg-logo="https://hatinhtv.vn/Media/FileManager/logo/nocompressbht.png", TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://media.drt.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="daklak" tvg-logo="https://media.drt.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi", TH Gia Lai
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="gialai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi", TH Gia Lai
 https://tv.gialaitv.vn/tv.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://mediaptq.mediatech.vn/upload//files/logo/28_6_2025_logo_png.png", TH Quảng Ngãi
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangngai" tvg-logo="https://mediaptq.mediatech.vn/upload//files/logo/28_6_2025_logo_png.png", TH Quảng Ngãi
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://baokhanhhoa.vn/common/v1/images/logoktv.png", TH Khánh Hòa
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/KTV_Khanh_Hoa.png/revision/latest?cb=20231226141231&path-prefix=vi", TH Khánh Hòa
 https://tv.ktv.org.vn/hls/ktv1.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://baokhanhhoa.vn/common/v1/images/logoktv1.png", TH Khánh Hòa 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa1" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0f/KTV1_logo_05-07-2025.png/revision/latest?cb=20250905030551&path-prefix=vi", TH Khánh Hòa 1
 https://618b88f69e53b.streamlock.net/NTV/ntvtv/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/1.-Logo-TTV1-final.png", TH Tây Ninh 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tayninh1" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/1.-Logo-TTV1-final.png", TH Tây Ninh 1
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://tayninhtv.vn/static/images/logo.png", TH Tây Ninh 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tayninh2" tvg-logo="https://tayninhtv.vn/static/images/logo.png", TH Tây Ninh 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=86
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest?cb=20250823041324&path-prefix=vi", TH An Giang 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang1" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest?cb=20250823041324&path-prefix=vi", TH An Giang 1
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest?cb=20250823043314&path-prefix=vi", TH An Giang 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang2" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest?cb=20250823043314&path-prefix=vi", TH An Giang 2
 https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/ATV3_logo_09-07-2025.png/revision/latest?cb=20250905032500&path-prefix=vi", TH An Giang 3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang3" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/ATV3_logo_09-07-2025.png/revision/latest?cb=20250905032500&path-prefix=vi", TH An Giang 3
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiur6-fWh2c9HH6LXbffDvmFtRHLHI5Yqe1GwRyhIcRrHbSXr29vkP4L9q_q_dXBavCh1YnSpS8S8KxRRJDNsBNMhQae86A7Kw75GXyMYBM1Lvw_H36gzcFhzriLUafmVk7nxlIK3RljnQDoLwI60iP7rfg7WesNbNazUD-dt-PtrO5Slhp2u8OIZRQ/s600/784px-Tvb_logo.svg.png", TVB
