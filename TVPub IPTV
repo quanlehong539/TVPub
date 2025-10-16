@@ -250,12 +250,15 @@ https://live.canthotv.vn/live/cs3/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="thainguyen" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png?v=2.620250623134619", TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="bacninh" tvg-logo="https://bacninhtv.vn/upload/files/logo_btv.png?v=3.81", TH Bắc Ninh
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="phutho" tvg-logo="https://phuthotv.vn/sites/all/themes/custom_theme/images/logo.png", TH Phú Thọ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/PHUTHOTV/03.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="ninhbinh" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png", TH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hatinh" tvg-logo="https://hatinhtv.vn/Media/FileManager/logo/nocompressbht.png", TH Hà Tĩnh
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/HATINH/03.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="daklak" tvg-logo="https://media.drt.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
@@ -355,3 +358,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
