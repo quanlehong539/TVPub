@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml, https://live.qphim.xyz/epg.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="LIVE TV" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
+#EXTINF:-1 group-title="LIVE TV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/tvpub.jpg", We will return on November 1st 2025
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="LIVE TV" tvg-id="antvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
+#EXTINF:-1 group-title="LIVE TV" tvg-id="vtv2hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettelmoney.jpg", You can scan the code to support us
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="LIVE TV" tvg-id="qpvnhd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png", QPVN
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg", Thanks and have a wonderful day
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
