@@ -33,8 +33,6 @@ http://live.qphim.xyz/live/kubolive/index.m3u8
 https://vip.opstream17.com/20251028/22192_8c97612c/index.m3u8
 #EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/toi-and-ac-thumb.jpg", Tội & Ác
 https://vip.opstream12.com/20251028/29269_d77f939c/index.m3u8
-#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hon-truong-ba-da-hang-thit-thumb.jpg", Hồn Trương Ba - Da Hàng Thịt
-https://vip.opstream13.com/20251022/13672_dfae769c/index.m3u8
 #EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/tri-am-nguoi-giu-thoi-gian-thumb.jpg", Tri Âm: Người Giữ Thời Gian
 https://vip.opstream90.com/20251028/16278_a3c1e64a/index.m3u8
 #EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/song-sinh-doi-mang-thumb.jpg", Song Sinh Đổi Mạng
@@ -45,31 +43,31 @@ https://vip.opstream17.com/20251024/22151_87a3a183/index.m3u8
 https://vip.opstream12.com/20251028/29267_1bc96747/index.m3u8
 #EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-trung-gian-thumb.jpg", Người Trung Gian
 https://vip.opstream12.com/20251028/29268_f843074d/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/ninja-an-than-thumb.jpg", Nhẫn Giả Ẩn Thân
+https://vip.opstream12.com/20251029/29349_be349aae/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-2015-thumb.jpg", Lật Mặt
+https://vip.opstream90.com/20251028/16262_8b4f4048/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/sac-dep-doi-tra-thumb.jpg", Sắc Đẹp Dối Trá
+https://vip.opstream90.com/20251028/16275_399c8d4d/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/ma-da-thumb.jpg", Ma Da
+https://vip.opstream90.com/20251028/16265_ae714b28/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/babo-cau-chuyen-ve-haftbefehl-thumb.jpg", BABO: Câu Chuyện Về Haftbefehl
+https://vip.opstream90.com/20251029/16378_0f3b2662/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-phim-truong-thumb.jpg", Lật Mặt: Phim Trường
+https://vip.opstream90.com/20251028/16260_314ae9d8/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/nhung-anh-hung-tien-phong-thumb.jpg", Những Anh Hùng Tiên Phong
+https://vip.opstream12.com/20251029/29350_0197fd56/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-ba-chang-khuyet-thumb.jpg", Lật Mặt: Ba Chàng Khuyết
+https://vip.opstream90.com/20251028/16261_4803eb7e/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/coyotes-thumb.jpg", Bầy Sói Vô Lại
+https://vip.opstream90.com/20251029/16398_5939cbe4/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/coyotes-thumb.jpg", Tấm Cám: Chuyện Chưa Kể
+https://vip.opstream90.com/20251028/16276_1ab4eabb/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/truoc-gio-yeu-thumb.jpg", Before Sex - Trước Giờ Yêu
+https://vip.opstream90.com/20251028/16279_ae66a054/index.m3u8
+#EXTINF:-1 group-title="MOVIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/viettel.jpg" tvg-logo="https://img.ophim.live/uploads/movies/cuoc-chien-danh-quyen-nuoi-meo-thumb.jpg", Cuộc Chiến Tranh Nuôi Mèo
+https://vip.opstream10.com/20250822/30232_9b01ea73/index.m3u8
 
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T1)
-https://vip.opstream90.com/20250906/11892_2d16ad19/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T2)
-https://vip.opstream90.com/20250906/11893_0f95f7ad/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T3)
-https://vip.opstream90.com/20250913/12244_336e4fcc/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T4)
-https://vip.opstream90.com/20250913/12245_af0da643/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T5)
-https://vip.opstream90.com/20250919/12713_4530de23/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T6)
-https://vip.opstream90.com/20250919/12714_9e69fd6d/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T7)
-https://vip.opstream90.com/20250926/13117_6b45b57b/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T8)
-https://vip.opstream90.com/20250926/13118_035042d4/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T9)
-https://vip.opstream90.com/20251003/13708_a0f1a068/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T10)
-https://vip.opstream90.com/20251003/13720_030586fa/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T11)
-https://vip.opstream90.com/20251010/14673_5f353180/index.m3u8
-#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/thanh-xuan-cua-toi-thumb.jpg", Thanh Xuân Của Tôi (T12)
-https://vip.opstream90.com/20251017/15333_91bfebe1/index.m3u8
 #EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T1)
 https://vip.opstream12.com/20251023/29069_ec4ecf2f/index.m3u8
 #EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T2)
@@ -150,3 +148,63 @@ https://vip.opstream12.com/20251023/29106_cdbb5001/index.m3u8
 https://vip.opstream12.com/20251023/29107_301bf48c/index.m3u8
 #EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T40)
 https://vip.opstream12.com/20251023/29108_7921d903/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T1)
+https://vip.opstream10.com/20251014/30631_68272966/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T2)
+https://vip.opstream10.com/20251014/30632_4e12a643/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T3)
+https://vip.opstream10.com/20251014/30633_4297ef5f/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T4)
+https://vip.opstream10.com/20251014/30634_cb4342a6/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T5)
+https://vip.opstream10.com/20251014/30635_e2466f2c/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T6)
+https://vip.opstream10.com/20251014/30636_f1f49699/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T7)
+https://vip.opstream10.com/20251014/30637_7fbaa471/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T8)
+https://vip.opstream10.com/20251014/30638_71dd874f/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T9)
+https://vip.opstream10.com/20251015/30649_58589b2f/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T10)
+https://vip.opstream10.com/20251015/30650_33f68c58/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T11)
+https://vip.opstream10.com/20251016/30659_4c563732/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T12)
+https://vip.opstream10.com/20251016/30660_9b35d1de/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T13)
+https://vip.opstream10.com/20251017/30673_cb01a902/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T14)
+https://vip.opstream10.com/20251017/30674_2281e4a2/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T15)
+https://vip.opstream10.com/20251018/30682_740c8706/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T16)
+https://vip.opstream10.com/20251018/30683_8b56c8b8/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T17)
+https://vip.opstream10.com/20251019/30691_57c0ef6c/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T18)
+https://vip.opstream10.com/20251019/30692_a470e5d8/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T19)
+https://vip.opstream10.com/20251020/30699_34ce78b2/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T20)
+https://vip.opstream10.com/20251020/30700_5201cbd6/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T21)
+https://vip.opstream10.com/20251021/30725_dcb11c87/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T22)
+https://vip.opstream10.com/20251021/30726_ba368424/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T23)
+https://vip.opstream10.com/20251022/30740_f4556722/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T24)
+https://vip.opstream10.com/20251022/30741_9ffc7855/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T25)
+https://vip.opstream10.com/20251023/30756_d3e2fe4a/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T26)
+https://vip.opstream10.com/20251023/30757_906bfeb4/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T27)
+https://vip.opstream10.com/20251024/30786_5f0d5763/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T28)
+https://vip.opstream10.com/20251024/30787_2c4a5c8a/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T29)
+https://vip.opstream10.com/20251027/30811_b54732be/index.m3u8
+#EXTINF:-1 group-title="SERIES" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/momo.jpg" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T30)
+https://vip.opstream10.com/20251027/30812_5c1917d0/index.m3u8
