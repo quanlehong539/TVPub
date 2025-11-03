@@ -213,9 +213,9 @@ https://us1001.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
 https://us1001.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-https://us1001.utako.moe/AT-X/index.m3u8
+https://nl00.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="space_shower_tv" tvg-logo="https://macaroniempitsu.com/wp/wp-content/uploads/2019/02/index12.png", Space Shower TV
-https://ca01.utako.moe/spaceshower/index.m3u8
+https://nl00.utako.moe/spaceshower/index.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -305,9 +305,9 @@ https://5dcab9aed5331.streamlock.net/SET2/livestream/chunklist_w1400797132.m3u8
 https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w679341138.m3u8
 
 #EXTINF:-1 group-title="NGƯỜI LỚN" tvg-id="pigoo" tvg-logo="https://baseec-img-mng.akamaized.net/images/user/logo/dde8cbaba8f25c311920bd2e0e13afd6.png", Pigoo
-https://ca01.utako.moe/pigoo/index.m3u8
+https://nl00.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN" tvg-id="v_paradise" tvg-logo="https://www.nagano-inc.co.jp/assets/img/tv/ch/ch-option04.png", V☆Paradise
-https://ca01.utako.moe/v_paradise/index.m3u8
+https://nl00.utako.moe/v_paradise/index.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Anal
 https://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Asian
@@ -358,9 +358,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
-
-
-
-
