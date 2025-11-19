@@ -28,7 +28,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onviedramas" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/VTVcab_19.png/revision/latest?cb=20240918001756&path-prefix=vi", Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onmovies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvE8385PnrKa326Itaw0q70aqK9O5v0fvCMlT1UKc9I4IJfk1ZQTK2ZE1L1_K4WOP4zhyphenhyphenGGsR5g7OMKY1wj2Pxv44jbXgjlfG9Bva4-r7Mj8KTirw0ZYCDw-c5dUzs1iSbb-VePRb4t-7bJswpO9O9IKHAR7a8nldHsB3uflutjAdVLHtsdO_soltqNcs/s500/ON%20MOVIES%20YOUTV.png", ON Movies
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onmovies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-u-It-gu3eRLH2LothDJlN2jG7Px174I1iAZ2BfQ9QgDjt6zR3kfbKRioSoKgEcVTdeYWEz8d7hsieMtWWYSPs_WPzlixakXaPwO5fV5Mkk30-_MQL4mCvUK2-rB5QfIx7KBBOTIp0mlQXMQ9xBr8OIv7fMnQUAIEMy3bZeMlTqG2-tR-hzAekTZWqw9P/s500/ON_MOVIES_YOUTV.png", ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onechannel" tvg-logo="https://img.vtvprime.vn/bofK3Lca_KQJMc9sb6pUyQ_A41aWbsQi2ibNAzkN3I0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTk3YjgwOGUtNjI3OS00NWQ4LWJkMTAtNWY1MGE1MjIwMTZkLnBuZw==.png", ON Echannel
@@ -46,6 +46,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onlife" tvg-logo="https://img.vtvprime.vn/cJ9URVIqC2BkU1gsT0IKiEy0tXDXqu7C4M3Ni3hjlgY/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvY2U2MWMwZGEtMWI1Zi00ZWJiLWE4ZTktZjdmZTVkNzRlODhmLnBuZw==.png", ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="ongolf" tvg-logo="https://img.vtvprime.vn/z6uh1Gk6G1HhJL3iJ4_6FfNFndjIYaMmAqhLH_p5cR4/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjNhMGJmOWYtODliYi00MDlmLTgxOTAtYzc5NWNjZWJlMTA1LnBuZw==.png", ON Golf
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=169&token=2025
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv1hd" tvg-logo="https://img.vtvprime.vn/PYph2rJ-XMzrNFRf8Hv0wb-XDpm2FzIUDN-84ijmLic/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODJkMDYzOTQtZmEwYi00MWI3LWIzMTYtOWMwMDNkNDBjNjExLnBuZw==.png", SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
@@ -58,7 +61,7 @@ https://liveh34.vtvprime.vn/hls/SCTV3/01.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv4hd" tvg-logo="https://img.vtvprime.vn/WMTZXKyigQ-RaYPgvoiNsQ-JmSRcv-r_2r-WJB9sQaM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNGM4MzMzNWEtZWVkMS00ZDI4LTg5YWYtNThmY2U3NWM2ZDExLnBuZw==.png", SCTV4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv6hd" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-u-It-gu3eRLH2LothDJlN2jG7Px174I1iAZ2BfQ9QgDjt6zR3kfbKRioSoKgEcVTdeYWEz8d7hsieMtWWYSPs_WPzlixakXaPwO5fV5Mkk30-_MQL4mCvUK2-rB5QfIx7KBBOTIp0mlQXMQ9xBr8OIv7fMnQUAIEMy3bZeMlTqG2-tR-hzAekTZWqw9P/s500/ON_MOVIES_YOUTV.png", SCTV6
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/FIM360_logo.png/revision/latest?cb=20221115031115&path-prefix=vi", SCTV6
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv7hd" tvg-logo="https://img.vtvprime.vn/7DdEBmnXEhKFdbrbixhsUGm-f2_qQdT_LAZJ1eTCK4w/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjlhOWYyZTItODAxZi00MWY2LWI4N2MtZjBjNTgzNzgyMmRhLnBuZw==.png", SCTV7
@@ -383,4 +386,5 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
