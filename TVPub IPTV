@@ -55,7 +55,7 @@ https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv2hd" tvg-logo="http://www.todaytv.vn/images/ms/logotv.png", SCTV2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv3hd" tvg-logo="https://img.vtvprime.vn/SFR0K5H7NLTMtagNF5BhyqXEv4y5ek45kew7APgJ0Bw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2I4OTk1YzUtMjI1Mi00ZDcwLWI1ZGMtZTdiZDk2YjBlOGIyLnBuZw==.png", SCTV3
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/See_TV_SCTV3.png/revision/latest?cb=20201010113238&path-prefix=vi", SCTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV3/01.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv4hd" tvg-logo="https://img.vtvprime.vn/WMTZXKyigQ-RaYPgvoiNsQ-JmSRcv-r_2r-WJB9sQaM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNGM4MzMzNWEtZWVkMS00ZDI4LTg5YWYtNThmY2U3NWM2ZDExLnBuZw==.png", SCTV4
@@ -67,7 +67,7 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv7hd" tvg-logo="https://img.vtvprime.vn/7DdEBmnXEhKFdbrbixhsUGm-f2_qQdT_LAZJ1eTCK4w/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjlhOWYyZTItODAxZi00MWY2LWI4N2MtZjBjNTgzNzgyMmRhLnBuZw==.png", SCTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV7/01.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv8hd" tvg-logo="https://img.vtvprime.vn/18HDa6ZsHK3OfmnSB8o8bfL3t6-BLtVjXCpN-nCfx5k/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYWRlZTMxMDAtNmU0Yy00NmNlLTliODItZjQwMTgzNWJkY2VjLnBuZw==.png", SCTV8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv8hd" tvg-logo="https://vitv.vn/Content/Images/logo.png", SCTV8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV8/01.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv11hd" tvg-logo="https://img.vtvprime.vn/eWaND4ssKhduh3y8xyVnH7HU6rpSMq7YtmP8GMOgA-E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjRmNDYwNzgtZjcxNy00N2U3LTk3ZjUtYTBlYjkyNGRmYTZmLnBuZw==.png", SCTV11
@@ -79,7 +79,7 @@ https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv13hd" tvg-logo="https://img.vtvprime.vn/sQYYqzXYklvp6qVgetV_H5iougYm0Y6WL7Rgq4sCPNw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTRlNWVlNmItZWQyNi00NjNmLWJkM2MtYWIxZmVjOWY1Y2FjLnBuZw==.png", SCTV13
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv14hd" tvg-logo="https://img.vtvprime.vn/Hr1euLmLVypl_nHZQ6xNme8bt-5nDwU24prbiWnCESI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWJkY2M3MGUtY2VjMy00NWE4LTg5M2MtMWI2NDViZGY4MmM3LnBuZw==.png", SCTV14
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv14hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/K%C3%AAnh_Phim_Vi%E1%BB%87t_SCTV14.png/revision/latest?cb=20231115234752&path-prefix=vi", SCTV14
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv16hd" tvg-logo="https://img.vtvprime.vn/HF8Odbai0ixX4FPA8KqCaLs1VOA4ohXFeEchMnmZC1Q/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNjQxNTVkMjctY2Y1ZC00ZjgyLTlmNTktNzMwMTQ5M2ZjOGIyLnBuZw==.png", SCTV16
@@ -386,5 +386,6 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
 
