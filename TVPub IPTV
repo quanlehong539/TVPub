@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -145,9 +145,9 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="ClubbingTV.us" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 https://nl00.utako.moe/AT-X/index.m3u8
@@ -206,13 +206,13 @@ https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="nhkworld" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch328_170_122", NHK World Japan
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch711_170_122", NHK World Premium
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="NHKWorldPremium.jp" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch711_170_122", NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bbcworldnews" tvg-logo="https://i0.wp.com/thankyouday.org.uk/wp-content/uploads/2023/07/0bbcnews.png", BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.etv.mn/wp-content/uploads/2021/08/etv-logo-1.png", ETV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="ETV.mn" tvg-logo="http://www.etv.mn/wp-content/uploads/2021/08/etv-logo-1.png", ETV
 https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="TennisChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="space_shower_tv" tvg-logo="https://macaroniempitsu.com/wp/wp-content/uploads/2019/02/index12.png", Space Shower TV
 https://nl00.utako.moe/spaceshower/index.m3u8
@@ -386,3 +386,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
