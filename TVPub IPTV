@@ -238,7 +238,8 @@ https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://cecex9g5cpliv.vcdn.cloud/events/HN2/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hue" tvg-logo="https://huetv.com.vn/uploads/static/Banner/LogoHueTV.png", TH Thành phố Huế
-https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=63
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="danang1" tvg-logo="https://dnrt.vn/Images/dnrt1.png", TH Đà Nẵng 1
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="danang2" tvg-logo="https://dnrt.vn/Images/dnrt2.png", TH Đà Nẵng 2
@@ -294,7 +295,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=50
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/KTV_Khanh_Hoa.png/revision/latest?cb=20231226141231&path-prefix=vi", TH Khánh Hòa
 https://tv.ktv.org.vn/hls/ktv1.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa1" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0f/KTV1_logo_05-07-2025.png/revision/latest?cb=20250905030551&path-prefix=vi", TH Khánh Hòa 1
-https://618b88f69e53b.streamlock.net/NTV/ntvtv/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=76
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tayninh1" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/1.-Logo-TTV1-final.png", TH Tây Ninh 1
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tayninh2" tvg-logo="https://tayninhtv.vn/static/images/logo.png", TH Tây Ninh 2
@@ -386,5 +388,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
