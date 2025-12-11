@@ -343,6 +343,77 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=32
 
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov1" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png", VOV1
+https://stream.vovmedia.vn/vov1
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov2" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png", VOV2
+https://stream.vovmedia.vn/vov2
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov3" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
+https://stream.vovmedia.vn/vov3
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tb" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Bắc
+https://stream.vovmedia.vn/vov4tb
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tb" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Đông Bắc
+https://stream.vovmedia.vn/vov4db
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4mt" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Miền Trung
+https://stream.vovmedia.vn/vov4mt
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Nguyên
+https://stream.vovmedia.vn/vov4tn
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4hcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Hồ Chí Minh
+https://stream.vovmedia.vn/vov4hcm
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4scl" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Đồng bằng Sông Cửu Long
+https://stream.vovmedia.vn/vov4scl
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov5" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov247" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png", VOV English 24/7
+https://stream.vovmedia.vn/vov247
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hà Nội
+https://stream.vovmedia.vn/vovgthn
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hồ Chí Minh
+https://stream.vovmedia.vn/vovgthcm
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtmekong" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Mekong
+https://stream.vovmedia.vn/vovgtmekong
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtduyenhai" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Duyên hải
+https://stream.vovmedia.vn/vovgtduyenhai
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh610" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610 kHz
+https://strm.voh.com.vn/radio/channel2/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh877" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png", VOH FM 87.7 MHz
+https://strm.voh.com.vn/radio/channel5/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh925" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH-M FM 92-92.5 MHz
+https://strm.voh.com.vn/radio/channel6/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh956" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/2-094355.png", VOH FM 95.6 MHz
+https://strm.voh.com.vn/radio/channel1/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh999" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png", VOH FM 99.9 MHz
+https://strm.voh.com.vn/radio/channel3/chunklist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="hanoi90" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/Y2GY5S49YJYF.png", Hà Nội FM90
+https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="hanoi96" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/FLKIC39FURRW.png", Hà Nội FM96
+https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.squarespace-cdn.com/content/v1/51a013dee4b0a2a2d2ef73e9/1413118307005-CX960MGTBTHQFDFYDNY4/image-asset.png", NHK World Radio
+https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://ichef.bbci.co.uk/images/ic/raw/p0kps3vt.png", BBC World Service
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio%3d48000.norewind.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/5b/96/13b13dea4f5f97c73ba9cc527fc2/radio1-live-channel-shelf-sbs-website.png", SBS Radio 1
+https://sbs-hls.streamguys1.com/hls/sbs1/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/f1/0d/89e5bd9a480bb8a3d5d12913a313/radio2-live-channel-shelf-sbs-website.png", SBS Radio 2
+https://sbs-hls.streamguys1.com/hls/sbs2/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/78/c2/ed4741ae479795b4494e9eb20309/radio3-live-channel-shelf-sbs-website.png", SBS Radio 3
+https://sbs-hls.streamguys1.com/hls/sbs3/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/f1/68/bcd08d7b42d38f600708ede3bea4/sbs-arabic-on-sbs-on-demand.png", SBS Arabic
+https://sbs-hls.streamguys1.com/hls/arabic/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/ae/9f/29efe9514fc19de6627bcca3269a/chill-tile-homepage.png", SBS Chill
+https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/21/bc/1593463b43d98498b57b0cbf6327/popasia-live-channel-shelf-sbs-website.png", SBS PopAsia
+https://sbs-hls.streamguys1.com/hls/popasia/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/29/3b/7327fe174a2c90aa123e14adbf57/southasian-live-channel-shelf-sbs-website-1x.png", SBS South Asian
+https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.squarespace-cdn.com/content/v1/601bd240e83c0b6ba8b2b046/328f97ad-91ea-4097-b2db-e0c5618422a4/HCR+Transparent+Black+Text+Logo.png", Hà Nội Community Radio
+https://ha-noi-community-radio.radiocult.fm/stream
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.zeno.fm/DYuLIvuqnZwVmfm5b1Z0BZ6u1BjiKGSwFjp_NSIhp4M/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0l3WXJVZ1FzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l2dlA4N1FnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0OTY0MTAwMA.webp", Saigoner
+https://stream.zeno.fm/5cyfrgpebkhvv
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn.haitrieu.com/wp-content/uploads/2022/03/Icon-FPT-Play1.png", LHQ Play
+https://stream.zeno.fm/vwofath8nz8tv
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26182g.png", Little Saigon Radio
+https://stream.zeno.fm/kxynzu2qe7duv
+
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiur6-fWh2c9HH6LXbffDvmFtRHLHI5Yqe1GwRyhIcRrHbSXr29vkP4L9q_q_dXBavCh1YnSpS8S8KxRRJDNsBNMhQae86A7Kw75GXyMYBM1Lvw_H36gzcFhzriLUafmVk7nxlIK3RljnQDoLwI60iP7rfg7WesNbNazUD-dt-PtrO5Slhp2u8OIZRQ/s600/784px-Tvb_logo.svg.png", TVB VN
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqnLzHmUl0uQgcEAaZzwjm5rEw3JejZ5QV355DUTTrKSXhD5RCWnx2y_BepaE6Ar_9s_IZkb-BH9euHvc4qFrhxKIMJNOqQmgs8Q_XGKKlbjmLf05yYWfvaJX92hH9mwcOtwKUayWD-bLbZ46yuQWGuR3GXwNwJ51YNMm_a5FlTQ_5ZUHbCJZaFqJc2Q/s600/1683817053335.png", IBC TV
