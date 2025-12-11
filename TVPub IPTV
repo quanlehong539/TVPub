@@ -405,12 +405,14 @@ https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8
 https://sbs-hls.streamguys1.com/hls/popasia/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/29/3b/7327fe174a2c90aa123e14adbf57/southasian-live-channel-shelf-sbs-website-1x.png", SBS South Asian
 https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26182g.png", Little Saigon Radio
-https://stream.zeno.fm/kxynzu2qe7duv
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png", LHQ Play
-https://stream.zeno.fm/vwofath8nz8tv
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.squarespace-cdn.com/content/v1/601bd240e83c0b6ba8b2b046/328f97ad-91ea-4097-b2db-e0c5618422a4/HCR+Transparent+Black+Text+Logo.png", Hà Nội Community Radio
 https://ha-noi-community-radio.radiocult.fm/stream
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.zeno.fm/DYuLIvuqnZwVmfm5b1Z0BZ6u1BjiKGSwFjp_NSIhp4M/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0l3WXJVZ1FzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l2dlA4N1FnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0OTY0MTAwMA.webp", Saigoner
+https://stream.zeno.fm/5cyfrgpebkhvv
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png", LHQ Play
+https://stream.zeno.fm/vwofath8nz8tv
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26182g.png", Little Saigon Radio
+https://stream.zeno.fm/kxynzu2qe7duv
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiur6-fWh2c9HH6LXbffDvmFtRHLHI5Yqe1GwRyhIcRrHbSXr29vkP4L9q_q_dXBavCh1YnSpS8S8KxRRJDNsBNMhQae86A7Kw75GXyMYBM1Lvw_H36gzcFhzriLUafmVk7nxlIK3RljnQDoLwI60iP7rfg7WesNbNazUD-dt-PtrO5Slhp2u8OIZRQ/s600/784px-Tvb_logo.svg.png", TVB VN
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
