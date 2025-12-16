@@ -407,10 +407,10 @@ https://strm.voh.com.vn/radio/channel3/chunklist.m3u8
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="hanoi96" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/FLKIC39FURRW.png", Hà Nội FM96
 https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.squarespace-cdn.com/content/v1/51a013dee4b0a2a2d2ef73e9/1413118307005-CX960MGTBTHQFDFYDNY4/image-asset.png", NHK World Radio
-https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://ichef.bbci.co.uk/images/ic/raw/p0kps3vt.png", BBC World Service
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio%3d48000.norewind.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.squarespace-cdn.com/content/v1/51a013dee4b0a2a2d2ef73e9/1413118307005-CX960MGTBTHQFDFYDNY4/image-asset.png", NHK World Radio
+https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/5b/96/13b13dea4f5f97c73ba9cc527fc2/radio1-live-channel-shelf-sbs-website.png", SBS Radio 1
 https://sbs-hls.streamguys1.com/hls/sbs1/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.sbs.com.au/f1/0d/89e5bd9a480bb8a3d5d12913a313/radio2-live-channel-shelf-sbs-website.png", SBS Radio 2
