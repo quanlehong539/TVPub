@@ -223,7 +223,7 @@ https://media.joycorp.co.kr:4443/live/live_720p/chunklist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 https://nl.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/CNBC_newlogo.png", CNBC
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/CNBC_pinklogo.png", CNBC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="hgtv" tvg-logo="https://img.vtvprime.vn/_BZFy9dYVpF2ZQaUt4Ps3JO0SJxPKr5IPL6HcQHcdAg/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODM0ZDRlZmItZjk1NC00NmVlLThjMjctMmMzNTRjMGJjNjFhLnBuZw==.png", HGTV
@@ -426,7 +426,7 @@ https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8
 https://sbs-hls.streamguys1.com/hls/popasia/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBS_SouthAsian_logo.png", SBS South Asian
 https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_logo.png", Hà Nội Community Radio
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
 https://ha-noi-community-radio.radiocult.fm/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.zeno.fm/DYuLIvuqnZwVmfm5b1Z0BZ6u1BjiKGSwFjp_NSIhp4M/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0l3WXJVZ1FzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l2dlA4N1FnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0OTY0MTAwMA.webp", Saigoner
 https://stream.zeno.fm/5cyfrgpebkhvv
