@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TH1.xml.gz" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2025/12/21/banner-ngang-1920x108021-12-2025_08g56-55.jpg", VPBank Presents T1 in Vietnam: The Promise Fulfilled
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxch1/thethao134_mx.smil/chunklist_b6000000.m3u8
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -169,7 +165,7 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv8hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1200px-VTV8_logo_2016_final.svg.png", VTV8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+https://vtv8-autom3u.quanlehong539.workers.dev
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1920px-VTV9_logo_2013_final.svg.png", VTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://vtv9-autom3u.quanlehong539.workers.dev
@@ -194,6 +190,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/150px-Zvezda_logo.svg.png", Zvezda TV
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.squarespace-cdn.com/content/v1/681cd3de21167e0c1e46ae95/5ce96b05-bd53-4825-849c-1d0e94c154e8/trtworld+logo.png", TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png", ZooMoo
@@ -365,9 +363,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov1" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png", VOV1
 https://stream.vovmedia.vn/vov1
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov2" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png", VOV2
-https://stream.vovmedia.vn/vov2
+https://stream.vovmedia.vn/vov-2
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov3" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
-https://stream.vovmedia.vn/vov3
+https://stream.vovmedia.vn/vov-3
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tb" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Bắc
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tb" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Đông Bắc
@@ -379,19 +377,19 @@ https://stream.vovmedia.vn/vov4tn
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4hcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Hồ Chí Minh
 https://stream.vovmedia.vn/vov4hcm
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4scl" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Đồng bằng Sông Cửu Long
-https://stream.vovmedia.vn/vov4scl
+https://stream.vovmedia.vn/vov4dbscl
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov5" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5
 https://stream.vovmedia.vn/vov5
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov247" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png", VOV English 24/7
 https://stream.vovmedia.vn/vov247
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hà Nội
-https://stream.vovmedia.vn/vovgthn
+https://stream.vovmedia.vn/vovgt-hn
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hồ Chí Minh
-https://stream.vovmedia.vn/vovgthcm
+https://stream.vovmedia.vn/vovgt-hcm
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtmekong" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Mekong
-https://stream.vovmedia.vn/vovgtmekong
+https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtduyenhai" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Duyên hải
-https://stream.vovmedia.vn/vovgtduyenhai
+https://stream.vovmedia.vn/gtduyenhai
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh610" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610 kHz
 https://strm.voh.com.vn/radio/channel2/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh877" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png", VOH FM 87.7 MHz
@@ -435,8 +433,14 @@ https://stream.zeno.fm/kxynzu2qe7duv
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiur6-fWh2c9HH6LXbffDvmFtRHLHI5Yqe1GwRyhIcRrHbSXr29vkP4L9q_q_dXBavCh1YnSpS8S8KxRRJDNsBNMhQae86A7Kw75GXyMYBM1Lvw_H36gzcFhzriLUafmVk7nxlIK3RljnQDoLwI60iP7rfg7WesNbNazUD-dt-PtrO5Slhp2u8OIZRQ/s600/784px-Tvb_logo.svg.png", TVB VN
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpZCWeZ7plYCjEnB8A8jZocTFagjcdBtX6B-exANd9ngrqDUbCCCm310AKmz-P0YTbz6wAA9Zy0Hj-T-HYexjzXzEk6PEmri6oPCk8qMdCew81gwtG3Tw56q_N0jkCAehKQsh-L-Xl7SIUZrQA_hdW95xfoPeZVgbw0bvhcTkYv9UyhemlGwCR2IYLPfPP/s420/AVA-CHANNEL.png", AVA TV
-https://5dcab9aed5331.streamlock.net/SET2/livestream/chunklist_w1648849945.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://saigontivi.com/wp-content/uploads/2019/07/LOGO-3.png", Saigon TV
+https://vietchannels.quanlehong539.workers.dev/channel/426.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VSTV_logo.png", Viet Shopping
+https://vietchannels.quanlehong539.workers.dev/channel/427.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VietSkyTV.png", VietSky TV
+https://vietchannels.quanlehong539.workers.dev/channel/448.m3u8
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://viettoday.tv/images/web-logo.png", Vietoday TV
+https://vietchannels.quanlehong539.workers.dev/channel/510.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://vnatv.com/images/file/rl8wDvfy0QgBAtZn/w278/vnatv573-logo.png", VNA TV
 https://stream-hls.castr.net/671fdee3941829f934e34e15/live_47d4c7f095ae11ef978b436d0f35840c/index.fmp4.m3u8
 
@@ -494,4 +498,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
