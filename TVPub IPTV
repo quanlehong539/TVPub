@@ -20,17 +20,6 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 group-title="VSTV" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/Kplus_Cine_23-26.07.2024.png/revision/latest?cb=20240724021206&path-prefix=vi", K+ CINE
-https://ace.hoiquan.click/module/IPTV/?id=KCINE&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="VSTV" tvg-id="kactionhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c7/Kplus_Action_23-26.07.2024.png/revision/latest?cb=20240724021213&path-prefix=vi", K+ ACTION
-https://ace.hoiquan.click/module/IPTV/?id=KACTION&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="VSTV" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/Kplus_Sport_1_23-26.07.2024.png/revision/latest?cb=20240724021214&path-prefix=vi", K+ SPORT1
-https://ace.hoiquan.click/module/IPTV/?id=KSPORT1&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="VSTV" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/Kplus_Sport_2_23-26.07.2024.png/revision/latest?cb=20240724021216&path-prefix=vi", K+ SPORT2
-https://ace.hoiquan.click/module/IPTV/?id=KSPORT2&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="VSTV" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/Kplus_Kids_23-26.07.2024.png/revision/latest?cb=20240724021211&path-prefix=vi", K+ KIDS
-https://ace.hoiquan.click/module/IPTV/?id=KKIDS&accKenh=vuminhthanh1
-
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtvcantho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/1200px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
@@ -505,3 +494,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
