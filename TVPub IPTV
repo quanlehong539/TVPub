@@ -151,6 +151,9 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png", VTV2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv3hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv4hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png", VTV4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist_b5000000.m3u8
@@ -352,6 +355,12 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongthap2" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/k33-10.png", TH Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest?cb=20250902053416&path-prefix=vi", TH Đồng Nai 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai2" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest?cb=20250902053524&path-prefix=vi", TH Đồng Nai 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="binhduong1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/HTV1.png", HTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
@@ -435,14 +444,8 @@ https://stream.zeno.fm/kxynzu2qe7duv
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiur6-fWh2c9HH6LXbffDvmFtRHLHI5Yqe1GwRyhIcRrHbSXr29vkP4L9q_q_dXBavCh1YnSpS8S8KxRRJDNsBNMhQae86A7Kw75GXyMYBM1Lvw_H36gzcFhzriLUafmVk7nxlIK3RljnQDoLwI60iP7rfg7WesNbNazUD-dt-PtrO5Slhp2u8OIZRQ/s600/784px-Tvb_logo.svg.png", TVB VN
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://saigontivi.com/wp-content/uploads/2019/07/LOGO-3.png", Saigon TV
-https://vietchannels.quanlehong539.workers.dev/channel/426.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VSTV_logo.png", Viet Shopping
-https://vietchannels.quanlehong539.workers.dev/channel/427.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VietSkyTV.png", VietSky TV
-https://vietchannels.quanlehong539.workers.dev/channel/448.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://viettoday.tv/images/web-logo.png", Vietoday TV
-https://vietchannels.quanlehong539.workers.dev/channel/510.m3u8
+https://vietchannels.quanlehong539.workers.dev/vietsky.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://vnatv.com/images/file/rl8wDvfy0QgBAtZn/w278/vnatv573-logo.png", VNA TV
 https://stream-hls.castr.net/671fdee3941829f934e34e15/live_47d4c7f095ae11ef978b436d0f35840c/index.fmp4.m3u8
 
