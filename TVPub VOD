@@ -9,6 +9,12 @@ https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-id="vtv3hd" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg", VTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://vtv3-autom3u.quanlehong539.workers.dev
+#EXTINF:-1 group-title="LIVE TV" tvg-id="vietnamtoday" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250905/2025090515/S1CWNGr2gI-VIETNAMTODAY-THUMBNAIL-KENHVTVgo-500x281.webp", Vietnam Today
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-id="vtv5hd" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg", VTV5
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-id="antvhd" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230626/ee85e0cb-9878-414d-be21-33eaa4132898.jpg", ANTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -24,10 +30,6 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-id="htvcphimhd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_htvc-phim_165649310755.png", HTVC Phim
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg", Nino Channel 1
-http://live.qphim.xyz/hls_nonkey/ninochannel1/index.m3u8
-#EXTINF:-1 group-title="LIVE TV" tvg-id="kubolive" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png", KuboLive
-http://live.qphim.xyz/live/kubolive/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/hiep-si-mat-na-dai-chien-dau-truong-sinh-tu-thumb.jpg", Hiệp Sĩ Mặt Nạ Đại Chiến: Đấu Trường Sinh Tử
 https://vip.opstream17.com/20251028/22192_8c97612c/index.m3u8
