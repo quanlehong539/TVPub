@@ -169,7 +169,7 @@ https://vtv7-autom3u.quanlehong539.workers.dev
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv8hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1200px-VTV8_logo_2016_final.svg.png", VTV8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://vtv8-autom3u.quanlehong539.workers.dev
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1920px-VTV9_logo_2013_final.svg.png", VTV9
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv9hd" tvg-logo="https://static.wikia.nocookie.net/vtv/images/9/95/VTV9_logo.png/revision/latest?cb=20200926010814&path-prefix=vi", VTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://vtv9-autom3u.quanlehong539.workers.dev
 
