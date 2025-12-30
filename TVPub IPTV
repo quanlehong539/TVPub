@@ -1,10 +1,10 @@
-#EXTM3U url-tvg="https://live.qphim.xyz/epg.xml, https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://cglive.quanlehong539.dev/epg.xml, https://live.qphim.xyz/epg.xml, https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://i.ytimg.com/vi/NIPHsHXO1GM/hq720.jpg", Custom Gameshows
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="cglive" tvg-logo="https://i.ytimg.com/vi/NIPHsHXO1GM/hq720.jpg", Custom Gameshows
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767115197/ei/XbVTaY3VF5mrp-oPidvziAM/ip/92.205.3.32/id/a0cz5TdptdU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/maudio/1/bui/AYUSA3BYI0jdzXfvui_Iu6EuFo0ug8VbZeOzm3NZ9DY1Z1_wJNblLGG256ZSg2d-Hq9KF3S9KS0B1mKx/spc/wH4Qq1Hd4goxrLT7U2vEWAV8Act24Ton6Oq0zXZ3s8MVC_VOFv4ryYbJA2J3Hss6G68/vprv/1/go/1/ns/bDY-XMObyl5Yc9cLs0-Ku4MR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/Chd1FN_y55QH4d1XKJ/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP455dvOWnmGxaHNJEo8o3wEIQWVB_GxzHqNVO7UbqOeAiEAyvLO8AM9kM641auFzhOkUbvwqN6ntqW7uxwYuqBQ71A%3D/file/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png", KuboLive
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="kubolive" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png", KuboLive
 http://live.qphim.xyz/live/kubolive/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="oni1" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
 https://live.qphim.xyz/hls_nonkey/oni1/index.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
@@ -502,3 +502,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
