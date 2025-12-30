@@ -4,12 +4,8 @@
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767115197/ei/XbVTaY3VF5mrp-oPidvziAM/ip/92.205.3.32/id/a0cz5TdptdU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/maudio/1/bui/AYUSA3BYI0jdzXfvui_Iu6EuFo0ug8VbZeOzm3NZ9DY1Z1_wJNblLGG256ZSg2d-Hq9KF3S9KS0B1mKx/spc/wH4Qq1Hd4goxrLT7U2vEWAV8Act24Ton6Oq0zXZ3s8MVC_VOFv4ryYbJA2J3Hss6G68/vprv/1/go/1/ns/bDY-XMObyl5Yc9cLs0-Ku4MR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/Chd1FN_y55QH4d1XKJ/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP455dvOWnmGxaHNJEo8o3wEIQWVB_GxzHqNVO7UbqOeAiEAyvLO8AM9kM641auFzhOkUbvwqN6ntqW7uxwYuqBQ71A%3D/file/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png", KuboLive
 http://live.qphim.xyz/live/kubolive/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://onnaonlinetv.xyz/thumbnail/ninochannel1.png", Nino Channel 1 
-http://live.qphim.xyz/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
 https://live.qphim.xyz/hls_nonkey/oni1/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://i.ytimg.com/vi/eyzQhJxsaD4/hq720.jpg", Countdown 2026
-https://countdown.quanlehong539.workers.dev/index.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -356,12 +352,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang3" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/ATV3_logo_09-07-2025.png/revision/latest?cb=20251109111209&path-prefix=vi", TH An Giang 3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongthap1" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/lg-9-1.png", TH Đồng Tháp 1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongthap2" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/k33-10.png", TH Đồng Tháp 2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest?cb=20250902053416&path-prefix=vi", TH Đồng Nai 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=53
@@ -512,4 +502,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
