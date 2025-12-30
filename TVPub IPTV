@@ -1,4 +1,15 @@
-#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://live.qphim.xyz/epg.xml, https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://static.wikitide.net/cgwiki/thumb/e/ee/CG_Logo.png/180px-CG_Logo.png", Custom Gameshows
+https://ytlive.quanlehong539.workers.dev/customgameshows/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ip1.qphim.xyz/image/kubolive.png", KuboLive
+http://live.qphim.xyz/live/kubolive/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://onnaonlinetv.xyz/thumbnail/ninochannel1.png", Nino Channel 1 
+http://live.qphim.xyz/hls_nonkey/ninochannel/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
+https://live.qphim.xyz/hls_nonkey/oni1/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://i.ytimg.com/vi/eyzQhJxsaD4/maxresdefault.jpg", Countdown 2026
+https://countdown.quanlehong539.workers.dev/index.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -191,7 +202,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png", RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/150px-Zvezda_logo.svg.png", Zvezda TV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/960px-Zvezda_logo.svg.png", Zvezda TV
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.squarespace-cdn.com/content/v1/681cd3de21167e0c1e46ae95/5ce96b05-bd53-4825-849c-1d0e94c154e8/trtworld+logo.png", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
@@ -221,8 +232,6 @@ https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-https://nl.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CNBC.png/revision/latest?cb=20251217074431&path-prefix=vi", CNBC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
