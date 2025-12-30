@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://live.qphim.xyz/epg.xml, https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://static.wikitide.net/cgwiki/thumb/e/ee/CG_Logo.png/180px-CG_Logo.png", Custom Gameshows
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://i.ytimg.com/vi/NIPHsHXO1GM/hq720.jpg", Custom Gameshows
 https://ytlive.quanlehong539.workers.dev/customgameshows/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ip1.qphim.xyz/image/kubolive.png", KuboLive
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ip1.qphim.xyz/image/kubolive-full.png", KuboLive
 http://live.qphim.xyz/live/kubolive/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://onnaonlinetv.xyz/thumbnail/ninochannel1.png", Nino Channel 1 
 http://live.qphim.xyz/hls_nonkey/ninochannel/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://onnaonlinetv.xyz/thumbnail/oni1.png", ONi1
 https://live.qphim.xyz/hls_nonkey/oni1/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://i.ytimg.com/vi/eyzQhJxsaD4/maxresdefault.jpg", Countdown 2026
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://i.ytimg.com/vi/eyzQhJxsaD4/hq720.jpg", Countdown 2026
 https://countdown.quanlehong539.workers.dev/index.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
