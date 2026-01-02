@@ -336,9 +336,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="lamdong3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/LTV3_Lam_Dong_logo.png/revision/latest?cb=20250928071648&path-prefix=vi", TH Lâm Đồng 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=50
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/KTV_Khanh_Hoa.png/revision/latest?cb=20231226141231&path-prefix=vi", TH Khánh Hòa
-https://tv.ktv.org.vn/hls/ktv1.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa1" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0f/KTV1_logo_05-07-2025.png/revision/latest?cb=20250905030551&path-prefix=vi", TH Khánh Hòa 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/KTV_2026.png/revision/latest?cb=20260101114303&path-prefix=vi", TH Khánh Hòa
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=65
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa1" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4f/KTV1_2026.png/revision/latest?cb=20260101114305&path-prefix=vi", TH Khánh Hòa 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=76
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tayninh1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi", TH Tây Ninh
