@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://live.qphim.xyz/epg.xml, https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-id="tv360phimviet" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png", TV360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -507,3 +507,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
