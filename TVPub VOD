@@ -31,6 +31,8 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/vong-nhi-cup-be-thumb.jpg", Vong Nhi Cúp Bế
+https://vip.opstream90.com/20260103/21593_aca9d4f9/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/hiep-si-mat-na-dai-chien-dau-truong-sinh-tu-thumb.jpg", Hiệp Sĩ Mặt Nạ Đại Chiến: Đấu Trường Sinh Tử
 https://vip.opstream17.com/20251028/22192_8c97612c/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/toi-and-ac-thumb.jpg", Tội & Ác
@@ -106,6 +108,30 @@ https://vip.opstream90.com/20260103/21635_14bf6dce/index.m3u8
 https://vip.opstream90.com/20260103/21636_4b12d117/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T7)
 https://vip.opstream90.com/20260103/21637_c10d35fa/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T1)
+https://vip.opstream90.com/20260103/21611_934307c5/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T2)
+https://vip.opstream90.com/20260103/21612_dcbe4be7/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T3)
+https://vip.opstream90.com/20260103/21613_1a01b448/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T4)
+https://vip.opstream90.com/20260103/21614_4717c244/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T5)
+https://vip.opstream90.com/20260103/21615_8206a42a/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T6)
+https://vip.opstream90.com/20260103/21616_32cd0b3c/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T7)
+https://vip.opstream90.com/20260103/21617_86ec2b20/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T8)
+https://vip.opstream90.com/20260103/21618_bd578998/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T9)
+https://vip.opstream90.com/20260103/21619_e8328277/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T10)
+https://vip.opstream90.com/20260103/21620_895b6af6/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T11)
+https://vip.opstream90.com/20260103/21621_9328494e/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T12)
+https://vip.opstream90.com/20260103/21622_56e2be5e/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T1)
 https://vip.opstream12.com/20251023/29069_ec4ecf2f/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T2)
