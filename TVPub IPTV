@@ -4,7 +4,7 @@
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://nbcuniversalnewsgroup.com/nbcnews/wp-content/themes/nbcunewsgroupstrap-child-main/img/NBC-NEWS-NOW-KO-3.png", NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/2560px-One_America_News_Network_logo.svg.png", OAN Network
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.oann.com/wp-content/uploads/2023/11/OAN-only-logo.webp", OAN Network
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
@@ -504,3 +504,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
