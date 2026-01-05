@@ -13,21 +13,8 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
-
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="vtv5hd" tvg-logo="https://assets.the-afc.com/CompetitionLogos_2024/afc_u23_asian_cup_light.png", AFC U23 Live 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=110
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="vtvcantho" tvg-logo="https://assets.the-afc.com/CompetitionLogos_2024/afc_u23_asian_cup_light.png", AFC U23 Live 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=98
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="htvthethaohd" tvg-logo="https://assets.the-afc.com/CompetitionLogos_2024/afc_u23_asian_cup_light.png", AFC U23 Live 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=195
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="tv360hoathinh" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/12/31/19/1767185202351/540d7e229911_640_360.png", TV360 Hoạt Hình
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=9934
 
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/FIM360_logo.png/revision/latest?cb=20221115031115&path-prefix=vi", SCTV6
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -194,8 +181,6 @@ https://d155cvi1zborvr.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", TeleSUR English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://nbcuniversalnewsgroup.com/nbcnews/wp-content/themes/nbcunewsgroupstrap-child-main/img/NBC-NEWS-NOW-KO-3.png", NBC News Now
-https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.oann.com/wp-content/uploads/2023/11/OAN-only-logo.webp", OAN Network
 https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
