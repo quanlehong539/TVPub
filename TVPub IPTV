@@ -221,7 +221,7 @@ https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="BBC.us" tvg-logo="https://cdn.cookielaw.org/logos/9ba987d0-417d-4455-ab02-764b3dc7f03e/4b6d0ed8-971c-438f-8398-457d37be067a/fd3506e7-0db2-4045-8721-d41a4c90b66c/bbca-v2_2.png", BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="nbs" tvg-logo="https://www.inbs.co.kr/images/common/ico_gnb_title.png", NBS
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="NBSTV.kr" tvg-logo="https://www.inbs.co.kr/images/common/ico_gnb_title.png", NBS
 https://media.joycorp.co.kr:4443/live/live_720p/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -503,3 +503,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
