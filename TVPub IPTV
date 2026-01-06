@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml, " tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml, https://bbcamerica.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
