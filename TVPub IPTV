@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml, https://bbcamerica.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://southkoreaepg.quanlehong539.workers.dev, https://tvbvn.quanlehong539.workers.dev/xml, https://traceurban.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -199,7 +199,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.squarespace-cdn.com/content/v1/681cd3de21167e0c1e46ae95/5ce96b05-bd53-4825-849c-1d0e94c154e8/trtworld+logo.png", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png", Trace Urban
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="traceurban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
@@ -219,7 +219,7 @@ https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="kix" tvg-logo="https://img.vtvprime.vn/ppdwkxhVs3oZV4SDS2zVomkuqFESpLNekyHFYw6yuzo/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRjYzBhNDItOGFjNC00YjI1LWIyYTItNzllNzJhNDQzMGIyLnBuZw==.png", KIX
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="BBC.us" tvg-logo="https://cdn.cookielaw.org/logos/9ba987d0-417d-4455-ab02-764b3dc7f03e/4b6d0ed8-971c-438f-8398-457d37be067a/fd3506e7-0db2-4045-8721-d41a4c90b66c/bbca-v2_2.png", BBC America
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://cdn.cookielaw.org/logos/9ba987d0-417d-4455-ab02-764b3dc7f03e/4b6d0ed8-971c-438f-8398-457d37be067a/fd3506e7-0db2-4045-8721-d41a4c90b66c/bbca-v2_2.png", BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="NBSTV.kr" tvg-logo="https://www.inbs.co.kr/images/common/ico_gnb_title.png", NBS
 https://media.joycorp.co.kr:4443/live/live_720p/chunklist.m3u8
@@ -503,4 +503,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
