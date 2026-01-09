@@ -18,6 +18,9 @@ https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-id="htvcphimhd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HTVCPhim_poster.png", HTVC Phim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-id="sctv6hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SCTV6_poster.png", SCTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-id="sctv16hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SCTV16_poster.png", SCTV16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
@@ -25,6 +28,16 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/ke-vo-lai-thumb.jpg", Kẻ Vô Lại
+https://vip.opstream90.com/20260108/21888_4e1c697c/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-anh-huong-xau-cau-chuyen-jodi-hildebrandt-thumb.jpg", Người Ảnh Hưởng Xấu: Câu Chuyện Jodi Hildebrandt
+https://vip.opstream-short.com/20260105/57729_73a58e07/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nam-cuoc-hen-de-yeu-thumb.jpg", Năm Cuộc Hẹn Để Yêu
+https://vip.opstream90.com/20260109/21976_44e2a386/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/dolphin-summer-thumb.jpg", Mùa Hè Cá Heo
+https://vip.opstream90.com/20260108/21906_78dbe27f/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/p77-thumb.jpg", Penthouse 77
+https://vip.opstream17.com/20260109/26213_bb6023f7/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/vong-nhi-cup-be-thumb.jpg", Vong Nhi Cúp Bế
 https://vip.opstream90.com/20260103/21593_aca9d4f9/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/hiep-si-mat-na-dai-chien-dau-truong-sinh-tu-thumb.jpg", Hiệp Sĩ Mặt Nạ Đại Chiến: Đấu Trường Sinh Tử
@@ -88,6 +101,54 @@ https://vip.opstream90.com/20251024/16023_09b24f6b/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nu-vuong-dau-vat-thumb.jpg", Nữ Vương Đấu Vật
 https://vip.opstream90.com/20251115/17730_05a0eed5/index.m3u8
 
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T1)
+https://vip.opstream90.com/20251009/14560_389044ee/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T2)
+https://vip.opstream90.com/20251010/14605_ab11f404/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T3)
+https://vip.opstream90.com/20251016/15135_8856638d/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T4)
+https://vip.opstream90.com/20251017/15274_45d5c438/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T5)
+https://vip.opstream90.com/20251022/15830_d4f00c07/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T6)
+https://vip.opstream90.com/20251024/15930_87722510/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T7)
+https://vip.opstream90.com/20251106/16926_521eae94/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T8)
+https://vip.opstream90.com/20251107/17033_fbc4bc53/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T9)
+https://vip.opstream90.com/20251113/17447_cc0c490a/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T10)
+https://vip.opstream90.com/20251114/17654_68cc84f0/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T11)
+https://vip.opstream90.com/20251120/18056_7aaba5f3/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T12)
+https://vip.opstream90.com/20251120/18131_2635749c/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T13)
+https://vip.opstream90.com/20251126/18538_6f18c1b7/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T14)
+https://vip.opstream90.com/20251128/18620_89da20a8/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T15)
+https://vip.opstream90.com/20251203/19141_f46a7537/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T16)
+https://vip.opstream90.com/20251204/19246_ba855911/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T17)
+https://vip.opstream90.com/20251211/19738_a1231cf8/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T18)
+https://vip.opstream90.com/20251212/19918_3f3689f1/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T19)
+https://vip.opstream90.com/20251218/20400_b1aaf082/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T20)
+https://vip.opstream90.com/20251218/20468_d24ca82b/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T21)
+https://vip.opstream90.com/20251224/20903_f687a4f1/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T22)
+https://vip.opstream90.com/20251225/20973_58369e57/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T23)
+https://vip.opstream90.com/20260108/21860_b12b9516/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T24)
+https://vip.opstream90.com/20260109/21963_46c85a6d/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T1)
 https://vip.opstream90.com/20260103/21631_4cbbd977/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T2)
