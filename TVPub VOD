@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="LIVE TV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV1_poster.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -24,10 +24,21 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-id="sctv16hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SCTV16_poster.png", SCTV16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
-#EXTINF:-1 group-title="LIVE TV" tvg-id="tvbvn" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TVBVietNam_poster.png", TVB Việt Nam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/quai-thu-vo-hinh-vung-dat-chet-choc-thumb.jpg", Quái Thú Vô Hình: Vùng Đất Chết Chóc
+https://vip.opstream90.com/20260110/22083_771f0d31/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/loi-thinh-cau-bi-an-2-thumb.jpg", Lời Thỉnh Cầu Bí Ẩn 2
+https://vip.opstream90.com/20260108/21878_1d60e7b5/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/mua-he-xep-hinh-thumb.jpg", Mùa Hè Xếp Hình
+https://vip.opstream90.com/20260108/21891_598e989a/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/buoc-chan-dung-cam-thumb.jpg", Bước Chân Dũng Cảm
+https://vip.opstream90.com/20260108/21896_093562ae/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/eephus-thumb.jpg", Trận Cuối
+https://vip.opstream90.com/20260108/21897_171a559f/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/hoa-huong-duong-2025-thumb.jpg", Hoa Hướng Dương
+https://vip.opstream90.com/20260108/21898_98132280/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nhung-nguoi-ta-gap-trong-ky-nghi-thumb.jpg", Những Người Ta Gặp Trong Kỳ Nghỉ
+https://vip.opstream90.com/20260109/21997_7735e310/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/ke-vo-lai-thumb.jpg", Kẻ Vô Lại
 https://vip.opstream90.com/20260108/21888_4e1c697c/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-anh-huong-xau-cau-chuyen-jodi-hildebrandt-thumb.jpg", Người Ảnh Hưởng Xấu: Câu Chuyện Jodi Hildebrandt
@@ -101,6 +112,28 @@ https://vip.opstream90.com/20251024/16023_09b24f6b/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nu-vuong-dau-vat-thumb.jpg", Nữ Vương Đấu Vật
 https://vip.opstream90.com/20251115/17730_05a0eed5/index.m3u8
 
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T1)
+https://vip.opstream90.com/20251019/15414_7b7324f8/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T2)
+https://vip.opstream90.com/20251026/16146_b996f960/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T3)
+https://vip.opstream90.com/20251102/16693_2e970f99/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T4)
+https://vip.opstream90.com/20251109/17222_5e38d982/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T5)
+https://vip.opstream90.com/20251116/17823_2e565cde/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T6)
+https://vip.opstream90.com/20251130/18845_e71d7330/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T7)
+https://vip.opstream90.com/20251130/18846_57f5b6b5/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T8)
+https://vip.opstream90.com/20251207/19469_0138fa79/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T9)
+https://vip.opstream90.com/20251214/20125_9df41c35/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T10)
+https://vip.opstream90.com/20251228/21153_235173eb/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T11)
+https://vip.opstream90.com/20260104/21691_006b9646/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T1)
 https://vip.opstream90.com/20251009/14560_389044ee/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T2)
