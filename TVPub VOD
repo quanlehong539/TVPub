@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epg.xml, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="LIVE TV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV1_poster.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -24,7 +24,18 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-id="sctv16hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SCTV16_poster.png", SCTV16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
+#EXTINF:-1 group-title="LIVE TV" tvg-id="tvbvn" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TVBVietNam_poster.png", TVB Việt Nam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlisTập 1080p.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/minamahal-100-doa-hoa-danh-cho-luna-thumb.jpg", Minamahal: Bách Hoa Dành Cho Luna
+https://vip.opstream10.com/20260110/32276_b12b646e/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/phi-vu-ao-thuat-gia-thumb.jpg", Phi Vụ Ảo Thuật Gia
+https://vip.opstream90.com/20260111/22171_06b0bd7f/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/doi-canh-hy-vong-thumb.jpg", Đôi Cánh Hy Vọng
+https://vip.opstream90.com/20260111/22191_022e5a92/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/100-dem-cua-hero-thumb.jpg", 100 Đêm Của Hero
+https://vip.opstream90.com/20260111/22192_8c97612c/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/quai-thu-vo-hinh-vung-dat-chet-choc-thumb.jpg", Quái Thú Vô Hình: Vùng Đất Chết Chóc
 https://vip.opstream90.com/20260110/22083_771f0d31/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/loi-thinh-cau-bi-an-2-thumb.jpg", Lời Thỉnh Cầu Bí Ẩn 2
@@ -112,251 +123,302 @@ https://vip.opstream90.com/20251024/16023_09b24f6b/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nu-vuong-dau-vat-thumb.jpg", Nữ Vương Đấu Vật
 https://vip.opstream90.com/20251115/17730_05a0eed5/index.m3u8
 
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T1)
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 1)
+https://vip.opstream90.com/20251216/20286_3795d3a1/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 2)
+https://vip.opstream90.com/20251216/20287_37e4ff18/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 3)
+https://vip.opstream90.com/20251216/20288_b34fcbb8/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 4)
+https://vip.opstream90.com/20251223/20842_a44879fe/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 5)
+https://vip.opstream90.com/20251223/20843_1881baec/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 6)
+https://vip.opstream90.com/20251223/20844_dba1dab5/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 7)
+https://vip.opstream90.com/20251223/20845_cf655665/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 8)
+https://vip.opstream90.com/20251230/21338_b8c3567c/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 9)
+https://vip.opstream90.com/20251230/21339_23f3edf0/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 10)
+https://vip.opstream17.com/20251231/26206_412af43c/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 11)
+https://vip.opstream90.com/20260106/21807_949b6216/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 12)
+https://vip.opstream90.com/20260106/21808_cfdeefc9/index.m3u8
+
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 1)
+https://vip.opstream90.com/20251015/15093_5989623d/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 2)
+https://vip.opstream90.com/20251021/15714_bd8dbca5/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 3)
+https://vip.opstream90.com/20251102/16701_cea64a88/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 4)
+https://vip.opstream90.com/20251104/16833_b1553ff2/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 5)
+https://vip.opstream90.com/20251112/17380_e9cb54cb/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 6)
+https://vip.opstream90.com/20251118/17997_e36c7276/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 7)
+https://vip.opstream90.com/20251125/18483_41b182cd/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 8)
+https://vip.opstream90.com/20251202/19084_94b21f11/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 9)
+https://vip.opstream90.com/20251209/19663_1b2d6b10/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 10)
+https://vip.opstream90.com/20251216/20290_fdba1a7e/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 11)
+https://vip.opstream90.com/20251223/20846_9955f2f0/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 12)
+https://vip.opstream90.com/20251230/21337_bc6e1826/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/khung-canh-ay-van-la-em-thumb.jpg", Khung Cảnh Ấy Vẫn Là Em (Tập 13)
+https://vip.opstream90.com/20260106/21804_e78e39ea/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 1)
 https://vip.opstream90.com/20251019/15414_7b7324f8/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T2)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 2)
 https://vip.opstream90.com/20251026/16146_b996f960/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T3)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 3)
 https://vip.opstream90.com/20251102/16693_2e970f99/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T4)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 4)
 https://vip.opstream90.com/20251109/17222_5e38d982/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T5)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 5)
 https://vip.opstream90.com/20251116/17823_2e565cde/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T6)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 6)
 https://vip.opstream90.com/20251130/18845_e71d7330/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T7)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 7)
 https://vip.opstream90.com/20251130/18846_57f5b6b5/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T8)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 8)
 https://vip.opstream90.com/20251207/19469_0138fa79/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T9)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 9)
 https://vip.opstream90.com/20251214/20125_9df41c35/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T10)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 10)
 https://vip.opstream90.com/20251228/21153_235173eb/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (T11)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/neu-the-gioi-la-san-khau-vay-hau-truong-o-dau-thumb.jpg", Sân Khấu Không Có Cánh Gà (Tập 11)
 https://vip.opstream90.com/20260104/21691_006b9646/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T1)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 1)
 https://vip.opstream90.com/20251009/14560_389044ee/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T2)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 2)
 https://vip.opstream90.com/20251010/14605_ab11f404/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T3)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 3)
 https://vip.opstream90.com/20251016/15135_8856638d/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T4)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 4)
 https://vip.opstream90.com/20251017/15274_45d5c438/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T5)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 5)
 https://vip.opstream90.com/20251022/15830_d4f00c07/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T6)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 6)
 https://vip.opstream90.com/20251024/15930_87722510/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T7)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 7)
 https://vip.opstream90.com/20251106/16926_521eae94/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T8)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 8)
 https://vip.opstream90.com/20251107/17033_fbc4bc53/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T9)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 9)
 https://vip.opstream90.com/20251113/17447_cc0c490a/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T10)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 10)
 https://vip.opstream90.com/20251114/17654_68cc84f0/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T11)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 11)
 https://vip.opstream90.com/20251120/18056_7aaba5f3/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T12)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 12)
 https://vip.opstream90.com/20251120/18131_2635749c/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T13)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 13)
 https://vip.opstream90.com/20251126/18538_6f18c1b7/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T14)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 14)
 https://vip.opstream90.com/20251128/18620_89da20a8/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T15)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 15)
 https://vip.opstream90.com/20251203/19141_f46a7537/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T16)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 16)
 https://vip.opstream90.com/20251204/19246_ba855911/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T17)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 17)
 https://vip.opstream90.com/20251211/19738_a1231cf8/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T18)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 18)
 https://vip.opstream90.com/20251212/19918_3f3689f1/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T19)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 19)
 https://vip.opstream90.com/20251218/20400_b1aaf082/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T20)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 20)
 https://vip.opstream90.com/20251218/20468_d24ca82b/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T21)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 21)
 https://vip.opstream90.com/20251224/20903_f687a4f1/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T22)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 22)
 https://vip.opstream90.com/20251225/20973_58369e57/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T23)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 23)
 https://vip.opstream90.com/20260108/21860_b12b9516/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (T24)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/lying-thumb.jpg", Dối Lừa (Tập 24)
 https://vip.opstream90.com/20260109/21963_46c85a6d/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T1)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 1)
 https://vip.opstream90.com/20260103/21631_4cbbd977/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T2)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 2)
 https://vip.opstream90.com/20260103/21632_ce7b63c9/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T3)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 3)
 https://vip.opstream90.com/20260103/21633_077efd55/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T4)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 4)
 https://vip.opstream90.com/20260103/21634_d543ca8a/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T5)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 5)
 https://vip.opstream90.com/20260103/21635_14bf6dce/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T6)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 6)
 https://vip.opstream90.com/20260103/21636_4b12d117/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (T7)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cho-den-thoi-tan-the-thumb.jpg", Chợ Đen Thời Tận Thế (Tập 7)
 https://vip.opstream90.com/20260103/21637_c10d35fa/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T1)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 1)
 https://vip.opstream90.com/20260103/21611_934307c5/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T2)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 2)
 https://vip.opstream90.com/20260103/21612_dcbe4be7/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T3)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 3)
 https://vip.opstream90.com/20260103/21613_1a01b448/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T4)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 4)
 https://vip.opstream90.com/20260103/21614_4717c244/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T5)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 5)
 https://vip.opstream90.com/20260103/21615_8206a42a/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T6)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 6)
 https://vip.opstream90.com/20260103/21616_32cd0b3c/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T7)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 7)
 https://vip.opstream90.com/20260103/21617_86ec2b20/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T8)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 8)
 https://vip.opstream90.com/20260103/21618_bd578998/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T9)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 9)
 https://vip.opstream90.com/20260103/21619_e8328277/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T10)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 10)
 https://vip.opstream90.com/20260103/21620_895b6af6/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T11)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 11)
 https://vip.opstream90.com/20260103/21621_9328494e/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (T12)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tren-dinh-dong-son-thumb.jpg", Đông Sơn Đỉnh Thượng (Tập 12)
 https://vip.opstream90.com/20260103/21622_56e2be5e/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T1)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 1)
 https://vip.opstream12.com/20251023/29069_ec4ecf2f/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T2)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 2)
 https://vip.opstream12.com/20251023/29070_b76f4e72/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T3)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 3)
 https://vip.opstream12.com/20251023/29071_ba935371/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T4)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 4)
 https://vip.opstream12.com/20251023/29072_ed5b4ad2/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T5)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 5)
 https://vip.opstream12.com/20251023/29073_c8443b62/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T6)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 6)
 https://vip.opstream12.com/20251023/29074_e3030406/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T7)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 7)
 https://vip.opstream12.com/20251023/29075_b025330e/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T8)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 8)
 https://vip.opstream12.com/20251023/29076_744c7571/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T9)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 9)
 https://vip.opstream12.com/20251023/29077_0853de1f/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T10)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 10)
 https://vip.opstream12.com/20251023/29078_3d07ea96/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T11)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 11)
 https://vip.opstream12.com/20251023/29079_be37636f/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T12)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 12)
 https://vip.opstream12.com/20251023/29080_1721f00a/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T13)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 13)
 https://vip.opstream12.com/20251023/29081_d17c5e09/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T14)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 14)
 https://vip.opstream12.com/20251023/29082_2f3b82f3/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T15)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 15)
 https://vip.opstream12.com/20251023/29083_80f5c854/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T16)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 16)
 https://vip.opstream12.com/20251023/29084_6121a327/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T17)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 17)
 https://vip.opstream12.com/20251023/29085_967e9762/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T18)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 18)
 https://vip.opstream12.com/20251023/29086_b2a4e73b/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T19)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 19)
 https://vip.opstream12.com/20251023/29087_8cd29808/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T20)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 20)
 https://vip.opstream12.com/20251023/29088_6bd2b55c/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T21)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 21)
 https://vip.opstream12.com/20251023/29089_d2cc6063/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T22)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 22)
 https://vip.opstream12.com/20251023/29090_b8a28def/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T23)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 23)
 https://vip.opstream12.com/20251023/29091_59a973ad/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T24)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 24)
 https://vip.opstream12.com/20251023/29092_2ad36b66/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T25)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 25)
 https://vip.opstream12.com/20251023/29093_afb38522/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T26)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 26)
 https://vip.opstream12.com/20251023/29094_ebd8ef6c/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T27)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 27)
 https://vip.opstream12.com/20251023/29095_e6bbe250/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T28)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 28)
 https://vip.opstream12.com/20251023/29096_19317b84/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T29)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 29)
 https://vip.opstream12.com/20251023/29097_0a9e30ce/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T30)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 30)
 https://vip.opstream12.com/20251023/29098_85ad02a7/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T31)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 31)
 https://vip.opstream12.com/20251023/29099_3540a005/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T32)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 32)
 https://vip.opstream12.com/20251023/29100_ac9dab4e/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T33)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 33)
 https://vip.opstream12.com/20251023/29101_0c61127c/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T34)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 34)
 https://vip.opstream12.com/20251023/29102_d1f6b0f2/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T35)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 35)
 https://vip.opstream12.com/20251023/29103_d6181e24/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T36)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 36)
 https://vip.opstream12.com/20251023/29104_f970d678/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T37)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 37)
 https://vip.opstream12.com/20251023/29105_38e68b65/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T38)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 38)
 https://vip.opstream12.com/20251023/29106_cdbb5001/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T39)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 39)
 https://vip.opstream12.com/20251023/29107_301bf48c/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (T40)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/to-mat-nhi-truyen-ky-thumb.jpg", Tô Mạt Nhi Truyền Kỳ (Tập 40)
 https://vip.opstream12.com/20251023/29108_7921d903/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T1)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 1)
 https://vip.opstream10.com/20251014/30631_68272966/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T2)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 2)
 https://vip.opstream10.com/20251014/30632_4e12a643/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T3)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 3)
 https://vip.opstream10.com/20251014/30633_4297ef5f/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T4)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 4)
 https://vip.opstream10.com/20251014/30634_cb4342a6/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T5)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 5)
 https://vip.opstream10.com/20251014/30635_e2466f2c/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T6)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 6)
 https://vip.opstream10.com/20251014/30636_f1f49699/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T7)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 7)
 https://vip.opstream10.com/20251014/30637_7fbaa471/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T8)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 8)
 https://vip.opstream10.com/20251014/30638_71dd874f/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T9)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 9)
 https://vip.opstream10.com/20251015/30649_58589b2f/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T10)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 10)
 https://vip.opstream10.com/20251015/30650_33f68c58/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T11)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 11)
 https://vip.opstream10.com/20251016/30659_4c563732/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T12)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 12)
 https://vip.opstream10.com/20251016/30660_9b35d1de/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T13)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 13)
 https://vip.opstream10.com/20251017/30673_cb01a902/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T14)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 14)
 https://vip.opstream10.com/20251017/30674_2281e4a2/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T15)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 15)
 https://vip.opstream10.com/20251018/30682_740c8706/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T16)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 16)
 https://vip.opstream10.com/20251018/30683_8b56c8b8/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T17)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 17)
 https://vip.opstream10.com/20251019/30691_57c0ef6c/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T18)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 18)
 https://vip.opstream10.com/20251019/30692_a470e5d8/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T19)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 19)
 https://vip.opstream10.com/20251020/30699_34ce78b2/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T20)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 20)
 https://vip.opstream10.com/20251020/30700_5201cbd6/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T21)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 21)
 https://vip.opstream10.com/20251021/30725_dcb11c87/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T22)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 22)
 https://vip.opstream10.com/20251021/30726_ba368424/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T23)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 23)
 https://vip.opstream10.com/20251022/30740_f4556722/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T24)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 24)
 https://vip.opstream10.com/20251022/30741_9ffc7855/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T25)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 25)
 https://vip.opstream10.com/20251023/30756_d3e2fe4a/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T26)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 26)
 https://vip.opstream10.com/20251023/30757_906bfeb4/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T27)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 27)
 https://vip.opstream10.com/20251024/30786_5f0d5763/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T28)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 28)
 https://vip.opstream10.com/20251024/30787_2c4a5c8a/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T29)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 29)
 https://vip.opstream10.com/20251027/30811_b54732be/index.m3u8
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (T30)
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/hau-cung-lang-van-truyen-thumb.jpg", Hậu Cung Lăng Vân Truyện (Tập 30)
 https://vip.opstream10.com/20251027/30812_5c1917d0/index.m3u8
