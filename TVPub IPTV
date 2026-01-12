@@ -227,6 +227,8 @@ https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/62407
 https://media.joycorp.co.kr:4443/live/live_720p/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tennischannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f4/CNBC.png/revision/latest?cb=20251217074431&path-prefix=vi", CNBC
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
@@ -255,8 +257,6 @@ https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 https://cdn3.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.etv.mn/wp-content/uploads/2021/08/etv-logo-1.png", ETV
 https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tennischannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/THVL1_logo.png/revision/latest?cb=20220410232326&path-prefix=vi", TH Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
