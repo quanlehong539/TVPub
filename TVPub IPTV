@@ -20,7 +20,6 @@ https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv7hd" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/HTV7-Logo-2003.png", HTV7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvthethaohd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -35,7 +34,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vc.101vn.com/htv/htvcmb.php?id=2669
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onviegiaitri" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTVcab_1.png/revision/latest?cb=20240918002543&path-prefix=vi", Vie Giải trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -290,7 +288,8 @@ https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi", TH Cần Thơ 2
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho3" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest?cb=20250912112412&path-prefix=vi", TH Cần Thơ 3
-https://live.canthotv.vn/cs3/tv/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="sonla" tvg-logo="https://media.sonlatv.vn/upload/files/logo/logo_footer.png", TH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tuyenquang" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TTV_Tuyen_Quang.png/revision/latest?cb=20220301071325&path-prefix=vi", TH Tuyên Quang
@@ -433,7 +432,7 @@ https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8
 https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
 https://ha-noi-community-radio.radiocult.fm/stream
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.nl/wp-content/uploads/2024/06/2-480x480.png", KC Radio Mixed in Vietnam
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.nl/wp-content/uploads/2024/06/1-480x480.png", KC Radio Mixed in Vietnam
 https://play.wrhradios.com/8014/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.zeno.fm/utorNQJY4T-42EZ76rgUl1OmF3Kx5WJ2axDXCxbyqC8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNmZjZWI3NDYtMzdlNi00YWY3LTliYmMtNzU3NjljYzhhMWQwL2ltYWdlLz91PTE3Njg0ODQ2MTUwMDA.webp", LHQ Play
 https://stream.zeno.fm/vwofath8nz8tv
