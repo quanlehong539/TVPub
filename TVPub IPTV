@@ -1,27 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://cglive.quanlehong539.workers.dev/api/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Off fan MU (Bát Man & Người Thỏ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1768672959/9de6a9c7dbb31379fb5724061751463f/336498694/live/Z1FHD/playlist.m3u8
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Off fan MU (Bánh Cuốn)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1768672959/63b204a9f92a2d514a5d39e91917225e/897928736/live/cuonFHD/playlist.m3u8
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Off fan MC (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1768672959/8795ec54f227490234b4488748a9ced9/381295506/live/oldFHD/playlist.m3u8
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Anti Mân đàn (Trâu Gác Bếp)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1768672959/16824e5a4c86c41342ed2c898430feba/763996083/live/trauFHD/playlist.m3u8
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Bình luận trung lập (Người Sói)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1768672959/b85a119e054000651bb73925125d9349/742779015/live/soiFHD/playlist.m3u8
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://robong.cc/images/logo.webp", Cổ vũ MU (BLV Dưa Hấu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_jw2r09hknjxprz8_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://robong.cc/images/logo.webp", Cổ vũ MC (BLV Củ Nghệ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cr7.rbncdn.net/live/691b48c73c7d0e56e1c7ce3a_jw2r09hknjxprz8_football_fhd/playlist.m3u8
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -524,5 +502,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
