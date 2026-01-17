@@ -21,15 +21,6 @@ https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_jw2r09hknjxprz8_football_fh
 #EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://robong.cc/images/logo.webp", Cổ vũ MC (BLV Củ Nghệ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cr7.rbncdn.net/live/691b48c73c7d0e56e1c7ce3a_jw2r09hknjxprz8_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://static.xoilaczzuzz.tv/images/logo.live.png", Xôi Lạc Z (BLV Roy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://clonermue2hq1pcliv.vcdn.cloud/1cad9e6e2c09b30a32304c5118e8dc0f/1768695889429/rchtwtx/rchtwtx@720p.m3u8
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://static.xoilaczzuzz.tv/images/logo.live.png", Xôi Lạc Z (BLV Bruce)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://clonemp58kc51m6liv.vcdn.cloud/160db918e6df1e80450642716d14da05/1768696008303/channel-15/channel-15.m3u8
-#EXTINF:-1 group-title="DERBY THÀNH MÂN" tvg-logo="https://static.xoilaczzuzz.tv/images/logo.live.png", Xôi Lạc Z (BLV Louis)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://clonemp58kc51m6liv.vcdn.cloud/fddd7307f5d214ca8a4f2c24542df0b2/1768696068353/channel-2/channel-2.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -533,4 +524,5 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
