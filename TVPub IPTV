@@ -173,8 +173,6 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png", Clubbing TV
-https://d155cvi1zborvr.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/12d3640f-bb9f-4207-96cb-3636e963b24d/3.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png", MONO29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", TeleSUR English
@@ -439,6 +437,8 @@ https://stream.zeno.fm/onbmtm16yfjtv
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26182g.png", Little Saigon Radio
 https://stream.zeno.fm/kxynzu2qe7duv
 
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://companieslogo.com/img/orig/0511.HK-feb9f53c.png", TVB VN
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://saigontivi.com/wp-content/uploads/2019/07/LOGO-3.png", Saigon TV
 https://vietchannels.quanlehong539.workers.dev/saigontv.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VietSkyTV.png", VietSky TV
