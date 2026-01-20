@@ -1,5 +1,24 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://cglive.quanlehong539.workers.dev/api/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1280px-Roshn_Saudi_League_Logo.svg.png", Al Shabab vs Al Najma (BLV Thịt Xiên)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1768940086/3f3bd85f9fd85871804225a221fa1575/447875685/live/xienFHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://assets.the-afc.com/CompetitionLogos_2024/afc_u23_asian_cup_light.png", U23 Việt Nam vs U23 Trung Quốc (BLV Người Thỏ & Phở Bò)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1768940199/66381bb37157b0e784c4220dd1aa8a18/794515781/live/may1FHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://assets.the-afc.com/CompetitionLogos_2024/afc_u23_asian_cup_light.png", U23 Việt Nam vs U23 Trung Quốc (BLV Người Dưng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1768940499/35df6205224c86736586ffd3f226c0ba/837733678/live/dungFHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://assets.the-afc.com/CompetitionLogos_2024/afc_u23_asian_cup_light.png", U23 Việt Nam vs U23 Trung Quốc (BLV Dưa Hấu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_8yomo4h1g15nq0j_football_fhd/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://assets.the-afc.com/CompetitionLogos_2024/afc_u23_asian_cup_light.png", U23 Việt Nam vs U23 Trung Quốc (BLV Tía Tô)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_8yomo4h1g15nq0j_football_fhd/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/UEFAChampionsLeague-alternate.vresize.200.200.medium.0.png", Kairat Almaty vs Club Brugge (BLV Đậu Đỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cr7.rbncdn.net/live/69359f7c17c56f3f363059aa_vjxm8ghe23ekr6o_football_fhd/playlist.m3u8
+
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -503,3 +522,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
