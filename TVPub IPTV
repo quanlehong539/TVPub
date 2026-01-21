@@ -1,23 +1,11 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://cglive.quanlehong539.workers.dev/api/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Mỳ Tôm)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png", Halkbank vs Roeselare (BLV Người Băng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769018800/ddf932d4b76a991ba8085decc7d60707/972929605/live/myFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Mèo Ú)
+https://9ceg0825.edgemaxcdn.org/1769021496/eb2e036835cd2ceef8da9717149bab37/765896349/live/bangFHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png", Galatasaray W vs Vakifbank W (BLV Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769002011/59a0bcec825ddd456f8fde27b1583d38/714014520/live/meoFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Lơ Đao)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769018674/2f1fbf4b34c321e782004078c382ca6f/855994975/live/daoFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Thịt Xiên)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769007702/195476ae609b7e6ed8cf60b488c73e05/426406761/live/xienFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Người Cồn)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769002161/6f1abcd79109317041bb101f50fbe7e3/808990581/live/conFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Người Sóc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769003779/41600dea02abbba4eec2ea65a8ccf1e4/853507941/live/socFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769021765/ad4cd131bfd56e64922c7dbfd4fca25e/648421272/live/oldFHD/playlist.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -522,9 +510,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
-
-
-
-
