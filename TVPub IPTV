@@ -34,7 +34,6 @@ https://9ceg0825.edgemaxcdn.org/1769035830/426b3ddae193b3563dfdca3e566bf434/7958
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cr7.rbncdn.net/live/69359f7c17c56f3f363059aa_3glrw7hnl69nqdy_football_fhd/playlist.m3u8
 
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -538,10 +537,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
-
-
-
-
 
