@@ -28,6 +28,14 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/toi-do-thumb.jpg", Tội Đồ
+https://vip.opstream90.com/20250530/6646_510f2318/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/frankenstein-thumb.jpg", Frankenstein
+https://vip.opstream90.com/20251107/17110_170821fb/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/tran-chien-sau-tran-chien-thumb.jpg", Trận Chiến Sau Trận Chiến
+https://vip.opstream12.com/20251114/30033_31163fed/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/kaguya-cong-chua-vu-tru-thumb.jpg", Công Chúa Vũ Trụ Kaguya!
+https://vip.opstream90.com/20260122/22927_91980b0a/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/dich-nhan-kiet-bi-ngan-ky-hoa-thumb.jpg", Thần Thám Địch Nhân Kiệt: Bỉ Ngạn Kỳ Hoa
 https://vip.opstream90.com/20260112/22223_7e4f882d/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/366-ngay-thumb.jpg", 366 Ngày
@@ -133,6 +141,48 @@ https://vip.opstream90.com/20251024/16023_09b24f6b/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nu-vuong-dau-vat-thumb.jpg", Nữ Vương Đấu Vật
 https://vip.opstream90.com/20251115/17730_05a0eed5/index.m3u8
 
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 1)
+https://vip.opstream10.com/20251006/30540_5dd0565b/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 2)
+https://vip.opstream10.com/20251006/30543_4e7c4620/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 3)
+https://vip.opstream10.com/20251009/30577_33d9022b/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 4)
+https://vip.opstream10.com/20251010/30579_918b71f2/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 5)
+https://vip.opstream10.com/20251017/30667_9bf521d4/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 6)
+https://vip.opstream10.com/20251023/30780_23dd1052/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 7)
+https://vip.opstream10.com/20251023/30785_8b42718d/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 8)
+https://vip.opstream10.com/20251030/30951_0f7f9b55/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 9)
+https://vip.opstream10.com/20251106/31126_bfcefed6/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 10)
+https://vip.opstream10.com/20251120/31379_02ff9da8/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 11)
+https://vip.opstream10.com/20251126/31479_4467c5eb/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 12)
+https://vip.opstream10.com/20251127/31491_25d80b45/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 13)
+https://vip.opstream10.com/20251204/31660_d279b7b8/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 14)
+https://vip.opstream10.com/20251204/31661_c227f705/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 15)
+https://vip.opstream10.com/20251211/31793_738d7deb/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 16)
+https://vip.opstream10.com/20251218/31905_bd41a065/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 17)
+https://vip.opstream10.com/20251225/32043_b603b38a/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 18)
+https://vip.opstream10.com/20260102/32166_97cc775a/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 19)
+https://vip.opstream10.com/20260108/32237_d802a3e6/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 20)
+https://vip.opstream10.com/20260115/32359_6ffbb022/index.m3u8
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/transit-love-phan-4-thumb.jpg", Chuyển Giao Cuộc Tình 4 (Số 21)
+https://vip.opstream10.com/20260122/32452_0486089d/index.m3u8
 #EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2-thumb.jpg", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 1)
 https://vip.opstream90.com/20251216/20286_3795d3a1/index.m3u8
 #EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2-thumb.jpg", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 2)
