@@ -24,9 +24,9 @@ https://9ceg0825.edgemaxcdn.org/1769276769/2d39a7067f07fe107cbac5da91915303/3604
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png", Rayo Vallecano vs Osasuna (BLV Chuối Đỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cr7.rbncdn.net/live/69342cc97bdcdd80c141ec75_dn1m1ghlnopgmoe_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/themes/VPF-child/assets/images/logo_channel/cupqg_0506.png", PVF-CAND vs Hoàng Anh Gia Lai (BLV Dưa Hấu)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/94_imgbank_euro_20250306165800.png", Futsal Italia vs Futsal Bồ Đào Nha (BLV Phở Bò)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_jw2r09hk0npxrz8_football_fhd/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769277628/f08d56f748ab95c77851d85e2d5508be/166404314/live/phoFHD/playlist.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -531,6 +531,7 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
 
 
