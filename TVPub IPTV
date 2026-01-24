@@ -3,9 +3,9 @@
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://internationalcup.alkass.net/u17/images/head-logo.png", U16 PVF vs U16 Barcelona (BLV Ba Khía)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769275062/801b80acbdee0d2683c144d4effb6570/760368916/live/khiaFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Mèo Ú)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SerieA.png", Como vs Torino (BLV Mèo Ú)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769295345/6bbd7f4ca76075760528715cecd9253c/871588884/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769280495/d90ecb4e3e05d34f6515c0dc87aad44e/353815887/live/meoFHD/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishChampionship.png", Millwall vs Charlton Athletic (BLV Người Kiến)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769275557/4fa65ad9cae6763cc83a226a220b5b5f/555728627/live/kienFHD/playlist.m3u8
@@ -531,6 +531,7 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
 
 
