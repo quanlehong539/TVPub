@@ -1,26 +1,8 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://cglive.quanlehong539.workers.dev/api/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Bayer Leverkusen vs Werder Bremen (BLV Người Dưng)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Người Cồn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769282389/4be41e5b54f425e4ebda3a3164f50e50/983246487/live/dungFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Bayern Munich vs Augsburg (BLV Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769282475/8a83e6006306eb3ab0d94c2dcc9cd0af/847918755/live/nenFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Bayern Munich vs Augsburg (BLV Dưa Hấu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_x7lm7phjo3evm2w_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Eintracht Frankfurt vs Hoffenheim (BLV Người Cát)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769282638/07ec0cc40d95a6d7b1bb2f67898c2eaa/151680403/live/Z3FHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Eintracht Frankfurt vs Hoffenheim (BLV Ớt Chuông)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cr7.rbncdn.net/live/693598fc4387963e46b9b127_n54qllhnep6yqvy_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Heidenheim vs RB Leipzig (BLV Người Cồn)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769282941/f57a4825d7ce4075f29837cdf2c39f2b/192725983/live/conFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Heidenheim vs RB Leipzig (BLV Đậu Đỏ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cr7.rbncdn.net/live/69359f7c17c56f3f363059aa_zp5rzghg769vq82_football_fhd/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769290112/8e374de6fee774bb3ac1a4a9abaa0616/445935305/live/conFHD/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Burnley vs Tottenham Hotspur (BLV Trâu Gác Bếp)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769284264/20dad746b0b398ba2faf6c577ec8a89f/317941912/live/trauFHD/playlist.m3u8
@@ -555,15 +537,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
