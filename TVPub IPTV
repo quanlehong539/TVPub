@@ -6,10 +6,10 @@ https://9ceg0825.edgemaxcdn.org/1769275062/801b80acbdee0d2683c144d4effb6570/7603
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Mèo Ú)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769295345/6bbd7f4ca76075760528715cecd9253c/871588884/live/meoFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/EFL_Championship_Logo.svg/960px-EFL_Championship_Logo.svg.png", Millwall vs Charlton Athletic (BLV Người Kiến)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishChampionship.png", Millwall vs Charlton Athletic (BLV Người Kiến)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769275557/4fa65ad9cae6763cc83a226a220b5b5f/555728627/live/kienFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/EFL_Championship_Logo.svg/960px-EFL_Championship_Logo.svg.png", Millwall vs Charlton Athletic (BLV Củ Cải)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishChampionship.png", Millwall vs Charlton Athletic (BLV Củ Cải)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_8yomo4h1ko31q0j_football_fhd/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", West Ham vs Sunderland (BLV Mỳ Tôm)
@@ -18,6 +18,12 @@ https://9ceg0825.edgemaxcdn.org/1769275378/8c09e3b7ea05490e010b4466a8f811b1/7124
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", West Ham vs Sunderland (BLV Củ Nghệ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cr7.rbncdn.net/live/691b48c73c7d0e56e1c7ce3a_dj2ryohlygg4q1z_football_fhd/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png", Rayo Vallecano vs Osasuna (BLV Người Lông)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1769276769/2d39a7067f07fe107cbac5da91915303/360477714/live/longFHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png", Rayo Vallecano vs Osasuna (BLV Chuối Đỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cr7.rbncdn.net/live/69342cc97bdcdd80c141ec75_dn1m1ghlnopgmoe_football_fhd/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/themes/VPF-child/assets/images/logo_channel/cupqg_0506.png", PVF-CAND vs Hoàng Anh Gia Lai (BLV Dưa Hấu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_jw2r09hk0npxrz8_football_fhd/playlist.m3u8
@@ -525,6 +531,7 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
 
 
