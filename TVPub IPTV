@@ -1,5 +1,21 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://cglive.quanlehong539.workers.dev/api/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/500px-National_Basketball_Association_logo.svg.png", Milwaukee Bucks vs Denver Nuggets (BLV Người Gầy)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1769239861/d91cd3599392ce9a4d1d17b987d02805/290719283/live/gayFHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/500px-National_Basketball_Association_logo.svg.png", Milwaukee Bucks vs Denver Nuggets (BLV Dưa Hấu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_x7lm73t3vdglr2w_basketball_fhd/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Người Sóc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1769265233/e69105a0e93c6354f4331b8ec56d32af/129393221/live/socFHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Mèo Ú)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1769265383/281f4714ad2ae43b69ba3a43aae0e4ce/129707728/live/meoFHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Lơ Đao)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1769240296/1efafcdb17fe43708ac2a7eb5bafa648/821033211/live/daoFHD/playlist.m3u8
+
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -503,3 +519,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
