@@ -2,19 +2,19 @@
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://static.flashscore.com/res/image/data/hlFnwWA7-024GIIJ8.png", Indonesian Masters (BLV Người Đất)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769283720/7264c2accbb495900f1692f7886adde2/488111111/live/datFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769295334/2414ae5025777e174c06a9a0b4e2b65b/109548654/live/datFHD/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Ba Khía)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769284155/5c20355c64759ccd973b0c6c6e8b0745/682380243/live/khiaFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769295116/a99a082fc76d1ff140bcde5109b88c93/784899188/live/khiaFHD/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Mèo Ú)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769265383/281f4714ad2ae43b69ba3a43aae0e4ce/129707728/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769295345/6bbd7f4ca76075760528715cecd9253c/871588884/live/meoFHD/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Lơ Đao)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769284208/219c2f4d1e399b874f72e48f7499be23/534498250/live/daoFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Australian Open (BLV Người Sóc)
+https://9ceg0825.edgemaxcdn.org/1769295133/2a4573d644e30aae1125065624857016/883518388/live/daoFHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/themes/VPF-child/assets/images/logo_channel/cupqg_0506.png", PVF-CAND vs Hoàng Anh Gia Lai (BLV Dưa Hấu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769288729/5c7c1789d6c0f360367275d83366d85e/440753485/live/socFHD/playlist.m3u8
+https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_jw2r09hk0npxrz8_football_fhd/playlist.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -519,6 +519,7 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
 
 
