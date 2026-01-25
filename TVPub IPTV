@@ -1,17 +1,26 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://cglive.quanlehong539.workers.dev/api/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SerieA.png", Sassuolo vs Cremonense (BLV Ba Khía)
+#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Crystal Palace vs Chelsea (BLV Trâu Gác Bếp)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769355440/712d2c9f4b53451f47636b002cad813a/382397646/live/khiaFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://internationalcup.alkass.net/u17/images/head-logo.png", U16 PVF vs U16 Etoile Sahel (BLV A Núi)
+https://9ceg0825.edgemaxcdn.org/1769367000/2b211b21f57cc160b5ea4d5003f64d2a/842842756/live/trauFHD/playlist.m3u8
+#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Crystal Palace vs Chelsea (BLV Phở Bò)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769362037/bd39e49f453fc66b587a0cab12157ee9/597926005/live/nuiFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png", Atletico Madrid vs Mallorca (BLV Người Dưng)
+https://9ceg0825.edgemaxcdn.org/1769367000/433fa53ab889951596ba64ebc6429b4e/869760049/live/phoFHD/playlist.m3u8
+#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Newcastle United vs Aston Villa (BLV Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769362496/d8c7faa53168744be2275de02a524b04/776500708/live/dungFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Brentford vs Nottingham Forest (BLV Mỳ Tôm)
+https://9ceg0825.edgemaxcdn.org/1769367088/fd81e033c38ac176299e9b4226dee8bd/105450025/live/nenFHD/playlist.m3u8
+#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Brentford vs Nottingham Forest (BLV Mỳ Tôm)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769352339/50f2cc01ed6dee1676f125cb6a4f1de2/657383098/live/myFHD/playlist.m3u8
+#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://robong.cc/images/logo.webp", Crystal Palace vs Chelsea (BLV Củ Cải)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_965mkyhk4eelr1g_football_fhd/playlist.m3u8
+#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://robong.cc/images/logo.webp", Newcastle United vs Aston Villa (BLV Tía Tô)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_jw2r09hknjjprz8_football_fhd/playlist.m3u8
+#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://robong.cc/images/logo.webp", Brentford vs Nottingham Forest (BLV Chuối Đỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cr7.rbncdn.net/live/69342cc97bdcdd80c141ec75_n54qllhne8x6qvy_football_fhd/playlist.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -516,6 +525,7 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
 
 
