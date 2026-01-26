@@ -1,24 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://cglive.quanlehong539.workers.dev/api/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Arsenal vs Manchester United (BLV Trâu Gác Bếp)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769367000/2b211b21f57cc160b5ea4d5003f64d2a/842842756/live/trauFHD/playlist.m3u8
-#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Arsenal vs Manchester United (BLV Người Cồn)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769376007/003ec9d1048231950cba56531b9c6df6/164229229/live/conFHD/playlist.m3u8
-#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Arsenal vs Manchester United (BLV Cáp Tần & Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769376007/4d596eb74e9d02accb418bb57d9ad79f/137204056/live/Z1FHD/playlist.m3u8
-#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Arsenal vs Manchester United (BLV Người Thỏ & Người Kiến)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769376307/1b39010f3881b4ca75da2cc25dd9d994/326512344/live/Z3FHD/playlist.m3u8
-#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://robong.cc/images/logo.webp", Arsenal vs Manchester United (BLV Đậu Đỏ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cr7.rbncdn.net/live/69359f7c17c56f3f363059aa_zp5rzghg7pzkq82_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="NGOẠI HẠNG ANH" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" tvg-logo="https://robong.cc/images/logo.webp", Arsenal vs Manchester United (BLV Dưa Hấu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_zp5rzghg7pzkq82_football_fhd/playlist.m3u8
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -522,8 +503,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
-
-
-
