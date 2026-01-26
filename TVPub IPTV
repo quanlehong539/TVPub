@@ -441,11 +441,11 @@ https://stream.zeno.fm/kxynzu2qe7duv
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="tvbvn" tvg-logo="https://companieslogo.com/img/orig/0511.HK-feb9f53c.png", TVB VN
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://saigontivi.com/wp-content/uploads/2019/07/LOGO-3.png", Saigon TV
-https://vietchannels.quanlehong539.workers.dev/saigontv.m3u8
+https://vietchannels.quanlehong539.workers.dev/saigontv/xJDEqSBt4bq5IHThu6VpIFphbFRW/index.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VietSkyTV.png", VietSky TV
-https://vietchannels.quanlehong539.workers.dev/vietsky.m3u8
+https://vietchannels.quanlehong539.workers.dev/vietsky/xJDEqSBt4bq5IHThu6VpIFphbFRW/index.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://viettoday.tv/images/web-logo.png", Vietoday TV
-https://vietchannels.quanlehong539.workers.dev/vietoday.m3u8
+https://vietchannels.quanlehong539.workers.dev/vietoday/xJDEqSBt4bq5IHThu6VpIFphbFRW/index.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://vnatv.com/images/file/rl8wDvfy0QgBAtZn/w278/vnatv573-logo.png", VNA TV
 https://stream-hls.castr.net/671fdee3941829f934e34e15/live_47d4c7f095ae11ef978b436d0f35840c/index.fmp4.m3u8
 
