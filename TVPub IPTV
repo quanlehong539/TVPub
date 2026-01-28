@@ -1,5 +1,18 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="SAUDI PRO LEAGUE" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Al Fayha vs Al Khaleej (BLV Tai Lung)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1769638957/e2508d8d45f422f5ac741173efa05fc3/645022328/live/lungFHD/playlist.m3u8
+#EXTINF:-1 group-title="SAUDI PRO LEAGUE" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", Al Ahli vs Al Ettifaq (BLV Ba Khía)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1769638935/b8a2592645ef657ef499c68fe5633726/323541156/live/khiaFHD/playlist.m3u8
+#EXTINF:-1 group-title="SAUDI PRO LEAGUE" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png" tvg-logo="https://robong.cc/images/logo.webp", Al Fayha vs Al Khaleej (BLV Cà Rốt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://cr7.rbncdn.net/live/689c8ed2d0757b966b83f774_dj2ryohl27okq1z_football_fhd/playlist.m3u8
+#EXTINF:-1 group-title="SAUDI PRO LEAGUE" group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png" tvg-logo="https://robong.cc/images/logo.webp", Al Ahli vs Al Ettifaq (BLV Chuối Đỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://cr7.rbncdn.net/live/69342cc97bdcdd80c141ec75_ednm9whwe5noryo_football_fhd/playlist.m3u8
+
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -178,7 +191,7 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", TeleSUR English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="foxnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png", FOX News
-https://1a-1791.com/live/kd32s8ur/live-hls/y28v-3l2f/chunklist_i1_DVR.m3u8
+https://1a-1791.com/live/gke17oc4/slot-113/ji20-qido_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/wsnlogocolor_1920x1080.png", Women's Sports Network
