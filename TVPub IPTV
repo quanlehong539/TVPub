@@ -177,7 +177,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", TeleSUR English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="foxnews" tvg-logo="https://www.oann.com/wp-content/uploads/2023/11/OAN-only-logo.webp", FOX News
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="foxnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/250px-Fox_News_Channel_logo.svg.png", FOX News
 https://1a-1791.com/live/kd32s8ur/live-hls/y28v-3l2f/chunklist_i1_DVR.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
