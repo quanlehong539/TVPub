@@ -1,36 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Người Cồn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769646726/754ff5db09f21166fb4dcca4c3f9dc39/211683294/live/conFHD/playlist.m3u8
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV A Núi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769646997/a22d7c0947945c14a769ab70391467a2/854406728/live/nuiFHD/playlist.m3u8
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Người Kiến
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769647198/f7a6d20c98ecd0479c3d90a99ce8e461/714138735/live/kienFHD/playlist.m3u8
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Mỳ Tôm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769647135/f7797b266f0efb7930b425a9231d5dc9/629837423/live/myFHD/playlist.m3u8
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Bánh Cuốn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769647386/37e03f18dde876612bc8cca1aec79fac/699610345/live/cuonFHD/playlist.m3u8
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Người Sói
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769647199/b5ecc628fd7c527127c1c89623615262/816357502/live/soiFHD/playlist.m3u8
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Ba Khía
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769638935/b8a2592645ef657ef499c68fe5633726/323541156/live/khiaFHD/playlist.m3u8
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Trâu Gác Bếp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769647224/7b4c6a2291da3b2b8e5d3526cc90590e/195916296/live/trauFHD/playlist.m3u8
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Tai Lung
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769638957/e2508d8d45f422f5ac741173efa05fc3/645022328/live/lungFHD/playlist.m3u8
-#EXTINF:-1 group-title="TIẾNG RƯỠI" tvg-logo="https://90phuttv.link/uploads/content/logo-90b.png", BLV Người Nện
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769647591/99b17e41d4d02cd38abf4a76b1105c5a/283413129/live/nenFHD/playlist.m3u8
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -304,8 +273,8 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi2" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", TH Hà Nội 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hue" tvg-logo="https://huetv.com.vn/uploads/static/Banner/LogoHueTV.png", TH Thành phố Huế
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=63
