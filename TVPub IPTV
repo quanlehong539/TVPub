@@ -390,22 +390,22 @@ https://stream.vovmedia.vn/vov5
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov247" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png", VOV English 24/7
 https://stream.vovmedia.vn/vov247
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hà Nội
-https://stream.vovmedia.vn/vovgt-hn
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hồ Chí Minh
-https://stream.vovmedia.vn/vovgt-hcm
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtmekong" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Mekong
 https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtduyenhai" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Duyên hải
 https://stream.vovmedia.vn/gtduyenhai
-#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh610" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610 kHz
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610 kHz
 https://strm.voh.com.vn/radio/channel2/chunklist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh877" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png", VOH FM 87.7 MHz
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png", VOH FM 87.7 MHz
 https://strm.voh.com.vn/radio/channel5/chunklist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh925" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH-M FM 92-92.5 MHz
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH-M FM 92-92.5 MHz
 https://strm.voh.com.vn/radio/channel6/chunklist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh956" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/2-094355.png", VOH FM 95.6 MHz
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/2-094355.png", VOH FM 95.6 MHz
 https://strm.voh.com.vn/radio/channel1/chunklist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh999" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png", VOH FM 99.9 MHz
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png", VOH FM 99.9 MHz
 https://strm.voh.com.vn/radio/channel3/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="hanoi90" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/Y2GY5S49YJYF.png", Hà Nội FM90
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
@@ -503,3 +503,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
