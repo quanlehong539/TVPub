@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Lan_Song_Xanh_logo.png", Lễ trao giải âm nhạc LÀN SÓNG XANH lần thứ 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769798455/ei/16Z8aeuyOMWJ0u8PzdHNyQs/ip/92.205.3.32/id/3vjzJCKXDX8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rSaFP7dpEDnGDJCH4bBEtfVeow5BbnJBFSTIxGiXL4RFCpPysJaDLisw8_6VqPBdyPUgzsv-ZQ/spc/q5xjPKGBxwDQOyDqS1UBB0bUE8XxXZOpYSAn7xxh3o-3X6jwjrk-duPaT1HWVfoPaORYhA/vprv/1/go/1/ns/E_BZHqEi1zzGWjA0-Ck938ES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/0SnTsQbTuS9OPqE/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgQeSls3EOjmNzAIxuXIzs_h2kvzFfEomfU3u--rvx8eUCIQDhC8Uim0LOQVFE2gidB1XuRiAtNHU1ggB2GtVAiQU8-w%3D%3D/file/index.m3u8
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -507,6 +503,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
-
