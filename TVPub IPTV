@@ -1,14 +1,23 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishChampionship.png", Stoke City vs Southampton (BLV Mèo Ú)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://g7w1r.4shares.live/leagues/200.png", Miami E-Prix (BLV Người Hói)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769893317/a8ce4dd7133ba7b41556d723d821e675/715646754/live/meoFHD/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769912557/b78e86276e9732a6434828c7d3e62223/383310732/live/Z2FHD/playlist.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", RB Leipzig vs Mainz 05 (BLV Ba Khía)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769893317/252a655d842c09cb923e03ef47c4ae35/941495535/live/khiaFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishChampionship.png", Stoke City vs Southampton (BLV Chanh Leo)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Hoffenheim vs Union Berlin (BLV Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cr7.rbncdn.net/live/6908bda8bb43a99996b06469_k82rekhg94gorep_football_fhd/playlist.m3u8
+https://9ceg0825.edgemaxcdn.org/1769887109/fd9c5d246c88d13bb1eb328453cea2d7/859132015/live/Z1FHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", RB Leipzig vs Mainz 05 (BLV Dưa Hấu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_l5ergph43lxnr8k_football_fhd/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Eintracht Frankfurt vs Bayer Leverkusen (BLV Củ Cải)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_k82rekhg90pvrep_football_fhd/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Hoffenheim vs Union Berlin (BLV Sầu Riêng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://cr7.rbncdn.net/live/689c8ef189c203e20dd33199_4wyrn4h6eop4q86_football_fhd/playlist.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -513,5 +522,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
