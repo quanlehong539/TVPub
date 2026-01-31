@@ -1,5 +1,12 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="AUSTRALIAN OPEN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Aryna Sabalenka vs Elena Rybakina (BLV Mèo Ú)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1769893317/a8ce4dd7133ba7b41556d723d821e675/715646754/live/meoFHD/playlist.m3u8
+#EXTINF:-1 group-title="AUSTRALIAN OPEN" tvg-logo="https://ausopen.com/sites/default/files/styles/medium/public/ao_blue_1.png", Aryna Sabalenka vs Elena Rybakina (BLV Ba Khía)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://9ceg0825.edgemaxcdn.org/1769893317/252a655d842c09cb923e03ef47c4ae35/941495535/live/khiaFHD/playlist.m3u8
+
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -503,3 +510,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
