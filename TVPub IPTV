@@ -1,63 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SerieA.png", Napoli vs Fiorentina (BLV Người Sói)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769896241/d51d1f2b74238f23d4ec42cd252f44a1/123594384/live/soiFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SerieA.png", Napoli vs Fiorentina (BLV Tía Tô)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cr7.rbncdn.net/live/689c7d152eeb894ab75a5340_x7lm7phjkl5xm2w_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/TurkishSuperLig.png", Besiktas vs Konyaspor (BLV Bánh Cuốn)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769896425/4c6d440bf8d795a33275ba0f0192b815/622141659/live/cuonFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/TurkishSuperLig.png", Besiktas vs Konyaspor (BLV Cà Rốt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cr7.rbncdn.net/live/689c8ed2d0757b966b83f774_jw2r09hkxy85rz8_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/NBA.png", Charlotte Hornets vs San Antonio Spurs (BLV Người Cát)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769896554/2907ea8561abfd372665d04235b11ac5/400014910/live/Z3FHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/NBA.png", Charlotte Hornets vs San Antonio Spurs (BLV Rau Má)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cr7.rbncdn.net/live/6935b775224fb9a2d13a9792_965mk8t2w9d4m1g_basketball_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Chelsea vs West Ham United (BLV Trâu Gác Bếp)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769898129/9dfe7c595f57f98a9cc3a3a09cad4cf1/778497986/live/trauFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Chelsea vs West Ham United (BLV Mèo Ú)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769898423/29dca821179e890e72c05a9d5a762aed/420338979/live/meoFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Chelsea vs West Ham United (BLV Củ Cải)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cr7.rbncdn.net/live/689c20cf37c4edde592f58ea_n54qllhne886qvy_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Hamburger SV vs Bayern Munich (BLV Thịt Xiên)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769898071/d1d9e2c152d58083651f865167ebc32f/979395276/live/xienFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Hamburger SV vs Bayern Munich (BLV Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769898071/1db149059f794484e7c01cbe77367265/812778086/live/nenFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Hamburger SV vs Bayern Munich (BLV Dưa Hấu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_dn1m1ghlepynmoe_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png", Levante vs Atletico Madrid (BLV Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769898234/e4bc809fb12fd60d64a10464ba83377a/930355627/live/oldFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png", Levante vs Atletico Madrid (BLV Củ Nghệ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cr7.rbncdn.net/live/691b48c73c7d0e56e1c7ce3a_3glrw7hnjl71qdy_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Ligue1.png", Lorient vs Nantes (BLV Cá Cờ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769899017/2c31ff4efcbc507f8f1f5feb8755b259/215746850/live/coFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SerieA.png", Cagliari vs Hellas Verona (BLV Trâu Gác Bếp)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769898423/0e5d51daa0b11ef6678081fee23604db/166338350/live/trauFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Liverpool vs Newcastle United (BLV Người Sói)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769898952/0b945c67a9e7f51afa9298a1d78be7de/389484192/live/soiFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png", Elche vs Barcelona (BLV Thịt Xiên)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769898672/04795ccaf47c8ffec1677c659d30c446/889397223/live/xienFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Ligue1.png", Monaco vs Rennes (BLV Mèo Ú)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769899023/84f9566842b60d8b554d7a12c4b39646/592451308/live/meoFHD/playlist.m3u8
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -561,7 +503,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
-
-
