@@ -1,30 +1,30 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SerieA.png", Como vs Atalanta (BLV Người Cồn)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Ligue1.png", Toulouse vs Auxerre (BLV Mỳ Tôm)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://9ceg0825.edgemaxcdn.org/1769977376/bba54386c71bb6e003bc53e6cf6ecb2f/793997700/live/cuonFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Fulham (BLV Bát Man & Người Thỏ)
+https://9ceg0825.edgemaxcdn.org/1769980373/d491ae75e4bb841366596be1fa435567/765991607/live/myFHD/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Tottenham Hotspur vs Manchester City (BLV Cáp Tần & Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769971846/f9a2852fe18955b9535b35e3440c224d/405529479/live/Z1FHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Fulham (BLV Trâu Gác Bếp)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Tottenham Hotspur vs Manchester City (BLV Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769971846/db288c60ce66901df07c50bbe8f0c17b/244530172/live/trauFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Aston Villa vs Brentford (BLV Người Sói)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Tottenham Hotspur vs Manchester City (BLV Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769971721/4497b9a544d04c7bbd9cea40c397fda5/654823490/live/soiFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Nottingham Forest vs Crystal Palace (BLV Mèo Ú)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Borussia Dortmund vs Heidenheim (BLV Ba Khía)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://9ceg0825.edgemaxcdn.org/1769971607/2d7444b253648d5f0d1899edaf4ad442/846304618/live/meoFHD/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SerieA.png", Como vs Atalanta (BLV Đậu Đỏ)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Ligue1.png", Toulouse vs Auxerre (BLV Trần Hạt Mít)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cr7.rbncdn.net/live/69359f7c17c56f3f363059aa_2y8m4zh5324nql0_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Fulham (BLV Dưa Hấu)
+https://cr7.rbncdn.net/live/689c914a66f7b7eee4c190db_965mkyhk4y1dr1g_football_fhd/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Tottenham Hotspur vs Manchester City (BLV Củ Nghệ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://cr7.rbncdn.net/live/689c8fd35ae37172a548f9ed_4jwq2ghnkxx8m0v_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Aston Villa vs Brentford (BLV Súp Lơ)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Tottenham Hotspur vs Manchester City (BLV Tía Tô)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://cr7.rbncdn.net/live/689c20a777c99958a671aa1d_3glrw7hn1yy4qdy_football_fhd/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Nottingham Forest vs Crystal Palace (BLV Sầu Riêng)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/Bundesliga.png", Borussia Dortmund vs Heidenheim (BLV Nguyễn Bí Đỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://cr7.rbncdn.net/live/689c8ef189c203e20dd33199_965mkyhk4enlr1g_football_fhd/playlist.m3u8
 
@@ -531,3 +531,4 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
