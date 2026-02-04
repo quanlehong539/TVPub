@@ -1,20 +1,23 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/UEFA_Youth_League.svg/960px-UEFA_Youth_League.svg.png", 🇮🇱 U19 Maccabi Haifa vs 🇪🇸 U19 Barcelona (BLV Phong Vân)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Ziraat_Turkish_Cup_Vertical_Logo.png", Galatasaray vs Istanbulspor (BLV Đoàn Dự)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/PHONGVAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/UEFA_Youth_League.svg/960px-UEFA_Youth_League.svg.png", 🇮🇱 U19 Maccabi Haifa vs 🇪🇸 U19 Barcelona (BLV Dương Chí)
+https://luongsontv.quanlehong539.workers.dev/hls/DOANDU1/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Ziraat_Turkish_Cup_Vertical_Logo.png", Galatasaray vs Istanbulspor (BLV Dương Chí)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/VANCONAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/UEFA_Youth_League.svg/960px-UEFA_Youth_League.svg.png", 🇮🇱 U19 Maccabi Haifa vs 🇪🇸 U19 Barcelona (BLV Lữ Bố)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Ziraat_Turkish_Cup_Vertical_Logo.png", Galatasaray vs Istanbulspor (BLV Lữ Bố)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/UEFA_Youth_League.svg/960px-UEFA_Youth_League.svg.png", 🇵🇹 U19 Benfica vs 🇨🇿 U19 Slavia Praha (BLV A Tủa)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Ziraat_Turkish_Cup_Vertical_Logo.png", Galatasaray vs Istanbulspor (BLV Chuối Tống)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/ATUA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/UEFA_Youth_League.svg/960px-UEFA_Youth_League.svg.png", 🇫🇮 U19 HJK Helsinki vs 🇬🇧 U19 Manchester City (BLV Tần Ca)
+https://cyber.chuoichien.tv/chuoitong/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Ziraat_Turkish_Cup_Vertical_Logo.png", Galatasaray vs Istanbulspor (BLV Dần)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TANCA/index.m3u8
+https://cdn.giovangtv.club/1770200572_hd/1770200572_hd@720p.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Ziraat_Turkish_Cup_Vertical_Logo.png", Galatasaray vs Istanbulspor (BLV Ngọ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://cdn.giovangtv.club/1770224628_hd/1770224628_hd@720p.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -519,6 +522,7 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
 
 
