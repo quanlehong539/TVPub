@@ -32,10 +32,18 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 https://vip.opstream90.com/20250530/6646_510f2318/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/frankenstein-thumb.jpg", Frankenstein
 https://vip.opstream90.com/20251107/17110_170821fb/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/con-trai-cua-shakespeare-thumb.jpg", Con Trai Của Shakespeare
+https://vip.opstream90.com/20260204/24043_b55b1e5d/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/tran-chien-sau-tran-chien-thumb.jpg", Trận Chiến Sau Trận Chiến
 https://vip.opstream12.com/20251114/30033_31163fed/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/kaguya-cong-chua-vu-tru-thumb.jpg", Công Chúa Vũ Trụ Kaguya!
 https://vip.opstream90.com/20260122/22927_91980b0a/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/dem-nay-dau-tinh-yeu-nay-bien-mat-khoi-the-gian-2026-thumb.jpg", Đêm Nay Dẫu Tình Yêu Này Biến Mất Khỏi Thế Gian
+https://vip.opstream90.com/20260204/24011_2baec31f/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/tee-yod-quy-an-tang-phan-3-thumb.jpg", Tee Yod: Quỷ Ăn Tạng 3
+https://vip.opstream90.com/20260205/24057_678548c3/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/vu-dieu-tra-lucy-letby-thumb.jpg", Vụ Điều Tra Lucy Letby
+https://vip.opstream90.com/20260204/24012_907781cf/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/dich-nhan-kiet-bi-ngan-ky-hoa-thumb.jpg", Thần Thám Địch Nhân Kiệt: Bỉ Ngạn Kỳ Hoa
 https://vip.opstream90.com/20260112/22223_7e4f882d/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/366-ngay-thumb.jpg", 366 Ngày
@@ -116,6 +124,10 @@ https://vip.opstream90.com/20251028/16276_1ab4eabb/index.m3u8
 https://vip.opstream90.com/20251028/16279_ae66a054/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/homejack-quartet-thumb.jpg", Bị Jack Vạch Trần
 https://vip.opstream11.com/20231005/48050_d9455db9/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/co-hau-gai-2025-thumb.jpg", Cô Hầu Gái
+https://vip.opstream90.com/20260203/23942_b44d430b/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/dem-nhiet-doi-thumb.jpg", Đêm Nhiệt Đới
+https://vip.opstream12.com/20260203/32422_2c2c5fd0/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/cuoc-chien-danh-quyen-nuoi-meo-thumb.jpg", Cuộc Chiến Tranh Nuôi Mèo
 https://vip.opstream10.com/20250822/30232_9b01ea73/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/ban-balled-cua-tay-bac-nho-thumb.jpg", Bản Ballad Của Tay Bạc Nhỏ
@@ -262,6 +274,46 @@ https://vip.opstream11.com/20231122/49444_86d50ff2/index.m3u8
 https://vip.opstream16.com/20231127/38189_033f511c/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/tet-o-lang-dia-nguc-thumb.jpg", Tết Ở Làng Địa Ngục (Tập 12)
 https://vip.opstream16.com/20231128/38297_198aa9ec/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/wonder-man-thumb.jpg", Wonder Man (Tập 1)
+https://vip.opstream10.com/20260129/32589_5b1bf435/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/wonder-man-thumb.jpg", Wonder Man (Tập 2)
+https://vip.opstream10.com/20260129/32609_4699df1b/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/wonder-man-thumb.jpg", Wonder Man (Tập 3)
+https://vip.opstream10.com/20260130/32611_0f3afa3c/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/wonder-man-thumb.jpg", Wonder Man (Tập 4)
+https://vip.opstream10.com/20260130/32620_35a8b29b/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/wonder-man-thumb.jpg", Wonder Man (Tập 5)
+https://vip.opstream10.com/20260130/32621_15f68be0/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/wonder-man-thumb.jpg", Wonder Man (Tập 6)
+https://vip.opstream10.com/20260131/32632_853db3a8/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/wonder-man-thumb.jpg", Wonder Man (Tập 7)
+https://vip.opstream10.com/20260131/32637_48f27972/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/wonder-man-thumb.jpg", Wonder Man (Tập 8)
+https://vip.opstream10.com/20260131/32639_005b0c27/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 1)
+https://vip.opstream90.com/20251220/20577_480ef4ce/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 2)
+https://vip.opstream90.com/20251220/20600_9f369b3d/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 3)
+https://vip.opstream90.com/20251227/21050_02d1c57b/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 4)
+https://vip.opstream90.com/20251227/21092_c139ffc2/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 5)
+https://vip.opstream90.com/20260103/21587_8e7430b9/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 6)
+https://vip.opstream90.com/20260103/21588_b7e67bd1/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 7)
+https://vip.opstream90.com/20260110/22034_085a2f56/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 8)
+https://vip.opstream90.com/20260110/22042_d2ee7c80/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 9)
+https://vip.opstream90.com/20260117/22635_c16117de/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 10)
+https://vip.opstream90.com/20260117/22636_de139000/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 11)
+https://vip.opstream90.com/20260124/22990_293a5ccf/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/love-me-thumb.jpg", Bước Vào Tim Em (Tập 12)
+https://vip.opstream90.com/20260124/22999_66afde74/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/yet-hi-thumb.jpg", Yết Hí (Tập 1)
 https://vip.opstream90.com/20260109/22024_d5cc7743/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/yet-hi-thumb.jpg", Yết Hí (Tập 2)
