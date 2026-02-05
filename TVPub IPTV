@@ -1,44 +1,23 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png", Manchester City vs Newcastle United (BLV Leo)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/ASEAN_Club_Championship_logo.png/220px-ASEAN_Club_Championship_logo.png", 🇻🇳 Thép Xanh Nam Định vs 🇲🇾 Johor Darul Ta'zim (BLV Thìn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LEO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png", Manchester City vs Newcastle United (BLV Nhị Ka)
+https://cdn.giovangtv.club/1770254581_hd/1770254581_hd@720p.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/ASEAN_Club_Championship_logo.png/220px-ASEAN_Club_Championship_logo.png", 🇻🇳 Thép Xanh Nam Định vs 🇲🇾 Johor Darul Ta'zim (BLV Tuất)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://cdn.giovangtv.club/1770254564_hd/1770254564_hd@720p.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/ASEAN_Club_Championship_logo.png/220px-ASEAN_Club_Championship_logo.png", 🇻🇳 Thép Xanh Nam Định vs 🇲🇾 Johor Darul Ta'zim (BLV Ura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/URA/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/ASEAN_Club_Championship_logo.png/220px-ASEAN_Club_Championship_logo.png", 🇻🇳 Thép Xanh Nam Định vs 🇲🇾 Johor Darul Ta'zim (BLV Nhị Ka)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/NHIKA1/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png", Manchester City vs Newcastle United (BLV Lữ Bố)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/ASEAN_Club_Championship_logo.png/220px-ASEAN_Club_Championship_logo.png", 🇻🇳 Thép Xanh Nam Định vs 🇲🇾 Johor Darul Ta'zim (BLV Thời Thiên)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png", Manchester City vs Newcastle United (BLV Dương Quá)
+https://luongsontv.quanlehong539.workers.dev/hls/THOITHIEN/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/ASEAN_Club_Championship_logo.png/220px-ASEAN_Club_Championship_logo.png", 🇻🇳 Thép Xanh Nam Định vs 🇲🇾 Johor Darul Ta'zim (BLV Chuối Tây)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/DUONGQUA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png", Manchester City vs Newcastle United (BLV Chuối Chín Chín)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoi99/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png", Manchester City vs Newcastle United (BLV Dần)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cdn.giovangtv.club/1770200470_hd/1770200470_hd@720p.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png", Manchester City vs Newcastle United (BLV Ngọ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cdn.giovangtv.club/1770200377_hd/1770200377_hd@720p.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png", Manchester City vs Newcastle United (BLV Hợi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cdn.giovangtv.club/1770200474_hd/1770200474_hd@720p.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Inter Milan vs Torino (BLV Ngũ Ca)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/NGUCA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Inter Milan vs Torino (BLV Dương Chí)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/VANCONAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Inter Milan vs Torino (BLV Triệu Tử Long)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TRIEUTULONG/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Inter Milan vs Torino (BLV Chuối Bảy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoibay/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Inter Milan vs Torino (BLV Dậu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cdn.giovangtv.club/1770200711_hd/1770200711_hd@720p.m3u8
+https://cyber.chuoichien.tv/chuoitay/index.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -543,6 +522,7 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
 
 
