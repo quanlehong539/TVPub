@@ -14,7 +14,7 @@ https://luongsontv.quanlehong539.workers.dev/hls/URA/index.m3u8
 https://luongsontv.quanlehong539.workers.dev/hls/NHIKA1/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al Ahli vs Al Hazm (BLV Dương Chí)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/THOITHIEN/index.m3u8
+https://luongsontv.quanlehong539.workers.dev/hls/VANCONAN/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Ziraat_Turkish_Cup_Vertical_Logo.png", Fenerbahce vs BB Ezurumspor (BLV Mã Siêu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/MASIEU/index.m3u8
@@ -531,11 +531,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
-
-
-
-
-
-
