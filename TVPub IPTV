@@ -1,36 +1,8 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Kyoto Sanga vs Vissel Kobe (BLV Ura)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/URA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Kyoto Sanga vs Vissel Kobe (BLV Lữ Bố)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Kyoto Sanga vs Vissel Kobe (BLV Vương Luân)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", V-Varen Nagasaki vs Sanfreece Hiroshima (BLV Dương Chí)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/VANCONAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", V-Varen Nagasaki vs Sanfreece Hiroshima (BLV Tôn Lập)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TONLAP/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Yokohama F.Marinos vs Machida Zelvia (BLV Yến Thanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Yokohama F.Marinos vs Machida Zelvia (BLV Võ Tòng)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/themes/VPF-child/assets/images/logo_channel/hn-0506.png", Thanh Niên TP. Hồ Chí Minh vs Đồng Tháp (BLV Chuối To)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/themes/VPF-child/assets/images/logo_channel/hn-0506.png", Khatoco Khánh Hòa vs TP. Hồ Chí Minh (BLV Chuối Tây)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+https://liveh12.vtvprime.vn/hls/VTV1_HD/04.m3u8
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="antvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -179,7 +151,7 @@ https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 https://vtv3-autom3u.quanlehong539.workers.dev
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv4hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png", VTV4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+https://liveh12.vtvprime.vn/hls/VTV4_HD/04.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv5hdtnb" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/VTV5_T%C3%A2y_Nam_B%E1%BB%99.png/revision/latest?cb=20200530233645&path-prefix=vi", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
@@ -197,7 +169,7 @@ https://vtv8-autom3u.quanlehong539.workers.dev
 https://vtv9-autom3u.quanlehong539.workers.dev
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtvcantho" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV10_logo.png", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://liveh12.vtvprime.vn/hls/VTVCANTHO_HD/04.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -531,5 +503,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
