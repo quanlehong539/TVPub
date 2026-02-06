@@ -1,56 +1,32 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Atalanta vs Juventus (BLV Hợi)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Kyoto Sanga vs Vissel Kobe (BLV Ura)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cdn.giovangtv.club/1770309108_hd/1770309108_hd@720p.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2022/06/Copa-del-Rey.png", Real Betis vs Atletico Madrid (BLV Dần)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cdn.giovangtv.club/1770309301_hd/1770309301_hd@720p.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2022/06/Copa-del-Rey.png", Real Betis vs Atletico Madrid (BLV Dậu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cdn.giovangtv.club/1770309316_hd/1770309316_hd@720p.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Coupe_de_France_logo_%282022%29.svg/1280px-Coupe_de_France_logo_%282022%29.svg.png", Strasbourg vs AS Monaco (BLV Leo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LEO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Coupe_de_France_logo_%282022%29.svg/1280px-Coupe_de_France_logo_%282022%29.svg.png", Strasbourg vs AS Monaco (BLV Lữ Bố)
+https://luongsontv.quanlehong539.workers.dev/hls/URA/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Kyoto Sanga vs Vissel Kobe (BLV Lữ Bố)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Coupe_de_France_logo_%282022%29.svg/1280px-Coupe_de_France_logo_%282022%29.svg.png", Strasbourg vs AS Monaco (BLV Mã Siêu)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Kyoto Sanga vs Vissel Kobe (BLV Vương Luân)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/MASIEU/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Atalanta vs Juventus (BLV Ngũ Ca)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/NGUCA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Atalanta vs Juventus (BLV Dương Chí)
+https://luongsontv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", V-Varen Nagasaki vs Sanfreece Hiroshima (BLV Dương Chí)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/VANCONAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Atalanta vs Juventus (BLV Dương Quá)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/DUONGQUA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Atalanta vs Juventus (BLV Triệu Tử Long)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TRIEUTULONG/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2022/06/Copa-del-Rey.png", Real Betis vs Atletico Madrid (BLV A Tủa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/ATUA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2022/06/Copa-del-Rey.png", Real Betis vs Atletico Madrid (BLV Tôn Lập)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", V-Varen Nagasaki vs Sanfreece Hiroshima (BLV Tôn Lập)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/TONLAP/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2022/06/Copa-del-Rey.png", Real Betis vs Atletico Madrid (BLV Thời Thiên)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Yokohama F.Marinos vs Machida Zelvia (BLV Yến Thanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/THOITHIEN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2022/06/Copa-del-Rey.png", Real Betis vs Atletico Madrid (BLV Quan Vũ)
+https://luongsontv.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/3j8bni1675170553.png", Yokohama F.Marinos vs Machida Zelvia (BLV Võ Tòng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/QUANVU/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Coupe_de_France_logo_%282022%29.svg/1280px-Coupe_de_France_logo_%282022%29.svg.png", Strasbourg vs AS Monaco (BLV Chuối Bảy)
+https://luongsontv.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/themes/VPF-child/assets/images/logo_channel/hn-0506.png", Thanh Niên TP. Hồ Chí Minh vs Đồng Tháp (BLV Chuối To)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/chuoibay/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/960px-Coppa_Italia_-_Logo_2019.svg.png", Atalanta vs Juventus (BLV Duy Hưng)
+https://cyber.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vpf.vn/wp-content/themes/VPF-child/assets/images/logo_channel/hn-0506.png", Khatoco Khánh Hòa vs TP. Hồ Chí Minh (BLV Chuối Tây)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/duyhung/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://www.sportmonks.com/wp-content/uploads/2022/06/Copa-del-Rey.png", Real Betis vs Atletico Madrid (BLV Zeman)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cyber.chuoichien.tv/manze/index.m3u8
+https://cyber.chuoichien.tv/chuoitay/index.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -555,4 +531,5 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
