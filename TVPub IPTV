@@ -425,9 +425,9 @@ https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8
 https://sbs-hls.streamguys1.com/hls/popasia/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.squarespace-cdn.com/content/v1/51a013dee4b0a2a2d2ef73e9/1413118307005-CX960MGTBTHQFDFYDNY4/image-asset.png", NHK World Radio
 https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
-#EXTINF:-1 group=title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talksport.png", TalkSPORT
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talksport.png", TalkSPORT
 https://radio.talksport.com/stream
-#EXTINF:-1 group=title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talksport2.png", TalkSPORT 2
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talksport2.png", TalkSPORT 2
 https://radio.talksport.com/stream2
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
 https://ha-noi-community-radio.radiocult.fm/stream
