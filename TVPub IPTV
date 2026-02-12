@@ -1,117 +1,51 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Nottingham Forest vs Wolverhampton Wanderers (BLV Phan Long)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Phan Mão)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Aston Villa vs Brighton & Hove Albion (BLV Phan Báo)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanmao/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Phan Chè)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Crystal Palace vs Burnley (BLV Phan Sếu)
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Kaka)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanseu/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester City vs Fulham (BLV Phan Tôm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/GermanDFBPokal.png", Bayern Munich vs RB Leipzig (BLV Phan Hà Linh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Sunderland vs Liverpool (BLV Phan Mã)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Nottingham Forest vs Wolverhampton Wanderers (BLV Ngũ Ca)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/NGUCA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Nottingham Forest vs Wolverhampton Wanderers (BLV Tần Ca)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TANCA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Aston Villa vs Brighton & Hove Albion (BLV Triệu Tử Long)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TRIEUTULONG/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Aston Villa vs Brighton & Hove Albion (BLV Tây Môn Khánh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TAYMONKHANH/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Crystal Palace vs Burnley (BLV Mã Siêu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/MASIEU/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester City vs Fulham (BLV Leo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LEO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester City vs Fulham (BLV Kevill)
+https://luongsontv.quanlehong539.workers.dev/hls/KAKA/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Kevill)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/KEVILL/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester City vs Fulham (BLV Nhị Ka)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/NHIKA1/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester City vs Fulham (BLV Lữ Bố)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Lữ Bố)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/GermanDFBPokal.png", Bayern Munich vs RB Leipzig (BLV Tôn Lập)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Lữ Bố)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TONLAP/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/GermanDFBPokal.png", Bayern Munich vs RB Leipzig (BLV Quan Vũ)
+https://luongsontv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Leo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/QUANVU/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/ItalianCoppaItalia.png", Bologna vs SS Lazio (BLV Lý Quỳ)
+https://luongsontv.quanlehong539.workers.dev/hls/LEO/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Kevill)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LYQUY/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/ItalianCoppaItalia.png", Bologna vs SS Lazio (BLV Dương Chí)
+https://luongsontv.quanlehong539.workers.dev/hls/KEVILL/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Lữ Bố)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/VANCONAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png", Athletic Bilbao vs Real Sociedad (BLV Lý Ứng)
+https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Lữ Bố)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LYUNG1/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png", Athletic Bilbao vs Real Sociedad (BLV A Tủa)
+https://luongsontv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Chuối Bảy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/ATUA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png", Athletic Bilbao vs Real Sociedad (BLV Thời Thiên)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/THOITHIEN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Sunderland vs Liverpool (BLV Phong Vân)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/PHONGVAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Sunderland vs Liverpool (BLV Lưu Bị)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LUUBI/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Nottingham Forest vs Wolverhampton Wanderers (BLV Chuối Tống)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cyber.chuoichien.tv/chuoitong/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Aston Villa vs Brighton & Hove Albion (BLV Chuối Đô)
+https://cyber.chuoichien.tv/chuoibay/index.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Chuối Đô)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cyber.chuoichien.tv/chuoidoo/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester City vs Fulham (BLV Chuối Chồn)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV 7up)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cyber.chuoichien.tv/chuoichon/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/ItalianCoppaItalia.png", Bologna vs SS Lazio (BLV Zeman)
+https://live5.msrktz.app/live/78905744.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Già Làng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cyber.chuoichien.tv/manze/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Sunderland vs Liverpool (BLV Chuối Tây)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Aston Villa vs Brighton & Hove Albion (BLV Rồng Đỏ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/88508431.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Crystal Palace vs Burnley (BLV Dr Thanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester City vs Fulham (BLV Coca)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/GermanDFBPokal.png", Bayern Munich vs RB Leipzig (BLV Mountain Dew)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/ItalianCoppaItalia.png", Bologna vs SS Lazio (BLV Warrior)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/97885009.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png", Athletic Bilbao vs Real Sociedad (BLV Bí Đao)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/99121525.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Sunderland vs Liverpool (BLV Ôlong)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/97312754.m3u8
+https://live5.msrktz.app/live/14830711.m3u8
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/VTV1_HD/04.m3u8
+https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_4800000=10005-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="antvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -260,7 +194,7 @@ https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 https://vtv3-autom3u.quanlehong539.workers.dev
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv4hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png", VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/VTV4_HD/04.m3u8
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv5hdtnb" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/VTV5_T%C3%A2y_Nam_B%E1%BB%99.png/revision/latest?cb=20200530233645&path-prefix=vi", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
@@ -278,7 +212,7 @@ https://vtv8-autom3u.quanlehong539.workers.dev
 https://vtv9-autom3u.quanlehong539.workers.dev
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtvcantho" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV10_logo.png", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/VTVCANTHO_HD/04.m3u8
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -383,7 +317,7 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi2" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", TH Hà Nội 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hue" tvg-logo="https://huetv.com.vn/uploads/static/Banner/LogoHueTV.png", TH Thành phố Huế
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=63
@@ -612,6 +546,3 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-
-
