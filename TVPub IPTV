@@ -12,7 +12,7 @@ https://luongsontv.quanlehong539.workers.dev/hls/KEVILL/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Lữ Bố)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Lữ Bố)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Vương Luân)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Leo)
@@ -24,7 +24,7 @@ https://luongsontv.quanlehong539.workers.dev/hls/KEVILL/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Lữ Bố)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Lữ Bố)
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Bangkok United vs Macarthur (BLV Vương Luân)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png", Pohang Steelers vs Gamba Osaka (BLV Chuối Bảy)
@@ -543,4 +543,5 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
+
 
