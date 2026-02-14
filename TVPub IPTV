@@ -1,81 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Shabab vs Al-Ahli Jeddah (BLV Phan Báo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Hilal vs Al-Ettifaq (BLV Phan Mã)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png", Stade Rennais vs Paris Saint-Germain (BLV Phan Báo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Shabab vs Al-Ahli Jeddah (BLV Tây Môn Khánh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TAYMONKHANH/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Hilal vs Al-Ettifaq (BLV Leo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LEO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Hilal vs Al-Ettifaq (BLV Kevill)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/KEVILL/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Hilal vs Al-Ettifaq (BLV Nhị Ka)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/NHIKA1/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Hilal vs Al-Ettifaq (BLV Vương Luân)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Ittifaq vs Al-Fayha (BLV Lưu Bị)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LUUBI/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Ittifaq vs Al-Fayha (BLV Phong Vân)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/PHONGVAN/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Ittifaq vs Al-Fayha (BLV Tây Môn Khánh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/TAYMONKHANH/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png", Stade Rennais vs Paris Saint-Germain (BLV Ura)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/URA/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png", Stade Rennais vs Paris Saint-Germain (BLV Nhị Ka)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/NHIKA1/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png", Stade Rennais vs Paris Saint-Germain (BLV Lữ Bố)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png", Stade Rennais vs Paris Saint-Germain (BLV Quan Vũ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luongsontv.quanlehong539.workers.dev/hls/QUANVU/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Shabab vs Al-Ahli Jeddah (BLV Dr Thanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Shabab vs Al-Ahli Jeddah (BLV Soda)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Hilal vs Al-Ettifaq (BLV Già Làng)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Hilal vs Al-Ettifaq (BLV Warrior)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/97885009.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png", Stade Rennais vs Paris Saint-Germain (BLV Soda)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png", Stade Rennais vs Paris Saint-Germain (BLV Rockstar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/82054853.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Shabab vs Al-Ahli Jeddah (BLV Chuối To)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Hilal vs Al-Ettifaq (BLV Chuối Đô)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cyber.chuoichien.tv/chuoidoo/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Al-Ittifaq vs Al-Fayha (BLV Chuối Bảy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cyber.chuoichien.tv/chuoibay/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png", Stade Rennais vs Paris Saint-Germain (BLV Chuối Tây)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cyber.chuoichien.tv/chuoitay/index.m3u8
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_4800000=10005-mp4a_131600=20000.m3u8
@@ -580,3 +504,185 @@ https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
 
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Bí Đao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Coca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/24561735.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Cozy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Dr Thanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/79665343.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Fanta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/71426314.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Già Làng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Monster
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/75915087.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Ôlong
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/97312754.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Pepsi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/43612277.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Rockstar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/82054853.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Rồng Đỏ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/88508431.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Soda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/02456966.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Sprite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/90725470.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Sting
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/14707124.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Teppy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/59444581.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Warrior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/97885009.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/90865415.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV 7up
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV A Tủa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/ATUA/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Chunn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/CHUN1/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Dương Chí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/VANCONAN/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Dương Quá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/DUONGQUA/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Đoàn Dự
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/DOANDU1/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Giáo Sư Xoay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/GIAOSUXOAY/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Kenchu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/KENCHU/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Kevill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/KEVILL/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Khổng Minh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/KHONGMINH/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Leo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/LEO/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Lữ Bố
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Lưu Bị
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/LUUBI/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Lý Quỳ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/LYQUY/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Lý Ứng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/LYUNG1/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Maybach
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/MAYBACH/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Mã Siêu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/MASIEU/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Ngũ Ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/NGUCA/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Nhị Ka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/NHIKA1/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Phong Vân
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/PHONGVAN/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Quan Vũ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/QUANVU/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Shin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/SHIN/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Tây Môn Khánh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/TAYMONKHANH/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Tần Ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/TANCA/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Thời Thiên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/THOITHIEN/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Tôn Lập
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/TONLAP/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Tống Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/TONGGIANG/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Trương Thanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/TRUONGTHANH/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Triệu Tử Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/TRIEUTULONG/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Ura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/URA/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Văn Vỹ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/VANVY/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Vương Luân
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Võ Tòng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Yến Thanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://luongsontv.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
+
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Bảy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/chuoibay/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Chồn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/chuoichon/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Chín Chín
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Đô
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/chuoidoo/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Hột
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Tây
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/chuoitay/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối To
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/chuoito/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Tống
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/chuoitong/index.m3u8
+#EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Zeman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/manze/index.m3u8
