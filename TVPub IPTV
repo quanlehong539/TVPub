@@ -388,7 +388,7 @@ https://stream.vovmedia.vn/vov4dbscl
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov5" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5
 https://stream.vovmedia.vn/vov5
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov247" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png", VOV English 24/7
-https://stream.vovmedia.vn/vov247
+https://audio-lss.vov.vn/han/live/vov24_7/audio/haudio-eng.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hồ Chí Minh
@@ -686,3 +686,4 @@ https://cyber.chuoichien.tv/chuoitong/index.m3u8
 #EXTINF:-1 group-title="🔴 FOOTBALL LIVE - CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Zeman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cyber.chuoichien.tv/manze/index.m3u8
+
