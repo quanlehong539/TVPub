@@ -20,6 +20,7 @@ https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv7hd" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/HTV7-Logo-2003.png", HTV7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvthethaohd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -34,6 +35,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vc.101vn.com/htv/htvcmb.php?id=2669
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onviegiaitri" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTVcab_1.png/revision/latest?cb=20240918002543&path-prefix=vi", Vie Giải trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -175,12 +177,8 @@ https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png", MONO29
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/logo-blanco-oficial-2024.png", TeleSUR English
-https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png", BeIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/wsnlogocolor_1920x1080.png", Women's Sports Network
-https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="mbcamerica" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png", MBC
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png", CGTN English
@@ -427,10 +425,6 @@ https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_r
 https://radio.talksport.com/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talksport2.png", TalkSPORT 2
 https://radio.talksport.com/stream2
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
-https://ha-noi-community-radio.radiocult.fm/stream
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.nl/wp-content/uploads/2024/06/2-480x480.png", KC Radio Mixed in Vietnam
-https://play.wrhradios.com/8014/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.zeno.fm/utorNQJY4T-42EZ76rgUl1OmF3Kx5WJ2axDXCxbyqC8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNmZjZWI3NDYtMzdlNi00YWY3LTliYmMtNzU3NjljYzhhMWQwL2ltYWdlLz91PTE3Njg0ODQ2MTUwMDA.webp", LHQ Play
 https://stream.zeno.fm/vwofath8nz8tv
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26182g.png", Little Saigon Radio
@@ -511,6 +505,9 @@ https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Dr Thanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live5.msrktz.app/live/79665343.m3u8
@@ -523,12 +520,21 @@ https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Monster
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live5.msrktz.app/live/75915087.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Mountain Dew
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Ôlong
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Pepsi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live5.msrktz.app/live/43612277.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Redbull
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+#EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Revive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://colatv.live/assets/images/logo.png", BLV Rockstar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live5.msrktz.app/live/82054853.m3u8
