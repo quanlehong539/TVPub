@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://southkoreaepg.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" billed-msg="Ủng hộ qua tài khoản MB Bank: 9704 2292 0082 1221 743" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://lichphatsong.site/schedule/epg.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" billed-msg="Ủng hộ qua tài khoản MB Bank: 9704 2292 0082 1221 743" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -181,6 +181,8 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/wsnlogocolor_1920x1080.png", Women's Sports Network
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlistR1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="mbcamerica" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png", MBC
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png", CGTN English
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtndocu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
@@ -215,8 +217,6 @@ https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bbcamerica" tvg-logo="https://cdn.cookielaw.org/logos/9ba987d0-417d-4455-ab02-764b3dc7f03e/4b6d0ed8-971c-438f-8398-457d37be067a/fd3506e7-0db2-4045-8721-d41a4c90b66c/bbca-v2_2.png", BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="NBSTV.kr" tvg-logo="https://www.inbs.co.kr/images/common/ico_gnb_title.png", NBS
-https://media.joycorp.co.kr:4443/live/live_720p/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tennischannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
@@ -557,103 +557,103 @@ https://live5.msrktz.app/live/90865415.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live5.msrktz.app/live/78905744.m3u8
 
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV A Tủa
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV A Tủa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/ATUA/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Chunn
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Chunn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/CHUN1/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Dương Chí
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Dương Chí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/VANCONAN/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Dương Quá
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Dương Quá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/DUONGQUA/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Đoàn Dự
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Đoàn Dự
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/DOANDU1/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Giáo Sư Xoay
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Giáo Sư Xoay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/GIAOSUXOAY/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Kenchu
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Kenchu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/KENCHU/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Kevill
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Kevill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/KEVILL/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Khổng Minh
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Khổng Minh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/KHONGMINH/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Leo
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Leo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LEO/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Lữ Bố
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Lữ Bố
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Lưu Bị
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Lưu Bị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LUUBI/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Lý Quỳ
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Lý Quỳ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LYQUY/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Lý Ứng
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Lý Ứng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/LYUNG1/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Maybach
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Maybach
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/MAYBACH/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Mã Siêu
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Mã Siêu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/MASIEU/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Ngũ Ca
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Ngũ Ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/NGUCA/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Nhị Ka
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Nhị Ka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/NHIKA1/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Phong Vân
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Phong Vân
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/PHONGVAN/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Quan Vũ
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Quan Vũ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/QUANVU/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Shin
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Shin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/SHIN/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Tây Môn Khánh
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Tây Môn Khánh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/TAYMONKHANH/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Tần Ca
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Tần Ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/TANCA/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Thời Thiên
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Thời Thiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/THOITHIEN/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Tôn Lập
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Tôn Lập
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/TONLAP/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Tống Giang
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Tống Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/TONGGIANG/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Trương Thanh
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Trương Thanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/TRUONGTHANH/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Triệu Tử Long
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Triệu Tử Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/TRIEUTULONG/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Ura
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Ura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/URA/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Văn Vỹ
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Văn Vỹ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/VANVY/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Vương Luân
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Vương Luân
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Võ Tòng
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Võ Tòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://ls3.site/assets/png/logols-CJ7ptr7F.png", BLV Yến Thanh
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://luongsontv.net/assets/png/logols-CJ7ptr7F.png", BLV Yến Thanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luongsontv.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
 
@@ -687,4 +687,3 @@ https://cyber.chuoichien.tv/chuoivang/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Zeman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cyber.chuoichien.tv/manze/index.m3u8
-
