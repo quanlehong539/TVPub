@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://lichphatsong.site/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" billed-msg="Ủng hộ qua tài khoản MB Bank: 9704 2292 0082 1221 743" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/KuboNetwork_thumbnail.jpg", Câu chuyện tối thứ 7 - Số tháng 2/2026
-https://kubolive.ddns.net:8081/live/feed_tamchuyen_cung_kubolive150527/index.m3u8
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_4800000=10005-mp4a_131600=20000.m3u8
