@@ -20,15 +20,15 @@ https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv7hd" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/HTV7-Logo-2003.png", HTV7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvthethaohd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv9hd" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/HTV9-Logo.png", HTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_HTV4.png", HTV4
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv4" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/10/HTV4_logo_2014-2018.png/revision/latest?cb=20180814115707&path-prefix=vi", HTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png", HTV3
@@ -36,7 +36,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/HTV2_channel_logo.png", Vie Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vc.101vn.com/htv/htvcmb.php?id=2669
+https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onviegiaitri" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTVcab_1.png/revision/latest?cb=20240918002543&path-prefix=vi", Vie Giải trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=180
@@ -349,10 +349,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongthap2" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/k33-10.png", TH Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="binhduong1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/HTV1.png", HTV1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="htv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/HTV1.png", HTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="anvienhd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/HTV5_logo.png", HTV5
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="htv5" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/HTV5_logo.png", HTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hitv" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_640_360.png", HiTV
@@ -678,15 +678,15 @@ https://cyber.chuoichien.tv/chuoidoo/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Hột
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Nướng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cyber.chuoichien.tv/chuoinuong/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Tây
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cyber.chuoichien.tv/chuoitay/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối To
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cyber.chuoichien.tv/chuoito/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Tống
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cyber.chuoichien.tv/chuoitong/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Vàng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cyber.chuoichien.tv/chuoivang/index.m3u8
