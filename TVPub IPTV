@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://lichphatsong.site/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml, https://bonglau.quanlehong539.workers.dev/epg.xml" billed-msg="Ủng hộ qua tài khoản MB Bank: 9704 2292 0082 1221 743" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.freejptv.com/jp.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://lichphatsong.site/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" billed-msg="Ủng hộ qua tài khoản MB Bank: 9704 2292 0082 1221 743" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -283,8 +283,7 @@ https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi", TH Cần Thơ 2
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho3" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest?cb=20250912112412&path-prefix=vi", TH Cần Thơ 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=84
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="sonla" tvg-logo="https://media.sonlatv.vn/upload/files/logo/logo_footer.png", TH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tuyenquang" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TTV_Tuyen_Quang.png/revision/latest?cb=20220301071325&path-prefix=vi", TH Tuyên Quang
