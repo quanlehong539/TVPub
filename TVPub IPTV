@@ -190,8 +190,6 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/only-logo.png", TeleSUR English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/KFN.png/revision/latest?cb=20240524074906", KFN TV
-https://mediaworks.dema.mil.kr/live_edge/cudo.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="mbcamerica" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png", MBC
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="toei_channel" tvg-logo="https://www.toeich.jp/assets/images/min/headerTopLogo.png", Toei Channel
@@ -238,6 +236,8 @@ https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bbcamerica" tvg-logo="https://cdn.cookielaw.org/logos/9ba987d0-417d-4455-ab02-764b3dc7f03e/4b6d0ed8-971c-438f-8398-457d37be067a/fd3506e7-0db2-4045-8721-d41a4c90b66c/bbca-v2_2.png", BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="arte" tvg-logo="https://www.20six.fr/wp-content/uploads/2024/10/arte-logo.png", ARTE
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tennischannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel
