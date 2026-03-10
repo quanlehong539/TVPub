@@ -282,7 +282,7 @@ https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn3.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bloomberg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch321_425_305", Bloomberg
-https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/a7ed6c3c-6128-4e6a-a5b4-23e2f19308fe:TPE2/variant/f60915e3beb2dce6e36601a92aed7885/bandwidth/1200000.m3u8
+https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/58f4903d-c8f8-4dad-9712-ff8e6ba9648b:SIN/variant/f60915e3beb2dce6e36601a92aed7885/bandwidth/1200000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.etv.mn/wp-content/uploads/2021/08/etv-logo-1.png", ETV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
