@@ -188,8 +188,6 @@ https://vtv9-autom3u.quanlehong539.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="toei_channel" tvg-logo="https://www.toeich.jp/assets/images/min/headerTopLogo.png", Toei Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/tumb_mono29.png", MONO29
@@ -200,6 +198,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="mbcamerica" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png", MBC
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="toei_channel" tvg-logo="https://www.toeich.jp/assets/images/min/headerTopLogo.png", Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="jcom_bs" tvg-logo="https://www.jcom-bs.co.jp/common/img/common/logo.png", JCOM BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png", CGTN English
@@ -282,7 +282,7 @@ https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn3.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bloomberg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch321_425_305", Bloomberg
-https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/a7ed6c3c-6128-4e6a-a5b4-23e2f19308fe:TPE2/variant/f60915e3beb2dce6e36601a92aed7885/bandwidth/1200000.m3u8
+https://dai.google.com/linear/hls/pb/event/FvrjI2MQSs6_bNTURP2CaA/stream/58f4903d-c8f8-4dad-9712-ff8e6ba9648b:SIN/variant/f60915e3beb2dce6e36601a92aed7885/bandwidth/1200000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.etv.mn/wp-content/uploads/2021/08/etv-logo-1.png", ETV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
