@@ -755,41 +755,67 @@ https://luongsontv.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
 https://luongsontv.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Giàng A Tích 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/atichhd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Bắp Cải
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/bapcaihd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Bảy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoibayhd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Chồn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoichonhd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Chín Chín
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoi99hd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Đô
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoidoohd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Hột
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoihothd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Nướng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoinuonghd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Tây
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối To
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Tiêu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Chuối Vàng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/chuoivanghd/playlist.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ CHUỐI CHIÊN TV" tvg-logo="https://media.chuoichientv.com/media/20251121_055053_a02c582a.png", BLV Zeman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://tructiep.bonglau.live
 #EXTVLCOPT:http-referer=https://tructiep.bonglau.live/
 https://gckc0525.edgemaxcdn.org/live/manzehd/playlist.m3u8
