@@ -780,21 +780,21 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/BongLauTV_logo.png", Bóng lậu 1
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://quechoa8.live/images/header/quechoatv-logo-v2.png", Quê Choa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://bonglau1.quanlehong539.workers.dev/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/BongLauTV_logo.png", Bóng lậu 2
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://bunchatv.com/images/logo.png", Bún Chả TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://bonglau2.quanlehong539.workers.dev/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/BongLauTV_logo.png", Bóng lậu 3
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://thapcamtvbc.mobi/img/logotcx.png", Thập Cẩm TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://bonglau3.quanlehong539.workers.dev/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/BongLauTV_logo.png", Bóng lậu 4
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://ck11.site/assets/images/logo.png", Cà Khịa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://bonglau4.quanlehong539.workers.dev/index.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img.vtvprime.vn/qcr4QvHp9tT2_hcufcp11NdzeOW_GFg6eAFKIMD-9F8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYmE5YjUyYzktMjZlZS00NzEyLWE0NTQtOGUxMTI5ZmYwN2I3LnBuZw==.png", VTVprime 5
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://img.vtvprime.vn/nP787z_iuOaHjsnQitngrt8WrICT6q5KwDf-NSX8Bfs/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjEzNDU5MjQtMGFhNi00MGNiLTk4ZTQtNjhiOTZmZmNkMTI3LnBuZw==.png", VTVprime 8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
