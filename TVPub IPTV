@@ -200,8 +200,8 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/only-logo.png", TeleSUR English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/KFN.png/revision/latest?cb=20240524074906", KFN TV
-https://mediaworks.dema.mil.kr/live_edge/cudo.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="channel_ginga" tvg-logo="https://www.ch-ginga.jp/assets/images/common/footer_logo.png", Channel Ginga
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="jcom_bs" tvg-logo="https://www.jcom-bs.co.jp/common/img/common/logo.png", JCOM BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtn" tvg-logo="https://global-ui.cgtn.com/static/ng/resource/images/header-v3/img_logo.png", CGTN English
