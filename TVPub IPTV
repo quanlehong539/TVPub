@@ -318,7 +318,7 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho1" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/Logo-BaoPTTH-Can-Tho-Kenh-1-01092025.png", TH Cần Thơ 1
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi", TH Cần Thơ 2
-https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+https://live.canthotv.vn/cs2/live.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho3" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest?cb=20250912112412&path-prefix=vi", TH Cần Thơ 3
 https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="laocai" tvg-logo="https://cdn.baolaocai.vn/assets/web/styles/img/logo-THLC.png", TH Lào Cai
