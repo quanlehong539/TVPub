@@ -184,7 +184,7 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv9hd" tvg-logo="https://static.wikia.nocookie.net/vtv/images/9/95/VTV9_logo.png/revision/latest?cb=20200926010814&path-prefix=vi", VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vtv9-autom3u.quanlehong539.workers.dev/index.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtvcantho" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV10_logo.png", VTV10
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv10hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV10_logo.png", VTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
