@@ -784,6 +784,8 @@ https://global-media.onlive.vn/live/valorantespvn/master.m3u8
 https://global-media.onlive.vn/live/lcktiengviet/master.m3u8
 #EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", Liên Quân Mobile
 https://global-media.onlive.vn/live/lienquan/master.m3u8
+#EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", Red Bull Gaming
+https://global-media.onlive.vn/live/redbullgaming/master.m3u8
 #EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", Workpoint TV
 https://global-media.onlive.vn/live/2689773576/master.m3u8
 #EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", ON Sports
