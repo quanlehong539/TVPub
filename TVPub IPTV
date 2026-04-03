@@ -778,17 +778,17 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 
-#EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", LCK Tiếng Việt
-https://global-media.onlive.vn/live/lcktiengviet/master.m3u8
 #EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", VALORANT Vietnam
 https://global-media.onlive.vn/live/valorantespvn/master.m3u8
+#EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", LCK Tiếng Việt
+https://global-media.onlive.vn/live/lcktiengviet/master.m3u8
 #EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", Liên Quân Mobile
 https://global-media.onlive.vn/live/lienquan/master.m3u8
+#EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", Workpoint TV
+https://global-media.onlive.vn/live/2689773576/master.m3u8
 #EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", ON Sports
 https://global-media.onlive.vn/live/onsports/master.m3u8
 #EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", ON Football
 https://global-media.onlive.vn/live/onfootball/master.m3u8
 #EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", ON Sports News
 https://global-media.onlive.vn/live/onsportsnews/master.m3u8
-#EXTINF:-1 group-title="🔴 🎮 ON LIVE" tvg-logo="https://res.onlive.vn/images/common/img_error.png", Workpoint TV
-https://global-media.onlive.vn/live/2689773576/master.m3u8
