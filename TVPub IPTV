@@ -642,112 +642,112 @@ https://live5.msrktz.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV A Tủa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/ATUA/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/ATUA/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Chunn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/CHUN1/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/CHUN1/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Dương Chí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/VANCONAN/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/VANCONAN/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Dương Quá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/DUONGQUA/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/DUONGQUA/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Đoàn Dự
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/DOANDU1/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/DOANDU1/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Falcon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/falcon/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/falcon/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Fernando
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/FERNANDO/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/FERNANDO/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Giáo Sư Xoay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/GIAOSUXOAY/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/GIAOSUXOAY/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Kaka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/KAKA/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/KAKA/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Kenchu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/KENCHU/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/KENCHU/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Kevill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/KEVILL/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/KEVILL/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Khổng Minh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/KHONGMINH/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/KHONGMINH/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Leo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/LEO/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/LEO/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Lữ Bố
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/LUBO/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/LUBO/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Lưu Bị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/LUUBI/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/LUUBI/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Lý Quỳ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/LYQUY/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/LYQUY/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Lý Ứng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/LYUNG1/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/LYUNG1/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Maybach
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/MAYBACH/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/MAYBACH/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Mã Siêu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/MASIEU/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/MASIEU/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Pele
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/NGUCA/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/NGUCA/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Nhị Ka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/NHIKA1/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/NHIKA1/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Phong Vân
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/PHONGVAN/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/PHONGVAN/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Quan Vũ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/QUANVU/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/QUANVU/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Shin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/SHIN/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/SHIN/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Tây Môn Khánh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/TAYMONKHANH/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/TAYMONKHANH/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Tần Ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/TANCA/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/TANCA/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Thời Thiên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/THOITHIEN/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/THOITHIEN/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Tôn Lập
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/TONLAP/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/TONLAP/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Tống Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/TONGGIANG/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/TONGGIANG/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Trương Thanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/TRUONGTHANH/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/TRUONGTHANH/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Triệu Tử Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/TRIEUTULONG/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/TRIEUTULONG/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Ura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/URA/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/URA/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Văn Vỹ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/VANVY/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/VANVY/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Vương Luân
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/VUONGLUAN/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/VUONGLUAN/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Võ Tòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/VOTONG/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/VOTONG/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Yến Thanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.lstv.quanlehong539.workers.dev/live/YENTHANH1/index.m3u8
+https://lstv.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan1.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Củ Hành 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
