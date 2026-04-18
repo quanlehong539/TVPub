@@ -296,10 +296,10 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="vinhlong5hd" tvg-logo="https://www.thvl.vn/wp-content/themes/thvl-2025/imgs/thvl5.png", TH Vĩnh Long 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi1" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/5I28SE4GOB7V.png", TH Hà Nội 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi1" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2026/4/7/GEPVTKU9W9RC.png", TH Hà Nội 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi2" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/64LQPIOD71F6.png", TH Hà Nội 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi2" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2026/4/7/VATGGPG3EANS.png", TH Hà Nội 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hanoitv2.quanlehong539.workers.dev/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hue" tvg-logo="https://huetv.com.vn/uploads/static/Banner/LogoHueTV.png", TH Thành phố Huế
