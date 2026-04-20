@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="LIVE TV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV1_poster.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_4800000=10005-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-id="antvhd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/ANTV_poster.png", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -28,6 +28,16 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/chung-se-doat-mang-thumb.jpg", Chúng Sẽ Đoạt Mạng
+https://vip.opstream90.com/20260418/29686_a7329df9/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/lieu-mang-tron-chay-thumb.jpg", Liều Mạng Trốn Chạy
+https://vip.opstream12.com/20260328/32618_9ef7e039/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/the-chien-z-thumb.jpg", Thế Chiến Z
+https://vip.opstream90.com/20260329/28264_bc42a918/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/dinh-dinh-phuong-hoang-dai-thumb.jpg", Đình Đình Phượng Hoàng Đài
+https://vip.opstream90.com/20260401/28430_5f94d747/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/tinh-dau-kho-noi-thumb.jpg", Tình Đầu Khó Nói
+https://vip.opstream90.com/20260403/28728_e2f925f4/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/quai-vat-nho-nui-lang-lang-thumb.jpg", Tiểu Yêu Quái Núi Lãng Lãng
 https://vip.opstream90.com/20251122/18286_e52c9599/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/mot-bo-phim-minecraft-thumb.jpg", A Minecraft Movie: Thế Giới Khối Vuông
