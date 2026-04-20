@@ -421,8 +421,6 @@ https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
 https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov3" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
 https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tb" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Bắc - Đông Bắc
-https://stream-cdn.vov.vn/live/vov4-audio_only.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov5" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5
 https://media-audio.vov.vn/vov5.sdp_aac/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov247" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png", VOV English 24/7
@@ -473,6 +471,8 @@ https://radio.talksport.com/stream
 https://radio.talksport.com/stream2
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talkradio.png", TalkRADIO
 https://talk.live.stream.broadcasting.news/stream
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://www.thetimes.com/radio/wp-content/uploads/sites/2/2026/04/360x360-tr.png", Times Radio
+https://times.live.stream.broadcasting.news/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
 https://ha-noi-community-radio.radiocult.fm/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.nl/wp-content/uploads/2024/06/1-480x480.png", KC Radio 80's & 90's Hits
