@@ -484,10 +484,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3
 https://carol.epichosts.co.uk:8272/live.mp3
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
 https://ha-noi-community-radio.radiocult.fm/stream
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.nl/wp-content/uploads/2024/06/1-480x480.png", KC Radio 80's & 90's Hits
-https://play.wrhradios.com/8006/stream
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.nl/wp-content/uploads/2024/06/2-480x480.png", KC Radio Mixed in Vietnam
-https://play.wrhradios.com/8014/stream
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.asia/assets/logo-circle.png", KC Radio Mixed in Vietnam
+https://kcradio.asia/stream/mixed
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://vva1600.com/wp-content/uploads/2024/02/logo-white-2048x993.png", Voice of Vietnamese Americans
 https://s9.citrus3.com:8246/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.zeno.fm/utorNQJY4T-42EZ76rgUl1OmF3Kx5WJ2axDXCxbyqC8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNmZjZWI3NDYtMzdlNi00YWY3LTliYmMtNzU3NjljYzhhMWQwL2ltYWdlLz91PTE3Njg0ODQ2MTUwMDA.webp", LHQ Play
@@ -610,6 +608,9 @@ https://lstvlive.quanlehong539.workers.dev/hls/KEVILL/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Khổng Minh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://lstvlive.quanlehong539.workers.dev/hls/KHONGMINH/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Lão Hạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
 #EXTINF:-1 group-title="🔴 ⚽ LƯƠNG SƠN TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LuongSonTV_logo.png", BLV Leo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://lstvlive.quanlehong539.workers.dev/hls/LEO/index.m3u8
