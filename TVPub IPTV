@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_3800000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="antvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -367,7 +367,7 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="gialai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi", TH Gia Lai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangngai" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/QNgTV1_logo.png", TH Quảng Ngãi
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangngai" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/QNgTV1_logo.png", TH Quảng Ngãi 1
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangngai2" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest?cb=20260114143705&path-prefix=vi", TH Quảng Ngãi 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -468,10 +468,6 @@ https://sbs-hls.streamguys1.com/hls/sbs3/playlist.m3u8
 https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSPopAsia_logo.png", SBS PopAsia
 https://sbs-hls.streamguys1.com/hls/popasia/playlist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSArabic_logo.png", SBS Arabic
-https://sbs-hls.streamguys1.com/hls/arabic/playlist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSSouthAsian_logo.png", SBS South Asian
-https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.squarespace-cdn.com/content/v1/51a013dee4b0a2a2d2ef73e9/1413118307005-CX960MGTBTHQFDFYDNY4/image-asset.png", NHK World Radio
 https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talksport.png", TalkSPORT
@@ -480,8 +476,12 @@ https://radio.talksport.com/stream
 https://radio.talksport.com/stream2
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talkradio.png", TalkRADIO
 https://talk.live.stream.broadcasting.news/stream
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://www.thetimes.com/radio/wp-content/uploads/sites/2/2026/04/360x360-tr.png", Times Radio
-https://times.live.stream.broadcasting.news/stream
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NPR_new_logo.svg/1280px-NPR_new_logo.svg.png", National Public Radio
+https://npr-ice.streamguys1.com/live.mp3
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://afngo.net/static/media/AFNTheEagle.0967e91794a1a16185fe.png", American Forces Network Tokyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://static.wixstatic.com/media/cd82dc_c1e307641d474691a6b45b14b4e92c5b~mv2.png", Scientific Sound Asia
+https://carol.epichosts.co.uk:8272/live.mp3
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HCR_whitelogo.png", Hà Nội Community Radio
 https://ha-noi-community-radio.radiocult.fm/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.nl/wp-content/uploads/2024/06/1-480x480.png", KC Radio 80's & 90's Hits
