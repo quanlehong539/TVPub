@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="LIVE TV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV1_poster.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/live/media/VTV1HD/live_hls_avc/VTV1HD-avc1_3800000=10000-mp4a_131600=20000.m3u8
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-id="antvhd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/ANTV_poster.png", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -28,6 +28,18 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nguoi-la-hoan-hao-thumb.jpg", Người Lạ Hoàn Hảo
+https://vip.opstream12.com/20220218/478_6a6a37d8/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/quay-troi-chet-thumb.jpg", Quay Trối Chết
+https://vip.opstream12.com/20220521/16669_d1a71f14/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/chao-buoi-sang-viet-nam-thumb.jpg", Chào Buổi Sáng Việt Nam
+https://vip.opstream14.com/20230628/38284_7deaf6b0/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/mat-nham-mat-mo-thumb.jpg", Mắt Nhắm Mắt Mở
+https://vip.opstream90.com/20260428/30398_ecc0ce00/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/5-centimet-tren-giay-2025-thumb.jpg", 5 Centimet Trên Giây
+https://vip.opstream90.com/20260426/30267_cc1b3257/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/khong-bong-tuyet-nao-trong-sach-thumb.jpg", Không Bông Tuyết Nào Trong Sạch
+https://vip.opstream90.com/20260421/29926_4cfe804a/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/chung-se-doat-mang-thumb.jpg", Chúng Sẽ Đoạt Mạng
 https://vip.opstream90.com/20260418/29686_a7329df9/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/lieu-mang-tron-chay-thumb.jpg", Liều Mạng Trốn Chạy
@@ -158,10 +170,10 @@ https://vip.opstream90.com/20251028/16262_8b4f4048/index.m3u8
 https://vip.opstream90.com/20251028/16275_399c8d4d/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/ma-da-thumb.jpg", Ma Da
 https://vip.opstream90.com/20251028/16265_ae714b28/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/babo-cau-chuyen-ve-haftbefehl-thumb.jpg", BABO: Câu Chuyện Về Haftbefehl
-https://vip.opstream90.com/20251029/16378_0f3b2662/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-phim-truong-thumb.jpg", Lật Mặt: Phim Trường
 https://vip.opstream90.com/20251028/16260_314ae9d8/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/babo-cau-chuyen-ve-haftbefehl-thumb.jpg", BABO: Câu Chuyện Về Haftbefehl
+https://vip.opstream90.com/20251029/16378_0f3b2662/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/nhung-anh-hung-tien-phong-thumb.jpg", Những Anh Hùng Tiên Phong
 https://vip.opstream12.com/20251029/29350_0197fd56/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-ba-chang-khuyet-thumb.jpg", Lật Mặt: Ba Chàng Khuyết
@@ -170,14 +182,20 @@ https://vip.opstream90.com/20251028/16261_4803eb7e/index.m3u8
 https://vip.opstream90.com/20251029/16398_5939cbe4/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/tam-cam-chuyen-chua-ke-thumb.jpg", Tấm Cám: Chuyện Chưa Kể
 https://vip.opstream90.com/20251028/16276_1ab4eabb/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-4-nha-co-khach-thumb.jpg", Lật Mặt: Nhà Có Khách
+https://vip.opstream16.com/20220303/476_47af98b7/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/truoc-gio-yeu-thumb.jpg", Before Sex - Trước Giờ Yêu
 https://vip.opstream90.com/20251028/16279_ae66a054/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/homejack-quartet-thumb.jpg", Bị Jack Vạch Trần
 https://vip.opstream11.com/20231005/48050_d9455db9/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-48h-thumb.jpg", Lật Mặt: 48 Giờ
+https://vip.opstream13.com/20251028/14850_db0d4963/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/co-hau-gai-2025-thumb.jpg", Cô Hầu Gái
 https://vip.opstream90.com/20260203/23942_b44d430b/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/dem-nhiet-doi-thumb.jpg", Đêm Nhiệt Đới
 https://vip.opstream12.com/20260203/32422_2c2c5fd0/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/lat-mat-6-tam-ve-dinh-menh-thumb.jpg", Lật Mặt: Tấm Vé Định Mệnh
+https://vip.opstream17.com/20240318/2854_137bf151/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/cuoc-chien-danh-quyen-nuoi-meo-thumb.jpg", Cuộc Chiến Tranh Nuôi Mèo
 https://vip.opstream10.com/20250822/30232_9b01ea73/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://img.ophim.live/uploads/movies/ban-balled-cua-tay-bac-nho-thumb.jpg", Bản Ballad Của Tay Bạc Nhỏ
@@ -336,6 +354,48 @@ https://vip.opstream90.com/20260106/21807_949b6216/index.m3u8
 #EXTINF:-1 group-title="TV SHOW" tvg-logo="https://img.ophim.live/uploads/movies/dai-chien-tang-lop-am-thuc-phan-2-thumb.jpg", Cuộc Chiến Giai Cấp Ẩm Thực 2 (Số 12)
 https://vip.opstream90.com/20260106/21808_cfdeefc9/index.m3u8
 
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 1)
+https://vip.opstream17.com/20240307/2038_ffbfee53/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 2)
+https://vip.opstream17.com/20240307/2039_5f5ff816/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 3)
+https://vip.opstream17.com/20240307/2040_58afe85e/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 4)
+https://vip.opstream17.com/20240307/2041_5d970007/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 5)
+https://vip.opstream17.com/20240307/2042_f54f5c12/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 6)
+https://vip.opstream17.com/20240307/2043_7ce393a6/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 7)
+https://vip.opstream17.com/20240307/2044_13fe8f0d/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 8)
+https://vip.opstream17.com/20240307/2045_05da9c59/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 9)
+https://vip.opstream17.com/20240307/2046_20062a33/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chien-tranh-viet-nam-thumb.jpg", Chiến Tranh Việt Nam (Tập 10)
+https://vip.opstream17.com/20240307/2047_7a1b44f3/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/turning-point-the-vietnam-war-thumb.jpg", Bước Ngoặt: Chiến Tranh Tại Việt Nam (Tập 1)
+https://vip.opstream17.com/20250502/18196_86d73f9a/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/turning-point-the-vietnam-war-thumb.jpg", Bước Ngoặt: Chiến Tranh Tại Việt Nam (Tập 2)
+https://vip.opstream17.com/20250502/18197_cea7785b/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/turning-point-the-vietnam-war-thumb.jpg", Bước Ngoặt: Chiến Tranh Tại Việt Nam (Tập 3)
+https://vip.opstream17.com/20250502/18198_9769c201/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/turning-point-the-vietnam-war-thumb.jpg", Bước Ngoặt: Chiến Tranh Tại Việt Nam (Tập 4)
+https://vip.opstream17.com/20250502/18199_f9254073/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/turning-point-the-vietnam-war-thumb.jpg", Bước Ngoặt: Chiến Tranh Tại Việt Nam (Tập 5)
+https://vip.opstream17.com/20250502/18200_33ec1f50/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cam-tinh-vien-thumb.jpg", Cảm Tình Viên (Tập 1)
+https://vip.opstream17.com/20240416/5113_5645660f/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cam-tinh-vien-thumb.jpg", Cảm Tình Viên (Tập 2)
+https://vip.opstream17.com/20240424/5812_dab5aaa6/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cam-tinh-vien-thumb.jpg", Cảm Tình Viên (Tập 3)
+https://vip.opstream17.com/20240501/6295_3adae9fc/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cam-tinh-vien-thumb.jpg", Cảm Tình Viên (Tập 4)
+https://vip.opstream17.com/20240508/7064_c759d2a1/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cam-tinh-vien-thumb.jpg", Cảm Tình Viên (Tập 5)
+https://vip.opstream17.com/20240521/8249_74b13bcb/index.m3u8
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/cam-tinh-vien-thumb.jpg", Cảm Tình Viên (Tập 6)
+https://vip.opstream17.com/20240521/8254_129ffed7/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chu-thuat-hoi-chien-phan-3-thumb.jpg", Chú Thuật Hồi Chiến: Tử Diệt Hồi Du (Phần 1 - Tập 1)
 https://vip.opstream90.com/20260109/21978_eb63dbf5/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://img.ophim.live/uploads/movies/chu-thuat-hoi-chien-phan-3-thumb.jpg", Chú Thuật Hồi Chiến: Tử Diệt Hồi Du (Phần 1 - Tập 2)
