@@ -480,6 +480,10 @@ https://ha-noi-community-radio.radiocult.fm/stream
 https://kcradio.asia/stream/mixed
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://vva1600.com/wp-content/uploads/2024/02/logo-white-2048x993.png", Voice of Vietnamese Americans
 https://s9.citrus3.com:8246/stream
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://mmo.aiircdn.com/387/639521180204e.png", J1 Hits
+https://jenny.torontocast.com:2000/stream/J1HITS
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://mmo.aiircdn.com/387/639520e1d8fc2.png", J1 Gold
+https://jenny.torontocast.com:2000/stream/J1GOLD
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.zeno.fm/utorNQJY4T-42EZ76rgUl1OmF3Kx5WJ2axDXCxbyqC8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNmZjZWI3NDYtMzdlNi00YWY3LTliYmMtNzU3NjljYzhhMWQwL2ltYWdlLz91PTE3Njg0ODQ2MTUwMDA.webp", LHQ Play
 https://stream.zeno.fm/vwofath8nz8tv
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s26182g.png", Little Saigon Radio
@@ -499,12 +503,8 @@ https://vietchannels.quanlehong539.workers.dev/vietshopping/index.m3u8
 https://vietchannels.quanlehong539.workers.dev/vietsky/index.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/GMTV_logo.png", Global Mall TV
 https://vietchannels.quanlehong539.workers.dev/globalmall/index.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://static.wixstatic.com/media/1fffd2_9799976259cb466cb7753cc657cfc119~mv2.png", An Bình Hạnh Phúc TV
-https://vietprocast.app/hls/p%26h/index.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqnLzHmUl0uQgcEAaZzwjm5rEw3JejZ5QV355DUTTrKSXhD5RCWnx2y_BepaE6Ar_9s_IZkb-BH9euHvc4qFrhxKIMJNOqQmgs8Q_XGKKlbjmLf05yYWfvaJX92hH9mwcOtwKUayWD-bLbZ46yuQWGuR3GXwNwJ51YNMm_a5FlTQ_5ZUHbCJZaFqJc2Q/s900/1683817053335.png", IBC TV
 https://afghantv.app/hls4/ibctv/index.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://vnatv.com/images/file/rl8wDvfy0QgBAtZn/w278/vnatv573-logo.png", VNA TV
-https://stream-hls.castr.net/671fdee3941829f934e34e15/live_47d4c7f095ae11ef978b436d0f35840c/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="NGƯỜI LỚN" tvg-id="pigoo" tvg-logo="https://baseec-img-mng.akamaized.net/images/user/logo/dde8cbaba8f25c311920bd2e0e13afd6.png", Pigoo
 https://nl.utako.moe/pigoo/index.m3u8
