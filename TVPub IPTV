@@ -1,5 +1,36 @@
 #EXTM3U url-tvg="https://vnepg.site/epgu.xml, https://epg.utako.moe/jp.xml, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://lichphatsong.site/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" billed-msg="Ủng hộ qua tài khoản MB Bank: 9704 2292 0082 1221 743" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (FPT Play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/live/media/event-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (BLV Dưa Hấu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (BLV Bò Sữa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (BLV Giàng A Ngao)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn-hls.cakhiatv89.com/live/69f7544a36519_145821/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (BLV Giàng A Trề)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn-hls.cakhiatv89.com/live/69f753a94841e_145689/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (BLV Rio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn-hls.taoxanh.biz/live/69f7542d42283_162172/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (BLV Gà Nướng Lu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn-hls.taoxanh.biz/live/69f74e9542283_44731/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (BLV Gà Siêu Cay)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn-hls.taoxanh.biz/live/69f7520e203f5_151255/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (BLV Gà Siêu Bướng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn-hls.phogatv8.com/live/69f7553f137e4_151/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ 🔥 🇬🇧 DERBY NƯỚC ANH" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png", Manchester United vs Liverpool (BLV Cá Mập)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn-hls.phogatv8.com/live/69f7549d51ddc_154/index.m3u8
+
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1920px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
