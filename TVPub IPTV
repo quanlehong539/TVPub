@@ -193,6 +193,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://resources.beinsportsxtra.com/xtra/logo_bein_sport_xtra_plain_55537aef6c.png", BeIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/only-logo.png", TeleSUR English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-info.png", TV5MONDE Info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -309,9 +311,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai2" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest?cb=20250902053524&path-prefix=vi", TH Đồng Nai 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=255
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai3" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/%C4%90NNRTV3.png/revision/latest?cb=20250902053453&path-prefix=vi", TH Đồng Nai 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://1.org.vn/dnrtv3
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="haiphong3" tvg-logo="https://haiduongtv.mediatech.vn/upload/files/logo/Logo_THP3_chuan.png", TH Hải Phòng 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/HAIDUONGTV/03.m3u8
