@@ -464,7 +464,7 @@ https://radio.talksport.com/stream2
 https://talk.live.stream.broadcasting.news/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NPR_new_logo.svg/1280px-NPR_new_logo.svg.png", National Public Radio
 https://npr-ice.streamguys1.com/live.mp3
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://afngo.net/static/media/AFNTheEagle.0967e91794a1a16185fe.png", American Forces Network Tokyo
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://afngo.net/static/media/Tokyo.d001ae88c15ecf711b01.png", American Forces Network Tokyo
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://static.wixstatic.com/media/cd82dc_c1e307641d474691a6b45b14b4e92c5b~mv2.png", Scientific Sound Asia
 https://carol.epichosts.co.uk:8272/live.mp3
