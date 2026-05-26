@@ -194,13 +194,10 @@ https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/only-logo.png", TeleSUR English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-info.png", TV5MONDE Info
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-style.png", TV5MONDE Style
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tv5monde" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-logo.png", TV5MONDE Asie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtn" tvg-logo="https://global-ui.cgtn.com/static/ng/resource/images/header-v3/img_logo.png", CGTN English
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -349,6 +346,9 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangninh3" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu2.png", TH Quảng Ninh 3
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="thanhhoa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg/1920px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg.png", TH Thanh Hóa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="nghean" tvg-logo="https://truyenhinhnghean.vn/common/v1/image/logo_footer.png", TH Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hatinh" tvg-logo="https://img.vtvprime.vn/sj3wehm3IJzy6pAl1Lnwr7g1HfiVTwQCI3KbasEabbg/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOTM5NmRlZmMtZTJiYy00MjNhLWJjYzUtNTdmMTcyMWI3NTJmLnBuZw==.png", TH Hà Tĩnh
