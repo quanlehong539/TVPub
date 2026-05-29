@@ -431,15 +431,15 @@ https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtduyenhai" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Duyên hải
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh610" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610 kHz
-https://strm.voh.com.vn/radio/channel2/chunklist.m3u8
+https://strm.voh.com.vn/radio/StreamCH2/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh877" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/3-094355.png", VOH FM 87.7 MHz
-https://strm.voh.com.vn/radio/channel5/chunklist.m3u8
+https://strm.voh.com.vn/radio/StreamCH4/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh925" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/92-5-3-104929.png", VOH-M FM 92-92.5 MHz
-https://strm.voh.com.vn/radio/channel6/chunklist.m3u8
+https://strm.voh.com.vn/radio/StreamCH5/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh956" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/2-094355.png", VOH FM 95.6 MHz
-https://strm.voh.com.vn/radio/channel1/chunklist.m3u8
+https://strm.voh.com.vn/radio/StreamCH1/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh999" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/1-094355.png", VOH FM 99.9 MHz
-https://strm.voh.com.vn/radio/channel3/chunklist.m3u8
+https://strm.voh.com.vn/radio/StreamCH3/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="hanoi90" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/Y2GY5S49YJYF.png", Hà Nội FM90
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="hanoi96" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/FLKIC39FURRW.png", Hà Nội FM96
@@ -676,79 +676,79 @@ https://lstvlive.quanlehong539.workers.dev/hls/YENTHANH1/index.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Aqua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/18812304.m3u8
+https://live05.msdht.app/live/18812304.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Bí Đao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/99121525.m3u8
+https://live05.msdht.app/live/99121525.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Coca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/24561735.m3u8
+https://live05.msdht.app/live/24561735.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/87379114.m3u8
+https://live05.msdht.app/live/87379114.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/08552895.m3u8
+https://live05.msdht.app/live/08552895.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Dr Thanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/79665343.m3u8
+https://live05.msdht.app/live/79665343.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Fanta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/71426314.m3u8
+https://live05.msdht.app/live/71426314.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Già Làng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/14830711.m3u8
+https://live05.msdht.app/live/14830711.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Hổ Vằn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/07428422.m3u8
+https://live05.msdht.app/live/07428422.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Không Độ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/41943555.m3u8
+https://live05.msdht.app/live/41943555.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Lavie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/75748097.m3u8
+https://live05.msdht.app/live/75748097.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Monster
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/75915087.m3u8
+https://live05.msdht.app/live/75915087.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Mountain Dew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/87547578.m3u8
+https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Ôlong
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/97312754.m3u8
+https://live05.msdht.app/live/97312754.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Pepsi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/43612277.m3u8
+https://live05.msdht.app/live/43612277.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Redbull
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/68848594.m3u8
+https://live05.msdht.app/live/68848594.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Revive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/33982309.m3u8
+https://live05.msdht.app/live/33982309.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Rockstar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/82054853.m3u8
+https://live05.msdht.app/live/82054853.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Rồng Đỏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/88508431.m3u8
+https://live05.msdht.app/live/88508431.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Samurai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/07808742.m3u8
+https://live05.msdht.app/live/07808742.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Soda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/02456966.m3u8
+https://live05.msdht.app/live/02456966.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Sprite
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/90725470.m3u8
+https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Sting
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/14707124.m3u8
+https://live05.msdht.app/live/14707124.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/90865415.m3u8
+https://live05.msdht.app/live/90865415.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ COLA TV" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV 7up
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live5.msrktz.app/live/78905744.m3u8
+https://live05.msdht.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ HỘI QUÁN TV" tvg-logo="https://hoiquan3.tv/wp-content/uploads/2025/09/logo-hq.png", BLV Củ Hành 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
