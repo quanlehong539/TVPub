@@ -421,15 +421,15 @@ https://freem3u.xyz/api/live/play.m3u8?vid=32
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov1" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png", VOV1
-https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
+https://audio-lss.vov.vn/live/vov1.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov2" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png", VOV2
-https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
+https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov3" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
-https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8
+https://audio-lss.vov.vn/live/vov3.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov5" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5
-https://media-audio.vov.vn/vov5.sdp_aac/chunklist.m3u8
+https://audio-lss.vov.vn/live/vov5.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov247" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png", VOV English 24/7
-https://audio-lss.vov.vn/han/live/vov24_7/audio/haudio-eng.m3u8
+https://audio-lss.vov.vn/live/vov24_7.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hồ Chí Minh
@@ -437,7 +437,7 @@ https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtmekong" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Mekong
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtduyenhai" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Duyên hải
-https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
+https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh610" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610 kHz
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=10036
@@ -457,6 +457,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10037
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="hanoi96" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2025/6/12/FLKIC39FURRW.png", Hà Nội FM96
 https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="http://dnrt.vn/images/radionew1.png", Đà Nẵng Radio
+https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="bbcworldservice" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/BBCWorldService_logo.png", BBC World Service
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio%3d48000.norewind.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="sbsradio1" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSRadio1_logo.png", SBS Radio 1
