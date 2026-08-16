@@ -1,15 +1,5 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgu.xml, https://epg.blaosolar.vn/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
-#EXTINF:-1 group-title="🔴 ⚽ 🇬🇧 🇻🇳 FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/12/slider_1786521971212.jpg", ASEAN Hyundai Cup: Malaysia vs Việt Nam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ 🇬🇧 🇻🇳 FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/13/slider_1786589534587.jpg", FA Community Shield: Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b34979ab259a4875b1795740640cc889:94c6cbaee3b472672b72fceacf328d2e
-https://live.fptplay53.net/live/media/event-35/dash_a_drm/index.mpd
-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1920px-VTV1_logo_2013_final.svg.png", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_3800000=10000-mp4a_131600=20000.m3u8
@@ -748,13 +738,13 @@ https://live05.miekgo.app/live/78905744.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Chim Nhỏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Dế Lửa
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Người Lửa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV KaKa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Ken
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV A Heo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏐 PHÁO HOA TV" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Kevin
