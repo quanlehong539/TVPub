@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgu.xml, https://epg.blaosolar.vn/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
-#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1920px-VTV1_logo_2013_final.svg.png", VTV1
+#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/df56581896-vtv1.webp", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="antvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logoantv.png", ANTV
@@ -9,10 +9,10 @@ https://live.fptplay53.net/live/media/antv/live-hls-avc/antv-avc1_3800000=10000-
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="qpvnhd" tvg-logo="https://qpvn.vn/themes/qpvn/logo/logoqpvn.png", QPVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vietnamtoday" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/Vietnam_Today_v2.png/revision/latest?cb=20250813040753&path-prefix=vi", Vietnam Today
+#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vietnamtoday" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/aa0167e5f6-vietnam-today.webp", Vietnam Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1920px-VTV5_logo_2013_final.svg.png", VTV5
+#EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv5hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/fdf2557ea9-vtv5.webp", VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_3800000=10000-mp4a_131600=20000.m3u8
 
@@ -97,7 +97,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv4hd" tvg-logo="https://img.vtvprime.vn/WMTZXKyigQ-RaYPgvoiNsQ-JmSRcv-r_2r-WJB9sQaM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNGM4MzMzNWEtZWVkMS00ZDI4LTg5YWYtNThmY2U3NWM2ZDExLnBuZw==.png", SCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv4
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://scj.vn/img/cms/logo_footer.png", SCTV5
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1e/SCJ_TV_Shopping_logo_2012.png/revision/latest?cb=20221115025314&path-prefix=vi", SCTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv5
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv7hd" tvg-logo="https://img.vtvprime.vn/7DdEBmnXEhKFdbrbixhsUGm-f2_qQdT_LAZJ1eTCK4w/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjlhOWYyZTItODAxZi00MWY2LWI4N2MtZjBjNTgzNzgyMmRhLnBuZw==.png", SCTV7
@@ -166,34 +166,34 @@ https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcplushd" tvg-logo="https://htvc.vn/uploads/channel/2017/06/12/2377392-plus.png", HTVC Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1920px-VTV2_logo_2013_final.svg.png", VTV2
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv2hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/ed6bfd7f53-vtv2.webp", VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv3hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1920px-VTV3_logo_2013_final.svg.png", VTV3
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv3hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/c725fae9ac-vtv3.webp", VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv4hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1920px-VTV4_logo_2013_final.svg.png", VTV4
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv4hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/c08cf70a49-vtv4.webp", VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv5hdtnb" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/VTV5_T%C3%A2y_Nam_B%E1%BB%99.png/revision/latest?cb=20200530233645&path-prefix=vi", VTV5 Tây Nam Bộ
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv5hdtnb" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/eeb81bb42b-vtv5-ta-y-nam-bo.webp", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv5hdtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/1920px-Vtv5taynguyen_logo.svg.png", VTV5 Tây Nguyên
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv5hdtn" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090516/f7759fd665-vtv5-t-y-nguy-n.webp", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv6hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/08/00/1780852737960/c23ff96653ae_640_360.png", VTV6
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv6hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/cb01e1c339-vtv6.webp", VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv7hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/VTV7_logo_06.02.2016.png/revision/latest?cb=20221213075109&path-prefix=vi", VTV7
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv7hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/714cd7639c-vtv7.webp", VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv8hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/1920px-VTV8_logo_2016_final.svg.png", VTV8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv8hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/91d1ad9b7c-vtv8.webp", VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv9hd" tvg-logo="https://static.wikia.nocookie.net/vtv/images/9/95/VTV9_logo.png/revision/latest?cb=20200926010814&path-prefix=vi", VTV9
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv9hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/a23d3e69a3-vtv9.webp", VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv10hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTV10_logo.png", VTV10
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv10hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/13687e4caf-vtv10.webp", VTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_3800000=10000-mp4a_131600=20000.m3u8
 
