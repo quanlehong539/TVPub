@@ -477,8 +477,6 @@ https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/vatican-news-footer-white.png", Radio Vatican Tiếng Việt
 https://radio.vaticannews.va/stream-vi
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rfi_logo.svg/1920px-Rfi_logo.svg.png", RFI Tiếng Việt
-https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="bbcworldservice" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/BBCWorldService_logo.png", BBC World Service
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio%3d48000.norewind.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="sbsradio1" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSRadio1_logo.png", SBS Radio 1
@@ -487,6 +485,8 @@ https://sbs-hls.streamguys1.com/hls/sbs1/playlist.m3u8
 https://sbs-hls.streamguys1.com/hls/sbs2/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSRadio3_logo.png", SBS Radio 3
 https://sbs-hls.streamguys1.com/hls/sbs3/playlist.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSRadio4_logo.png", SBS Radio 4
+https://sbs-hls.streamguys1.com/hls/sbs4/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSChill_logo.png", SBS Chill
 https://sbs-hls.streamguys1.com/hls/sbschill/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSPopAsia_logo.png", SBS PopAsia
