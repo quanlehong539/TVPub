@@ -206,7 +206,7 @@ https://vmttv.dpdns.org/tv360/?id=tv360-10
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-id="tv360plus11" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-11
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2025/05/26/logowebsite4x_1748221195181.png", FPT Chuỗi Thể thao & Giải trí
+#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="fptplayttgt" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/FPTTheThaoGiaiTri_logo.png", FPT Chuỗi Thể thao & Giải trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vtvgo.vn/logo_next.png", VTVgo ASIAD Live 1
