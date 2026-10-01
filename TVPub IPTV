@@ -429,7 +429,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=89
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hatinh" tvg-logo="https://httv.1cdn.vn/assets/static/images/logo.png", TH Hà Tĩnh
 https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangtri" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ef/Logo_B%C3%A1o_v%C3%A0_ph%C3%A1t_thanh%2C_truy%E1%BB%81n_h%C3%ACnh_Qu%E1%BA%A3ng_Tr%E1%BB%8B.png", TH Quảng Trị
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangtri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_B%C3%A1o_v%C3%A0_ph%C3%A1t_thanh%2C_truy%E1%BB%81n_h%C3%ACnh_Qu%E1%BA%A3ng_Tr%E1%BB%8B.png", TH Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="daklak" tvg-logo="https://media.drt.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
@@ -559,7 +559,7 @@ https://carol.epichosts.co.uk:8272/live.mp3
 https://ha-noi-community-radio.radiocult.fm/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://kcradio.asia/assets/logo-circle.png", KC Radio Mixed in Vietnam
 https://kcradio.asia/stream/mixed
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://vva1600.com/wp-content/uploads/2024/02/logo-white-2048x993.png", Voice of Vietnamese Americans
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VVA1600_logo.png", Voice of Vietnamese Americans
 https://s9.citrus3.com:8246/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://mmo.aiircdn.com/387/639521180204e.png", J1 Hits
 https://jenny.torontocast.com:2000/stream/J1HITS
