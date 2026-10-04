@@ -209,48 +209,13 @@ https://vmttv.dpdns.org/tv360/?id=tv360-11
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-id="fptplayttgt" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/FPTTheThaoGiaiTri_logo.png", FPT Chuỗi Thể thao & Giải trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vtvgo.vn/logo_next.png", VTVgo ASIAD Live 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-logo="https://vtvgo.vn/logo_next.png", VTVgo ASIAD Live 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_1080p/chunks.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="asiangamesch01" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="asiangamesch02" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh02.jpg", Asian Games CH02
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="asiangamesch03" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH03.jpg", Asian Games CH03
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="asiangamesch04" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH04.jpg", Asian Games CH04
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="asiangamesch05" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH05.jpg", Asian Games CH05
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
-https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-#EXTINF:-1 group-title="SỰ KIỆN" tvg-id="asiangamesch06" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH06.jpg", Asian Games CH06
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
-https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="mbcamerica" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png", MBC
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1920px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="viutv" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png", ViuTV
+https://cdn.qd.je/163189/viu
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://resources.beinsportsxtra.com/xtra/logo_bein_sport_xtra_plain_55537aef6c.png", BeIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://www.iscs.co.kr/common/img/gnb/ch8/logo_ch8.png", SCS
@@ -972,28 +937,19 @@ https://live2.zktsva.app/live/306290.flv
 
 #EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Khô Chè
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn.cdnfastter.xyz/live/livehub5/index.m3u8
+https://live.khoga.space/live/livehub5/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Táo Dai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn.cdnfastter.xyz/live/livehub1/index.m3u8
+https://live.khoga.space/live/livehub1/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Gà Rừng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn.cdnfastter.xyz/live/livehub4/index.m3u8
+https://live.khoga.space/live/livehub4/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Xôi Xoài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn.cdnfastter.xyz/live/livehub3/index.m3u8
+https://live.khoga.space/live/livehub3/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Khô Cay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn.cdnfastter.xyz/live/livehub9/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Lá Chanh
+https://live.khoga.space/live/livehub9/index.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Xôi Gà
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn.cdnfastter.xyz/live/livehub2/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Tam Mao
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn.cdnfastter.xyz/live/livehub8/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Tây Môn Khánh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn.cdnfastter.xyz/live/livehub6/index.m3u8
-#EXTINF:-1 group-title="🔴 ⚽ KHÔ GÀ TV" tvg-logo="https://khoga.live/images/logo-220.webp", BLV Văn Tài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn.cdnfastter.xyz/live/livehub7/index.m3u8
+https://live.khoga.space/live/livehub2/index.m3u8
