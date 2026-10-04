@@ -356,7 +356,7 @@ https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/live/media/hanoitv1/live-hls-avc/hanoitv1-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hanoi2" tvg-logo="https://cloudcdnvod.tek4tv.vn/files/2026/4/7/VATGGPG3EANS.png", TH Hà Nội 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hanoitv2.quanlehong539.workers.dev/index.m3u8
+https://live.fptplay53.net/live/media/hanoitv2/live-hls-avc/hanoitv2-avc1_3800000=10000-mp4a_131600_vie=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hue" tvg-logo="https://huetv.com.vn/uploads/static/Banner/LogoHueTV.png", TH Thành phố Huế
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="danang1" tvg-logo="https://dnrt.vn/Images/dnrt1.png", TH Đà Nẵng 1
@@ -443,7 +443,7 @@ https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u
 https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tayninh1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi", TH Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tayninhtv.quanlehong539.workers.dev/index.m3u8
+https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="lamdong1" tvg-logo="https://img.vtvprime.vn/CryQY6LJ4HwjAjdzDHhxXn_tZZlmezDr_grQWyosqQU/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNTQ5MzRlMjYtM2E2Zi00ZWUyLThhNjktOWM5OWExMWQ0YTZmLnBuZw==.png", TH Lâm Đồng 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/LTV1/04.m3u8
