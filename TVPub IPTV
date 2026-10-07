@@ -397,7 +397,7 @@ https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangtri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_B%C3%A1o_v%C3%A0_ph%C3%A1t_thanh%2C_truy%E1%BB%81n_h%C3%ACnh_Qu%E1%BA%A3ng_Tr%E1%BB%8B.png", TH Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="daklak" tvg-logo="https://media.drt.vn/upload/files/image/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="daklak" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSt2U2v1BmByw4INPIs_ara5C5pRscc_8sHD5lbvFqukHT9ooJr9e1zmkj_sdwIzaDqUOIsgZvNfkuJW5tmjg2Z2UwpMEgmvaEfG5Iy593RIcJWsPeqAGa4UswjK-H_rLeEdLcYWbKdPLeCMDpC6zhRqPrQJWMpiGPS2TeccjmzVG6t6_g1NH9AGj1fQ/s556/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="gialai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi", TH Gia Lai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
