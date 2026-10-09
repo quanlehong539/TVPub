@@ -286,8 +286,6 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cctv4eu" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/CCTV4_logo.png", CCTV4
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="pbskids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png", PBS Kids
-https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst_2.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png", Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="arte" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/arte_logo_rgb.png", ARTE
@@ -449,16 +447,20 @@ https://audio-lss.vov.vn/live/vov1.m3u8
 https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov3" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
 https://audio-lss.vov.vn/live/vov3.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4mt" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Miền Trung
+https://audio-lss.vov.vn/live/vov4.m3u8
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov4tn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Nguyên
+https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/chunklist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov5" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5
 https://audio-lss.vov.vn/live/vov5.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vov247" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png", VOV English 24/7
 https://audio-lss.vov.vn/live/vov24_7.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthn" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hà Nội
-https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+https://play.vovgiaothong.vn/live/gthn3/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgthcm" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Hồ Chí Minh
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+https://play.vovgiaothong.vn/live/gthcm3/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtmekong" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Mekong
-https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+https://play.vovgiaothong.vn/live/mekong3/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtduyenhai" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Duyên hải
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh610" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610 kHz
@@ -526,8 +528,6 @@ https://s9.citrus3.com:8246/stream
 https://jenny.torontocast.com:2000/stream/J1HITS
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://mmo.aiircdn.com/387/639520e1d8fc2.png", J1 Gold
 https://jenny.torontocast.com:2000/stream/J1GOLD
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.zeno.fm/utorNQJY4T-42EZ76rgUl1OmF3Kx5WJ2axDXCxbyqC8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNmZjZWI3NDYtMzdlNi00YWY3LTliYmMtNzU3NjljYzhhMWQwL2ltYWdlLz91PTE3Njg0ODQ2MTUwMDA.webp", LHQ Play
-https://stream.zeno.fm/vwofath8nz8tv
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LittleSaigonRadio_logo.png", Little Saigon Radio
 https://stream.zeno.fm/kxynzu2qe7duv
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/RadioSaigonDallas_logo.png", Radio Saigon Dallas 
