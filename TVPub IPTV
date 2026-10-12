@@ -338,8 +338,7 @@ https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="laocai" tvg-logo="https://cdn.baolaocai.vn/assets/web/styles/img/logo-THLC.png", TH Lào Cai
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=71
+https://live.baolaocai.vn/channel2/stream.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="sonla" tvg-logo="https://media.sonlatv.vn/upload/files/logo/logo_footer.png", TH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tuyenquang" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TTV_Tuyen_Quang.png/revision/latest?cb=20220301071325&path-prefix=vi", TH Tuyên Quang
@@ -347,8 +346,7 @@ https://streaming.tuyenquangtv.vn/channel/tuyenquang/chunks.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="langson" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/logo_lstv.png", TH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="thainguyen" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png", TH Thái Nguyên
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=88
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="caobang" tvg-logo="https://mediaresources.caobangtv.vn/files/2025/2/19/UZRH25C9Z62W.png", TH Cao Bằng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=48
@@ -374,8 +372,8 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hatinh" tvg-logo="https://httv.1cdn.vn/assets/static/images/logo.png", TH Hà Tĩnh
 https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangtri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_B%C3%A1o_v%C3%A0_ph%C3%A1t_thanh%2C_truy%E1%BB%81n_h%C3%ACnh_Qu%E1%BA%A3ng_Tr%E1%BB%8B.png", TH Quảng Trị
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="daklak" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSt2U2v1BmByw4INPIs_ara5C5pRscc_8sHD5lbvFqukHT9ooJr9e1zmkj_sdwIzaDqUOIsgZvNfkuJW5tmjg2Z2UwpMEgmvaEfG5Iy593RIcJWsPeqAGa4UswjK-H_rLeEdLcYWbKdPLeCMDpC6zhRqPrQJWMpiGPS2TeccjmzVG6t6_g1NH9AGj1fQ/s556/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="gialai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi", TH Gia Lai
@@ -383,6 +381,9 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=55
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangngai" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/QNgTV1_logo.png", TH Quảng Ngãi 1
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangngai2" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest?cb=20260114143705&path-prefix=vi", TH Quảng Ngãi 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tayninh1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi", TH Tây Ninh
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="lamdong1" tvg-logo="https://img.vtvprime.vn/CryQY6LJ4HwjAjdzDHhxXn_tZZlmezDr_grQWyosqQU/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNTQ5MzRlMjYtM2E2Zi00ZWUyLThhNjktOWM5OWExMWQ0YTZmLnBuZw==.png", TH Lâm Đồng 1
@@ -392,11 +393,9 @@ https://liveh12.vtvprime.vn/hls/LTV1/04.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/KTV_logo.png/revision/latest?cb=20260101114303&path-prefix=vi", TH Khánh Hòa
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=65
+https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa1" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/KTV1_logo.png/revision/latest?cb=20260101114305&path-prefix=vi", TH Khánh Hòa 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=76
+https://cdnbaokhanhhoa.com/live/90405a889081_std.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang1" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest?cb=20250823041324&path-prefix=vi", TH An Giang 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=66
@@ -410,8 +409,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=54
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=90
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="camau" tvg-logo="https://baocamau.vn/images/home/LogoCTV.png", TH Cà Mau
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=46
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="htv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/HTV1.png", HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=190
@@ -467,8 +465,6 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=fm90-tin-tuc-giao-thong-ha-noi
 https://freem3u.xyz/api/live/play.m3u8?vid=9906
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="http://dnrt.vn/images/radionew1.png", Đà Nẵng Radio
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/vatican-news-footer-white.png", Radio Vatican Tiếng Việt
-https://radio.vaticannews.va/stream-vi
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="bbcworldservice" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/BBCWorldService_logo.png", BBC World Service
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio%3d48000.norewind.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="sbsradio1" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSRadio1_logo.png", SBS Radio 1
@@ -522,7 +518,7 @@ https://galaxyott.com/vietfuntv/720p.m3u8
 https://vietprocast.app/hls/ibctv/index.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VSTV_logo.png", Vietshopping TV
 https://rpn1.bozztv.com/cus01/vchannel1/vchannel3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VietSkyTV.png", Vietsky TV
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://viettoday.tv/images/web-logo.png", Vietoday TV
 https://rpn1.bozztv.com/cus01/vchannel1/vchannel1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://vnatv.com/images/file/rl8wDvfy0QgBAtZn/w278/vnatv573-logo.png", VNA TV
 https://vnatv.dichousa.com/hls/0/stream.m3u8
