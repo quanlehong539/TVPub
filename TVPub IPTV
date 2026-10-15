@@ -397,13 +397,18 @@ https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="khanhhoa1" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/KTV1_logo.png", TH Khánh Hòa 1
 https://cdnbaokhanhhoa.com/live/90405a889081_std.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang1" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest?cb=20250823041324&path-prefix=vi", TH An Giang 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-origin=https://angiangtv.vn
+#EXTVLCOPT:http-user-referer=https://angiangtv.vn/jwplayer/?i=https://angiangtv.vn/wp-content/uploads/2025/06/H3.png&l=rtmp&a=1
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang2" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest?cb=20250823043314&path-prefix=vi", TH An Giang 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-origin=https://angiangtv.vn
+#EXTVLCOPT:http-user-referer=https://angiangtv.vn/jwplayer/?i=https://angiangtv.vn/wp-content/uploads/2025/06/H3.png&l=rtmp4&a=1
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang3" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/ATV3_logo_09-07-2025.png/revision/latest?cb=20251109111209&path-prefix=vi", TH An Giang 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-origin=https://angiangtv.vn
 #EXTVLCOPT:http-user-referer=https://angiangtv.vn/jwplayer/?i=https://angiangtv.vn/wp-content/uploads/2025/06/H3.png&l=rtmp2&a=1
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongthap1" tvg-logo="https://sdtv.vn/wp-content/uploads/2022/12/lg-9-1.png", TH Đồng Tháp 1
