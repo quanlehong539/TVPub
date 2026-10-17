@@ -199,8 +199,6 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/News24_logo.jpg", News24
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live_1080p.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/500px-Al_Jazeera.svg.png", Al Jazeera English
-https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tracesportstars" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Tracesportstars2022.png", Trace Sport Stars
@@ -278,7 +276,7 @@ https://cdn.mediatech.vn/dongnai/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai2" tvg-logo="https://dongnai.baobinhphuoc.com.vn/upload/channel/31d77e3b4d1ed872841af49942605773.png", TH Đồng Nai 2
 https://cdn.mediatech.vn/dongnai/tv2live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangninh1" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu1.png", TH Quảng Ninh 1
-https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangninh3" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu2.png", TH Quảng Ninh 3
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="haiphong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/1920px-THP_logo.svg.png", TH Hải Phòng
@@ -293,7 +291,8 @@ https://live.baolaocai.vn/channel2/stream.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="sonla" tvg-logo="https://media.sonlatv.vn/upload/files/logo/logo_footer.png", TH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tuyenquang" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dc/TTV_Tuyen_Quang.png/revision/latest?cb=20220301071325&path-prefix=vi", TH Tuyên Quang
-https://streaming.tuyenquangtv.vn/channel/tuyenquang/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=92
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="langson" tvg-logo="https://langsontv.vn/templates/frontend/lstv/Assets/img/logo_lstv.png", TH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="thainguyen" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png", TH Thái Nguyên
@@ -321,7 +320,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="nghean" tvg-logo="https://truyenhinhnghean.vn/common/v1/image/logo_footer.png", TH Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hatinh" tvg-logo="https://httv.1cdn.vn/assets/static/images/logo.png", TH Hà Tĩnh
-https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangtri" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_B%C3%A1o_v%C3%A0_ph%C3%A1t_thanh%2C_truy%E1%BB%81n_h%C3%ACnh_Qu%E1%BA%A3ng_Tr%E1%BB%8B.png", TH Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
@@ -344,9 +344,15 @@ https://cdnbaokhanhhoa.com/live/90405a889081_std.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang1" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest?cb=20250823041324&path-prefix=vi", TH An Giang 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=66
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="angiang2" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest?cb=20250823043314&path-prefix=vi", TH An Giang 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongthap1" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/TH%C4%90T1_31-07-2023.png/revision/latest?cb=20250729103122&path-prefix=vi", TH Đồng Tháp 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=54
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongthap2" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b9/Mi%E1%BB%81n_T%C3%A2y_TH%C4%90T2_2019-nay.png/revision/latest?cb=20260222061031&path-prefix=vi", TH Đồng Tháp 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=90
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="camau" tvg-logo="https://baocamau.vn/images/home/LogoCTV.png", TH Cà Mau
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=46
@@ -422,7 +428,7 @@ https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SBSArabic_logo.png", SBS Arabic
 https://sbs-hls.streamguys1.com/hls/arabic/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://images.squarespace-cdn.com/content/v1/51a013dee4b0a2a2d2ef73e9/1413118307005-CX960MGTBTHQFDFYDNY4/image-asset.png", NHK World Radio
-https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-rs5/index_rs5.m3u8
+https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media13/index.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talksport.png", TalkSPORT
 https://radio.talksport.com/stream
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talksport2.png", TalkSPORT 2
@@ -445,8 +451,6 @@ https://jenny.torontocast.com:2000/stream/J1HITS
 https://jenny.torontocast.com:2000/stream/J1GOLD
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/LittleSaigonRadio_logo.png", Little Saigon Radio
 https://stream.zeno.fm/kxynzu2qe7duv
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/RadioSaigonDallas_logo.png", Radio Saigon Dallas 
-https://stream.zeno.fm/qv7w6vhsqy5tv
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="tvbvn" tvg-logo="https://companieslogo.com/img/orig/0511.HK-feb9f53c.png", TVB VN
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
