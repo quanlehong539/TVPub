@@ -10,11 +10,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=19
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vietnamtoday" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/aa0167e5f6-vietnam-today.webp", Vietnam Today
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=9951
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv5hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/fdf2557ea9-vtv5.webp", VTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=110
+https://tv.vietanhtv.top/vieon/vieon.php?id=vtv5-hd
 
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/FIM360_logo.png/revision/latest?cb=20221115031115&path-prefix=vi", SCTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -216,7 +215,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="davinci" tvg-logo="https://img.vtvprime.vn/TeTHUc87TdJDiDarxVy_9Xyat93J4P-Eau7hVIrJ5CI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWNmOTM5YjMtOGFlZS00ZDg5LTk1N2ItOTQxNmQ2MzNjNDU1LnBuZw==.png", Da Vinci
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=214
+https://vmttv.dpdns.org/tv360/?id=davinci-hd
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="kix" tvg-logo="https://img.vtvprime.vn/ppdwkxhVs3oZV4SDS2zVomkuqFESpLNekyHFYw6yuzo/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRjYzBhNDItOGFjNC00YjI1LWIyYTItNzllNzJhNDQzMGIyLnBuZw==.png", KIX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
