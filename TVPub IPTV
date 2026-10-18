@@ -18,6 +18,12 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=vtv5-hd
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/FIM360_logo.png/revision/latest?cb=20221115031115&path-prefix=vi", SCTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=232
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv7hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/714cd7639c-vtv7.webp", VTV7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv8hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/91d1ad9b7c-vtv8.webp", VTV8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=vtv8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv9hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HTV9_logo.png", HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=194
@@ -156,12 +162,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=133
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcplushd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HTVC_Plus.webp", HTVC Plus
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=132
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv6hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/cb01e1c339-vtv6.webp", VTV6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtv6
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="vtv7hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/714cd7639c-vtv7.webp", VTV7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtv7
 
 #EXTINF:-1 group-title="SỰ KIỆN" tvg-id="tv360plus9" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -237,12 +237,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=99
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png", CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cctv4eu" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/CCTV4_logo.png", CCTV4
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/CCTV4_logo.png", CCTV4
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/NHKNews_logo.png", NHK News Live
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="arirang" tvg-logo="https://img.vtvprime.vn/lN2OAu85CLrie1I6sizfedNPj6ICEaXS3m8v_bzmrU0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNzFkMjcyZmItZDBmZS00MTVkLTk5YzktMzczMjBmMDI5NDhlLnBuZw==.png", Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="nhkworld" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch328_425_305", NHK World Japan
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png", Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bloomberg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch321_425_305", Bloomberg
