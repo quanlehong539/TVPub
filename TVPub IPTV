@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.io.vn/epgu.xml, https://epg.blaosolar.vn/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml, https://nhknewslive.quanlehong539.workers.dev/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="https://epg.io.vn/epgu.xml, https://epg.blaosolar.vn/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml, https://nhknewslive.quanlehong539.workers.dev/epg.xml, https://vovsonata.quanlehong539.workers.dev/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/df56581896-vtv1.webp", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -386,7 +386,7 @@ https://play.vovgiaothong.vn/live/gthcm3/playlist.m3u8
 https://play.vovgiaothong.vn/live/mekong3/playlist.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovgtduyenhai" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png", VOV Giao thông Duyên hải
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VOVSonata_colorlogo.png", VOV Sonata
+#EXTINF:-1 group-title="PHÁT THANH" tvg-id="vovsonata" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VOVSonata_colorlogo.png", VOV Sonata
 https://audio-lss.vov.vn/live/sonata.m3u8
 #EXTINF:-1 group-title="PHÁT THANH" tvg-id="voh610" tvg-logo="https://image.voh.com.vn/voh/image/2025/11/17/4-094355.png", VOH AM 610 kHz
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
