@@ -23,7 +23,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=232
 https://freem3u.xyz/api/live/play.m3u8?vid=193
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvthethaohd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png", HTV Thể thao
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=vtv8
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htv9hd" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HTV9_logo.png", HTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=194
@@ -621,70 +621,70 @@ https://live05.yefpwmc.app/live/78905744_tsc.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Aqua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/18812304_tsc.m3u8
+https://live05.miekgo.app/live/18812304.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Bí Đao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/99121525_tsc.m3u8
+https://live05.miekgo.app/live/99121525.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/87379114_tsc.m3u8
+https://live05.miekgo.app/live/87379114.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/08552895_tsc.m3u8
+https://live05.miekgo.app/live/08552895.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Teppy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/33860426_tsc.m3u8
+https://live05.miekgo.app/live/33860426.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Fanta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/71426314_tsc.m3u8
+https://live05.miekgo.app/live/71426314.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Già Làng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/14830711_tsc.m3u8
+https://live05.miekgo.app/live/14830711.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Hổ Vằn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/07428422_tsc.m3u8
+https://live05.miekgo.app/live/07428422.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Porsche
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/56998120_tsc.m3u8
+https://live05.miekgo.app/live/56998120.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Lipton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/89756030_tsc.m3u8
+https://live05.miekgo.app/live/89756030.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Monster
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/75915087_tsc.m3u8
+https://live05.miekgo.app/live/75915087.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Mountain Dew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/87547578_tsc.m3u8
+https://live05.miekgo.app/live/87547578.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Pepsi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/43612277_tsc.m3u8
+https://live05.miekgo.app/live/43612277.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Pocari
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/19919577_tsc.m3u8
+https://live05.miekgo.app/live/19919577.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Redbull
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/68848594_tsc.m3u8
+https://live05.miekgo.app/live/68848594.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Revive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/33982309_tsc.m3u8
+https://live05.miekgo.app/live/33982309.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Rockstar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/82054853_tsc.m3u8
+https://live05.miekgo.app/live/82054853.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Samurai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/07808742_tsc.m3u8
+https://live05.miekgo.app/live/07808742.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Soda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/02456966_tsc.m3u8
+https://live05.miekgo.app/live/02456966.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Sprite
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/90725470_tsc.m3u8
+https://live05.miekgo.app/live/90725470.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/90865415_tsc.m3u8
+https://live05.miekgo.app/live/90865415.m3u8
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV 7up
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/78905744_tsc.m3u8
+https://live05.miekgo.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV SV3" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Aqua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
