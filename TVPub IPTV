@@ -141,9 +141,6 @@ https://vmttv.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctvhdpth" tvg-logo="https://img.vtvprime.vn/cf-cQKJDbIW9958UPPY8xOI8hO8vX_DZFbSv5-4jE1E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOWU5N2QxMzEtM2Q5ZS00ODVmLWFkNzYtODk5YzkzYjQ0YjM5LnBuZw==.png", SCTV Phim tổng hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctvphim
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv4k" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/SCTV4K_logo.png", SCTV 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="htvcthuanviet" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/HTVC_ThuanViet.webp", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=13
@@ -305,6 +302,9 @@ https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi", TH Cần Thơ 2
 https://live.canthotv.vn/cs2/live.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho3" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest?cb=20250912112412&path-prefix=vi", TH Cần Thơ 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai1" tvg-logo="https://dongnai.baobinhphuoc.com.vn/upload/channel/5b0ee2b486e906e2846f78c76ca8fd43.png", TH Đồng Nai 1
 https://cdn.mediatech.vn/dongnai/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai2" tvg-logo="https://dongnai.baobinhphuoc.com.vn/upload/channel/31d77e3b4d1ed872841af49942605773.png", TH Đồng Nai 2
@@ -360,7 +360,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=58
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="daklak" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSt2U2v1BmByw4INPIs_ara5C5pRscc_8sHD5lbvFqukHT9ooJr9e1zmkj_sdwIzaDqUOIsgZvNfkuJW5tmjg2Z2UwpMEgmvaEfG5Iy593RIcJWsPeqAGa4UswjK-H_rLeEdLcYWbKdPLeCMDpC6zhRqPrQJWMpiGPS2TeccjmzVG6t6_g1NH9AGj1fQ/s556/LOGO_DRT_HD_2023-2.png", TH Đắk Lắk
-https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=51
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="gialai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi", TH Gia Lai
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=55
@@ -371,8 +372,9 @@ https://ott3.nethubtv.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="tayninh1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi", TH Tây Ninh
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="lamdong1" tvg-logo="https://img.vtvprime.vn/CryQY6LJ4HwjAjdzDHhxXn_tZZlmezDr_grQWyosqQU/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNTQ5MzRlMjYtM2E2Zi00ZWUyLThhNjktOWM5OWExMWQ0YTZmLnBuZw==.png", TH Lâm Đồng 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/LTV1/04.m3u8
+#EXTVLCOPT:http-user-origin=https://baolamdong.vn
+#EXTVLCOPT:http-user-referer=https://baolamdong.vn/
+https://live.baolamdong.vn/ltv1/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="lamdong2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/LTV2_logo.png?cb=20260919034646&path-prefix=vi", TH Lâm Đồng 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=45
