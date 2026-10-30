@@ -45,7 +45,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=177
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onphimviet" tvg-logo="https://img.vtvprime.vn/vDASEJI2IRP0eBox0ta6hgKo4vnY-3AdofWLa5lSqjM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTc3YzdkNmItZTVhNi00ZTkyLWIzYzUtMGEzMTkyZjIyM2RhLnBuZw==.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onmovies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-u-It-gu3eRLH2LothDJlN2jG7Px174I1iAZ2BfQ9QgDjt6zR3kfbKRioSoKgEcVTdeYWEz8d7hsieMtWWYSPs_WPzlixakXaPwO5fV5Mkk30-_MQL4mCvUK2-rB5QfIx7KBBOTIp0mlQXMQ9xBr8OIv7fMnQUAIEMy3bZeMlTqG2-tR-hzAekTZWqw9P/s500/ON_MOVIES_YOUTV.png", ON Movies
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onmovies" tvg-logo="https://img.vtvprime.vn/8-eDFNeJkwyONvmJVu_JydPc2dZaNJXuBTY7vtvCxxE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWQzOTEzNjgtYTJmNy00NDBkLWI0N2ItNzA2MDliNjJmNDYzLnBuZw==.png", ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="onechannel" tvg-logo="https://img.vtvprime.vn/bofK3Lca_KQJMc9sb6pUyQ_A41aWbsQi2ibNAzkN3I0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTk3YjgwOGUtNjI3OS00NWQ4LWJkMTAtNWY1MGE1MjIwMTZkLnBuZw==.png", ON Echannel
@@ -302,9 +302,6 @@ https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho2" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi", TH Cần Thơ 2
 https://live.canthotv.vn/cs2/live.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="cantho3" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest?cb=20250912112412&path-prefix=vi", TH Cần Thơ 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai1" tvg-logo="https://dongnai.baobinhphuoc.com.vn/upload/channel/5b0ee2b486e906e2846f78c76ca8fd43.png", TH Đồng Nai 1
 https://cdn.mediatech.vn/dongnai/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dongnai2" tvg-logo="https://dongnai.baobinhphuoc.com.vn/upload/channel/31d77e3b4d1ed872841af49942605773.png", TH Đồng Nai 2
@@ -403,6 +400,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hitv" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_640_360.png", HiTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=32
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="youtv" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/YouTV_logo.png/revision/latest?cb=20201010125200&path-prefix=vi", YouTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=32
 
