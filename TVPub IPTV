@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.io.vn/epgu.xml, https://epg.blaosolar.vn/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml, https://nhknewslive.quanlehong539.workers.dev/epg.xml, https://vovsonata.quanlehong539.workers.dev/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="https://epg.io.vn/epgu.xml, https://epg.blaosolar.vn/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://nhknewslive.quanlehong539.workers.dev/epg.xml, https://vovsonata.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/df56581896-vtv1.webp", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -224,8 +224,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-11
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilHTy7rmVpyfXVV4q_VbZ6fSdREiOt6aSvoQH6ZsIZL0p3MRwS5HzewC_G2V1NsQedm_HunM_UDh2rG7KNz_9QVLXrSPam8eFLWo47Kmbmn1aWBOXzhbwUpEZatphYKxBVc98bq01niH_EtbiAWUAdl_OuvCzSgqNMMK6LUwJnEmePRuSmRf51BBSv8irM/s400/NmLKesM4_400x400-removebg-preview.png", MRTV
-https://mrtvott.com/cache/MRTV-HD/master.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1920px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="beinsportsxtra" tvg-logo="https://resources.beinsportsxtra.com/xtra/logo_bein_sport_xtra_plain_55537aef6c.png", BeIN Sports Xtra
@@ -242,8 +240,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="aljazeera" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1920px-Al_Jazeera.svg.png", Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tvpworld" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TVPWorld_logo.png", TVP World
-https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtn" tvg-logo="https://global-ui.cgtn.com/static/ng/resource/images/header-v3/img_logo.png", CGTN English
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtndocu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
@@ -258,8 +254,12 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/News24_logo.jpg", News24
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live_1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png", ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tracesportstars" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4d/Tracesportstars2022.png", Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="traceurban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png", Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="fashionhd" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/b/b0/Fashion_tv.png", Fashion TV
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1920px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
