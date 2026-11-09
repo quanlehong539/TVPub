@@ -211,7 +211,7 @@ https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/ma
 #EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-suc-khoe-nguoi-gia" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastSuckhoe_logo.png", VTVgo Sức khỏe - Người già
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-vui-ve" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastVuive_logo.png", VTVgo Giáo dục
+#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-vui-ve" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastVuive_logo.png", VTVgo Vui vẻ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/master.m3u8
 
