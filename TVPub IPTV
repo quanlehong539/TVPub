@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.io.vn/epgu.xml, https://epg.blaosolar.vn/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://vovsonata.quanlehong539.workers.dev/epg.xml, https://tvbvn.quanlehong539.workers.dev/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="https://epg.io.vn/epgu.xml, https://epg.blaosolar.vn/schedule/epg.xml, https://clickconcac.quanlehong539.workers.dev/epg.xml, https://traceurban.quanlehong539.workers.dev/epg.xml, https://vovsonata.quanlehong539.workers.dev/epg.xml, https://fastschedule.quanlehong539.workers.dev/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #EXTINF:-1 group-title="THIẾT YẾU" tvg-id="vtv1hd" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/df56581896-vtv1.webp", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -190,41 +190,6 @@ https://vmttv.dpdns.org/tv360/?id=vtv9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=vtv10
 
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-thieu-nhi" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastThieunhi_logo.png", VTVgo Thiếu nhi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-phim-truyen" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtruyen_logo.png", VTVgo Phim truyện
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-game-show" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastGameshow_logo.png", VTVgo Game show
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-tai-lieu" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtailieu_logo.png", VTVgo Phim tài liệu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-ca-nhac" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastCanhac_logo.png", VTVgo Ca nhạc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-du-lich" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastDulich_logo.png", VTVgo Du lịch - Trải nghiệm - Khám phá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-suc-khoe-nguoi-gia" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastSuckhoe_logo.png", VTVgo Sức khỏe - Người già
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-vui-ve" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastVuive_logo.png", VTVgo Vui vẻ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/master.m3u8
-
-#EXTINF:-1 group-title="TV360 - LIVE EVENTS" tvg-id="tv360plus9" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=tv360-9
-#EXTINF:-1 group-title="TV360 - LIVE EVENTS" tvg-id="tv360plus10" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=tv360-10
-#EXTINF:-1 group-title="TV360 - LIVE EVENTS" tvg-id="tv360plus11" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=tv360-11
-
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1920px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
@@ -235,12 +200,6 @@ https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tv5monde" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-logo.png", TV5MONDE Asie
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tvpinfo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png", TVP Info
-https://dash2.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tvppolonia" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/1920px-TVP_Polonia_Logo_2020.svg.png", TVP Polonia
-https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tvpworld" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TVPWorld_logo.png", TVP World
-https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="aljazeera" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1920px-Al_Jazeera.svg.png", Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cgtn" tvg-logo="https://global-ui.cgtn.com/static/ng/resource/images/header-v3/img_logo.png", CGTN English
@@ -543,8 +502,6 @@ https://stream.zeno.fm/kxynzu2qe7duv
 
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-id="tvbvn" tvg-logo="https://companieslogo.com/img/orig/0511.HK-feb9f53c.png", TVB VN
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/VietFunTV_logo.png", Vietfun TV
-https://galaxyott.com/vietfuntv/720p.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqnLzHmUl0uQgcEAaZzwjm5rEw3JejZ5QV355DUTTrKSXhD5RCWnx2y_BepaE6Ar_9s_IZkb-BH9euHvc4qFrhxKIMJNOqQmgs8Q_XGKKlbjmLf05yYWfvaJX92hH9mwcOtwKUayWD-bLbZ46yuQWGuR3GXwNwJ51YNMm_a5FlTQ_5ZUHbCJZaFqJc2Q/s900/1683817053335.png", IBC TV
 https://vietprocast.app/hls/ibctv/index.m3u8
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VSTV_logo.png", Vietshopping TV
@@ -888,3 +845,51 @@ https://live2.zktsva.app/live/294335.flv
 #EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Son
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live2.zktsva.app/live/306290.flv
+
+#EXTINF:-1 group-title="TV360 - LIVE EVENTS" tvg-id="tv360plus9" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=tv360-9
+#EXTINF:-1 group-title="TV360 - LIVE EVENTS" tvg-id="tv360plus10" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=tv360-10
+#EXTINF:-1 group-title="TV360 - LIVE EVENTS" tvg-id="tv360plus11" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=tv360-11
+
+#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-thieu-nhi" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastThieunhi_logo.png", VTVgo Thiếu nhi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
+#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-phim-truyen" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtruyen_logo.png", VTVgo Phim truyện
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/master.m3u8
+#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-game-show" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastGameshow_logo.png", VTVgo Game show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/master.m3u8
+#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-tai-lieu" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtailieu_logo.png", VTVgo Phim tài liệu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/master.m3u8
+#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-ca-nhac" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastCanhac_logo.png", VTVgo Ca nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/master.m3u8
+#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-du-lich" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastDulich_logo.png", VTVgo Du lịch - Trải nghiệm - Khám phá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/master.m3u8
+#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-suc-khoe-nguoi-gia" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastSuckhoe_logo.png", VTVgo Sức khỏe - Người già
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
+#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-vui-ve" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastVuive_logo.png", VTVgo Vui vẻ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/master.m3u8
+
+#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-phim" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLPhim_logo.png", THVL Phim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://amg30823-amg30823c5-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c5-amgplt0985/playlist.m3u8
+#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-giai-tri" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLGiaitri_logo.png", THVL Giải trí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://amg30823-amg30823c6-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c6-amgplt0985/playlist.m3u8
+#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-thieu-nhi" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLThieunhi_logo.png", THVL Thiếu nhi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8
+#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-chuyen-de" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLChuyende_logo.png", THVL Chuyên đề
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8
