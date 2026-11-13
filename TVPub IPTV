@@ -881,15 +881,15 @@ https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/master.m3u8
 
-#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-phim" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLPhim_logo.png", THVL Phim
+#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-phim" tvg-name="THVL Phim" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLPhim_logo.png", THVL Phim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://amg30823-amg30823c5-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c5-amgplt0985/playlist.m3u8
-#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-giai-tri" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLGiaitri_logo.png", THVL Giải trí
+#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-giai-tri" tvg-name="THVL Giải trí" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLGiaitri_logo.png", THVL Giải trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://amg30823-amg30823c6-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c6-amgplt0985/playlist.m3u8
-#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-thieu-nhi" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLThieunhi_logo.png", THVL Thiếu nhi
+#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-thieu-nhi" tvg-name="THVL Thiếu nhi" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLThieunhi_logo.png", THVL Thiếu nhi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8
-#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-chuyen-de" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLChuyende_logo.png", THVL Chuyên đề
+#EXTINF:-1 group-title="THVLI - FAST CHANNELS" tvg-id="fast_thvl-chuyen-de" tvg-name="THVL Chuyên đề" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/THVLChuyende_logo.png", THVL Chuyên đề
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8
