@@ -1,8 +1,9 @@
 import json
 import urllib.request
 
-API_URL = "https://htdk.httdtvnb.xyz/matches"
-OUTPUT_FILE = "TraDaTV.m3u"
+TRADATV_API_URL = "https://htdk.httdtvnb.xyz/matches"
+GAVANG33_API_URL = "https://gavangtv-api.adviceme.io/api/v1/matches"
+OUTPUT_FILE = "TVPubSports.m3u"
 
 
 def fetch_matches(url: str) -> list:
@@ -14,15 +15,18 @@ def fetch_matches(url: str) -> list:
         },
     )
     with urllib.request.urlopen(req, timeout=20) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-        if isinstance(data, list):
-            return data
-        return data.get("data") or data.get("matches") or []
+        return json.loads(resp.read().decode("utf-8"))
 
 
-def build_m3u(matches: list) -> str:
-    lines = ["#EXTM3U group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TraDaTV_logo.png""]
+def build_tradatv_entries(raw_data) -> list[str]:
+    if isinstance(raw_data, list):
+        matches = raw_data
+    elif isinstance(raw_data, dict):
+        matches = raw_data.get("data") or raw_data.get("matches") or []
+    else:
+        matches = []
 
+    lines = []
     for match in matches:
         title = (match.get("title") or "Trận đấu").strip()
         sport = (match.get("sport") or "").strip()
@@ -45,7 +49,6 @@ def build_m3u(matches: list) -> str:
                 label = f"BLV {blv['name'].strip()}"
 
             display_title = f"{title} [{label}]" if label else title
-            sport_attr = f' tvg-sport="{sport}"' if sport else ""
 
             lines.append(
                 f'#EXTINF:-1 group-title="Trà Đá TV" '
@@ -53,14 +56,89 @@ def build_m3u(matches: list) -> str:
             )
             lines.append(url)
 
-    return "\n".join(lines) + "\n"
+    return lines
+
+
+def build_gavang33_entries(raw_data) -> list[str]:
+    if not isinstance(raw_data, dict):
+        return []
+
+    data_obj = raw_data.get("data")
+    if isinstance(data_obj, dict):
+        matches = list(data_obj.values())
+    elif isinstance(data_obj, list):
+        matches = data_obj
+    else:
+        matches = []
+
+    lines = []
+    for match in matches:
+        if not isinstance(match, dict):
+            continue
+
+        home_name = ((match.get("homeTeam") or {}).get("name") or "").strip()
+        away_name = ((match.get("awayTeam") or {}).get("name") or "").strip()
+        if home_name and away_name:
+            title = f"{home_name} vs {away_name}"
+        else:
+            title = (home_name or away_name or "Trận đấu").strip()
+
+        fallback_logo = (
+            ((match.get("homeTeam") or {}).get("logo") or "").strip()
+            or ((match.get("competition") or {}).get("logo") or "").strip()
+        )
+
+        anchors = match.get("anchorAppointmentVoList") or []
+        added_any = False
+
+        for anchor in anchors:
+            if not isinstance(anchor, dict):
+                continue
+
+            nick_name = (anchor.get("nickName") or "").strip()
+            avatar_url = (anchor.get("userImage") or "").strip() or fallback_logo
+            stream_urls = anchor.get("streamUrls") or []
+
+            # Lấy các luồng hợp lệ (ưu tiên .m3u8 trước, sau đó đến các link khác)
+            valid_urls = [u.strip() for u in stream_urls if isinstance(u, str) and u.strip()]
+            m3u8_urls = [u for u in valid_urls if ".m3u8" in u.lower()]
+            selected_urls = m3u8_urls if m3u8_urls else valid_urls
+
+            label = f"BLV {nick_name}" if nick_name else ""
+            display_title = f"{title} [{label}]" if label else title
+
+            for url in selected_urls:
+                lines.append(
+                    f'#EXTINF:-1 group-title="Gà Vàng 33" '
+                    f'tvg-logo="{avatar_url}", {display_title}'
+                )
+                lines.append(url)
+                added_any = True
+
+    return lines
+
+
+def build_m3u() -> str:
+    all_entries = ["#EXTM3U"]
+
+    try:
+        tradatv_raw = fetch_json(TRADATV_API_URL)
+        all_entries.extend(build_tradatv_entries(tradatv_raw))
+    except Exception as exc:
+        print(f"Warning: failed to fetch Trà Đá TV: {exc}")
+
+    try:
+        gavang_raw = fetch_json(GAVANG33_API_URL)
+        all_entries.extend(build_gavang33_entries(gavang_raw))
+    except Exception as exc:
+        print(f"Warning: failed to fetch Gà Vàng 33: {exc}")
+
+    return "\n".join(all_entries) + "\n"
 
 
 def main() -> None:
-    matches = fetch_matches(API_URL)
-    content = build_m3u(matches)
+    content = build_m3u()
 
-    # Tránh commit lại nếu nội dung không thay đổi
     try:
         with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
             old_content = f.read()
@@ -70,9 +148,9 @@ def main() -> None:
     if content != old_content:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(content)
-        print("Updated playlist.m3u")
+        print("Updated TVPubSports.m3u")
     else:
-        print("No changes in playlist.m3u")
+        print("No changes in TVPubSports.m3u")
 
 
 if __name__ == "__main__":
