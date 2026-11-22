@@ -87,7 +87,7 @@ https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv1hd" tvg-logo="https://img.vtvprime.vn/PYph2rJ-XMzrNFRf8Hv0wb-XDpm2FzIUDN-84ijmLic/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODJkMDYzOTQtZmEwYi00MWI3LWIzMTYtOWMwMDNkNDBjNjExLnBuZw==.png", SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv1
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv2hd" tvg-logo="https://cdn1.vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2018/06/28/1530173074_todaytv-logo.png", SCTV2
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e6/TodayTV.png/revision/latest?cb=20231217042607&path-prefix=vi", SCTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 group-title="TRONG NƯỚC" tvg-id="sctv3hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/See_TV_SCTV3.png/revision/latest?cb=20201010113238&path-prefix=vi", SCTV3
@@ -192,7 +192,7 @@ https://vmttv.dpdns.org/tv360/?id=vtv10
 
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://blueantmedia.com/wp-content/uploads/2025/02/LoveNature2024_Logo_Coral-300x119.png", Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1920px-Deutsche_Welle_symbol_2012.svg.png", Deutsche Welle
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="dw" tvg-logo="https://dashboardicons.com/api/icons/external/simpleicons/deutschewelle/brand.png", Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="beinsportsxtra" tvg-logo="https://resources.beinsportsxtra.com/xtra/logo_bein_sport_xtra_plain_55537aef6c.png", BeIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
@@ -200,7 +200,7 @@ https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tv5monde" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-logo.png", TV5MONDE Asie
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tvppolonia" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/1920px-TVP_Polonia_Logo_2020.svg.png", TVP Polonia
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="tvppolonia" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TVP_Polonia_Logo_2020.png", TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="aljazeera" tvg-logo="https://thumb.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1920px-Al_Jazeera.svg.png", Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index_12.m3u8
@@ -210,11 +210,11 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="trtworld" tvg-logo="https://images.squarespace-cdn.com/content/v1/681cd3de21167e0c1e46ae95/5ce96b05-bd53-4825-849c-1d0e94c154e8/trtworld+logo.png", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="rtnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1920px-Russia-today-logo.svg.png", Russia Today
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="rtnews" tvg-logo="https://rt-english.com/static/js/homescreen/icon.png", Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="rtdoc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png", RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1920px-Zvezda_logo.svg.png", Zvezda TV
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://tvzvezda.ru/video/_next/static/media/main.9e3f3222.png", Zvezda TV
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="zoomoo" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
@@ -224,9 +224,9 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="fashionhd" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/b/b0/Fashion_tv.png", Fashion TV
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/1920px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel News Asia
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cna" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/Channel_NewsAsia_logo.png", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="france24eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/1920px-France_24_logo_%282013%29.svg.png", France24 English
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="france24eng" tvg-logo="https://www.france24.com/ios-iphone-ipad-144x144.png", France24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="davinci" tvg-logo="https://img.vtvprime.vn/TeTHUc87TdJDiDarxVy_9Xyat93J4P-Eau7hVIrJ5CI/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWNmOTM5YjMtOGFlZS00ZDg5LTk1N2ItOTQxNmQ2MzNjNDU1LnBuZw==.png", Da Vinci
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -237,7 +237,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="outdoorhd" tvg-logo="https://img.vtvprime.vn/Hc9kuCTrQXumIfDEyzqp6qt19QBBTPbLlruig6F7LfE/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGQxODYyZjYtYTM2NS00NGNmLWFjZmUtOTllN2ZmYTliYzMwLnBuZw==.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=216
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://cdn.brandfetch.io/iddr-Ds11g/w/800/h/255/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B", CNBC
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://cdn.brandfetch.io/iddr-Ds11g/w/1600/h/510/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B", CNBC
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9855
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="kbsworld" tvg-logo="https://img.vtvprime.vn/9NuVWzSzDlTL8F7WqVNv1KkyXs6ruEUXAo86TZ2Mmhk/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZGY0NmQzMGYtNjBiNS00NzUwLWE3NDMtNDA5OTY5ZThhMzY2LnBuZw==.png", KBS World
@@ -255,7 +255,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="afnhd" tvg-logo="https://img.vtvprime.vn/mgu3JgfKsLkVy6qqgN7U3kZSTZjonfpw2qZzU2Xct48/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDJkMDQzZjUtNTBjNS00YzRhLTk1YWQtNzE3MGQ5MDg0OWUzLnBuZw==.png", Asian Food Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=215
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png", CNN
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="cnn" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="mbcamerica" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png", MBC
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
@@ -265,7 +265,7 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="newsmax" tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png", Newsmax
 https://n1ctsota.akamaized.net/hls/live/2113880/Live_1/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1920px-Rai_1_-_Logo_2016.svg.png", Rai 1
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="rai1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b9/Rai_1_%282016-.n.v.%29.png/revision/latest?cb=20170507080601", Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bloomberg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch321_425_305", Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -316,7 +316,7 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="quangninh3" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/logotrangchu2.png", TH Quảng Ninh 3
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="haiphong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/1920px-THP_logo.svg.png", TH Hải Phòng
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="haiphong" tvg-logo="https://media.thhp.vn/upload/files/avatar/NewFolder/Logo_THP.png", TH Hải Phòng
 https://cdn.thhp.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="haiphong3" tvg-logo="https://thhp.vn/themes/frontend/bhy/Assets/imgs/thpplus_icon.png", TH Hải Phòng 3
 https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
@@ -337,10 +337,10 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="caobang" tvg-logo="https://mediaresources.caobangtv.vn/files/2025/2/19/UZRH25C9Z62W.png", TH Cao Bằng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=48
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="laichau" tvg-logo="https://freem3u.xyz/static/images/diaphuong/laichau.png", TH Lai Châu
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="laichau" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/Logo_LTV_Lai_Ch%C3%A2u_2022.png/revision/latest?cb=20261113101527&path-prefix=vi", TH Lai Châu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=68
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dienbien" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_%C4%90i%E1%BB%87n_Bi%C3%AAn_-_%C4%90TV_from_2019.svg/1920px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_%C4%90i%E1%BB%87n_Bi%C3%AAn_-_%C4%90TV_from_2019.svg.png", TH Điện Biên
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="dienbien" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/%C4%90TV_logo_2019.png/revision/latest?cb=20220225073050&path-prefix=vi", TH Điện Biên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=52
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="phutho" tvg-logo="https://phuthotv.vn/sites/all/themes/custom_theme/images/logo.png", TH Phú Thọ
@@ -351,10 +351,10 @@ https://liveh34.vtvprime.vn/hls/PHUTHOTV/03.m3u8
 https://liveh12.vtvprime.vn/hls/HUNGYENTV/03.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="ninhbinh" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png", TH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="thanhhoa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg/1920px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_Thanh_H%C3%B3a_-_TTV.svg.png", TH Thanh Hóa
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="thanhhoa" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TV36_logo.png", TH Thanh Hóa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=89
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="nghean" tvg-logo="https://truyenhinhnghean.vn/common/v1/image/logo_footer.png", TH Nghệ An
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="nghean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo-natv-2026.png", TH Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-id="hatinh" tvg-logo="https://httv.1cdn.vn/assets/static/images/logo.png", TH Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -483,7 +483,7 @@ https://radio.talksport.com/stream
 https://radio.talksport.com/stream2
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://assets.wireless.radio/images/uwp-station-logos/talkradio.png", TalkRADIO
 https://talk.live.stream.broadcasting.news/stream
-#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NPR_new_logo.svg/1920px-NPR_new_logo.svg.png", National Public Radio
+#EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://cdn.cookielaw.org/logos/26b1c6a2-1285-46a9-a3af-3a0d7ddde52e/82089dfe-410c-4e1b-a7f9-698174b62a86/12f4304d-661a-4de3-80ce-82f3165cfb61/NPR_Logo_Color.png", National Public Radio
 https://npr-ice.streamguys1.com/live.mp3
 #EXTINF:-1 group-title="PHÁT THANH" tvg-logo="https://static.wixstatic.com/media/cd82dc_c1e307641d474691a6b45b14b4e92c5b~mv2.png", Scientific Sound Asia
 https://carol.epichosts.co.uk:8272/live.mp3
