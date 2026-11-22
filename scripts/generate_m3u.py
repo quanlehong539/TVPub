@@ -1,11 +1,13 @@
 import json
 import urllib.request
-from datetime import datetime, timezone, timedelta
 
 TRADATV_API_URL = "https://htdk.httdtvnb.xyz/matches"
 GAVANGTV_API_URL = "https://gavangtv-api.adviceme.io/api/v1/matches"
 OUTPUT_FILE = "TVPubSports.m3u"
-VN_TZ = timezone(timedelta(hours=7))
+# Đặt True để chỉ lấy trận đang live; False để lấy tất cả
+ONLY_LIVE = False
+# Đặt True để lấy cả .m3u8 và .flv cho Gà Vàng TV; False để chỉ ưu tiên .m3u8
+INCLUDE_FLV_GAVANG = True
 
 def fetch_json(url: str):
     req = urllib.request.Request(
@@ -37,10 +39,28 @@ def format_timestamp_to_vn(ts) -> str:
     except (ValueError, TypeError, OSError):
         return ""
 
-def format_channel_name(time_str: str, title: str, blv_label: str) -> str:
+def is_tradatv_live(match: dict) -> bool:
+    status = str(match.get("status") or "").strip().lower()
+    return status in {"live", "playing", "in_progress"}
+
+def is_gavangtv_live(match: dict) -> bool:
+    m_type = str(match.get("matchType") or "").strip().lower()
+    m_status = str(match.get("matchStatus") or "").strip().lower()
+    return "live" in {m_type, m_status}
+
+def format_channel_name(time_str: str, title: str, blv_label: str, fmt_tag: str = "") -> str:
     time_part = f"[{time_str.strip()}] " if time_str and time_str.strip() else ""
     blv_part = f" [{blv_label.strip()}]" if blv_label and blv_label.strip() else ""
-    return f"{time_part}{title.strip()}{blv_part}"
+    fmt_part = f" [{fmt_tag.strip()}]" if fmt_tag and fmt_tag.strip() else ""
+    return f"{time_part}{title.strip()}{blv_part}{fmt_part}"
+
+def detect_stream_format(url: str) -> str:
+    lower = url.lower()
+    if ".m3u8" in lower:
+        return "M3U8"
+    if ".flv" in lower:
+        return "FLV"
+    return ""
 
 def build_tradatv_entries(raw_data) -> list[str]:
     if isinstance(raw_data, list):
@@ -54,7 +74,9 @@ def build_tradatv_entries(raw_data) -> list[str]:
     for match in matches:
         if not isinstance(match, dict):
             continue
-
+        if ONLY_LIVE and not is_tradatv_live(match):
+            continue
+            
         title = (match.get("title") or "Trận đấu").strip()
         sport = (match.get("sport") or "").strip()
         time_str = format_iso_to_vn(match.get("startTime") or "")
@@ -89,7 +111,6 @@ def build_tradatv_entries(raw_data) -> list[str]:
 
     return lines
 
-
 def build_gavangtv_entries(raw_data) -> list[str]:
     if not isinstance(raw_data, dict):
         return []
@@ -106,7 +127,9 @@ def build_gavangtv_entries(raw_data) -> list[str]:
     for match in matches:
         if not isinstance(match, dict):
             continue
-
+        if ONLY_LIVE and not is_gavangtv_live(match):
+            continue
+            
         home_name = ((match.get("homeTeam") or {}).get("name") or "").strip()
         away_name = ((match.get("awayTeam") or {}).get("name") or "").strip()
         if home_name and away_name:
@@ -137,7 +160,10 @@ def build_gavangtv_entries(raw_data) -> list[str]:
 
             valid_urls = [u.strip() for u in stream_urls if isinstance(u, str) and u.strip()]
             m3u8_urls = [u for u in valid_urls if ".m3u8" in u.lower()]
-            selected_urls = m3u8_urls if m3u8_urls else valid_urls
+            if INCLUDE_FLV_GAVANG:
+                selected_urls = valid_urls
+            else:
+                selected_urls = m3u8_urls if m3u8_urls else valid_urls
             
             label = f"BLV {nick_name}" if nick_name else ""
             display_title = format_channel_name(time_str, title, blv_label)
@@ -178,7 +204,6 @@ def build_m3u() -> str:
         print(f"Warning: failed to fetch Gà Vàng 33: {exc}")
 
     return "\n".join(all_entries) + "\n"
-
 
 def main() -> None:
     content = build_m3u()
