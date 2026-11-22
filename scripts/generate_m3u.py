@@ -52,7 +52,7 @@ def build_tradatv_entries(raw_data) -> list[str]:
 
             lines.append(
                 f'#EXTINF:-1 group-title="Trà Đá TV" '
-                f'tvg-logo="{avatar_url}"{sport_attr}, {display_title}'
+                f'tvg-logo="{avatar_url}", {display_title}'
             )
             lines.append(url)
 
@@ -83,11 +83,6 @@ def build_gavang33_entries(raw_data) -> list[str]:
         else:
             title = (home_name or away_name or "Trận đấu").strip()
 
-        fallback_logo = (
-            ((match.get("homeTeam") or {}).get("logo") or "").strip()
-            or ((match.get("competition") or {}).get("logo") or "").strip()
-        )
-
         anchors = match.get("anchorAppointmentVoList") or []
         added_any = False
 
@@ -96,7 +91,7 @@ def build_gavang33_entries(raw_data) -> list[str]:
                 continue
 
             nick_name = (anchor.get("nickName") or "").strip()
-            avatar_url = (anchor.get("userImage") or "").strip() or fallback_logo
+            avatar_url = (anchor.get("userImage") or "").strip()
             stream_urls = anchor.get("streamUrls") or []
 
             # Lấy các luồng hợp lệ (ưu tiên .m3u8 trước, sau đó đến các link khác)
