@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate playlist.m3u
+      - name: Generate TVPubSports.m3u
         run: python scripts/generate_m3u.py
 
       - name: Commit and push if changed
@@ -28,7 +28,7 @@ jobs:
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add playlist.m3u
+            git add TVPubSports.m3u
             git commit -m "chore: update TVPubSports.m3u"
             git push
           fi
