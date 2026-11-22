@@ -2,16 +2,16 @@ import json
 import urllib.request
 
 TRADATV_API_URL = "https://htdk.httdtvnb.xyz/matches"
-GAVANG33_API_URL = "https://gavangtv-api.adviceme.io/api/v1/matches"
+GAVANGTV_API_URL = "https://gavangtv-api.adviceme.io/api/v1/matches"
 OUTPUT_FILE = "TVPubSports.m3u"
 
 
-def fetch_matches(url: str) -> list:
+def fetch_json(url: str):
     req = urllib.request.Request(
         url,
         headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
-            "Accept": "text/html,application/json;charset=utf-8,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "Accept": "application/json, text/plain, */*; charset=UTF-8",
         },
     )
     with urllib.request.urlopen(req, timeout=20) as resp:
@@ -49,6 +49,7 @@ def build_tradatv_entries(raw_data) -> list[str]:
                 label = f"BLV {blv['name'].strip()}"
 
             display_title = f"{title} [{label}]" if label else title
+            sport_attr = f' tvg-sport="{sport}"' if sport else ""
 
             lines.append(
                 f'#EXTINF:-1 group-title="Trà Đá TV" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TraDaTV_logo.png" '
@@ -59,7 +60,7 @@ def build_tradatv_entries(raw_data) -> list[str]:
     return lines
 
 
-def build_gavang33_entries(raw_data) -> list[str]:
+def build_gavangtv_entries(raw_data) -> list[str]:
     if not isinstance(raw_data, dict):
         return []
 
@@ -83,6 +84,11 @@ def build_gavang33_entries(raw_data) -> list[str]:
         else:
             title = (home_name or away_name or "Trận đấu").strip()
 
+        fallback_logo = (
+            ((match.get("homeTeam") or {}).get("logo") or "").strip()
+            or ((match.get("competition") or {}).get("logo") or "").strip()
+        )
+
         anchors = match.get("anchorAppointmentVoList") or []
         added_any = False
 
@@ -91,7 +97,7 @@ def build_gavang33_entries(raw_data) -> list[str]:
                 continue
 
             nick_name = (anchor.get("nickName") or "").strip()
-            avatar_url = (anchor.get("userImage") or "").strip()
+            avatar_url = (anchor.get("userImage") or "").strip() or fallback_logo
             stream_urls = anchor.get("streamUrls") or []
 
             # Lấy các luồng hợp lệ (ưu tiên .m3u8 trước, sau đó đến các link khác)
@@ -110,6 +116,16 @@ def build_gavang33_entries(raw_data) -> list[str]:
                 lines.append(url)
                 added_any = True
 
+        # Fallback sang defaultLink nếu không có stream từ BLV
+        if not added_any:
+            default_link = (match.get("defaultLink") or "").strip()
+            if default_link:
+                lines.append(
+                    f'#EXTINF:-1 group-title="Gà Vàng 33" group-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png" '
+                    f'tvg-logo="{fallback_logo}", {title}'
+                )
+                lines.append(default_link)
+
     return lines
 
 
@@ -123,8 +139,8 @@ def build_m3u() -> str:
         print(f"Warning: failed to fetch Trà Đá TV: {exc}")
 
     try:
-        gavang_raw = fetch_json(GAVANG33_API_URL)
-        all_entries.extend(build_gavang33_entries(gavang_raw))
+        gavang_raw = fetch_json(GAVANGTV_API_URL)
+        all_entries.extend(build_gavangtv_entries(gavang_raw))
     except Exception as exc:
         print(f"Warning: failed to fetch Gà Vàng 33: {exc}")
 
