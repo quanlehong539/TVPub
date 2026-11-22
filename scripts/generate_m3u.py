@@ -136,7 +136,8 @@ def build_gavangtv_entries(raw_data) -> list[str]:
             stream_urls = anchor.get("streamUrls") or []
 
             valid_urls = [u.strip() for u in stream_urls if isinstance(u, str) and u.strip()]
-
+            m3u8_urls = [u for u in valid_urls if ".m3u8" in u.lower()]
+            
             label = f"BLV {nick_name}" if nick_name else ""
             display_title = format_channel_name(time_str, title, blv_label)
             
@@ -194,7 +195,6 @@ def main() -> None:
         print("Updated TVPubSports.m3u")
     else:
         print("No changes in TVPubSports.m3u")
-
 
 if __name__ == "__main__":
     main()
