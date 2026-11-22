@@ -51,7 +51,7 @@ def build_tradatv_entries(raw_data) -> list[str]:
             display_title = f"{title} [{label}]" if label else title
 
             lines.append(
-                f'#EXTINF:-1 group-title="Trà Đá TV" '
+                f'#EXTINF:-1 group-title="Trà Đá TV" group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TraDaTV_logo.png" '
                 f'tvg-logo="{avatar_url}", {display_title}'
             )
             lines.append(url)
@@ -104,7 +104,7 @@ def build_gavang33_entries(raw_data) -> list[str]:
 
             for url in selected_urls:
                 lines.append(
-                    f'#EXTINF:-1 group-title="Gà Vàng 33" '
+                    f'#EXTINF:-1 group-title="Gà Vàng 33" group-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png" '
                     f'tvg-logo="{avatar_url}", {display_title}'
                 )
                 lines.append(url)
