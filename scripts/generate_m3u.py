@@ -1,10 +1,11 @@
 import json
 import urllib.request
+from datetime import datetime, timezone, timedelta
 
 TRADATV_API_URL = "https://htdk.httdtvnb.xyz/matches"
 GAVANGTV_API_URL = "https://gavangtv-api.adviceme.io/api/v1/matches"
 OUTPUT_FILE = "TVPubSports.m3u"
-
+VN_TZ = timezone(timedelta(hours=7))
 
 def fetch_json(url: str):
     req = urllib.request.Request(
@@ -17,6 +18,29 @@ def fetch_json(url: str):
     with urllib.request.urlopen(req, timeout=20) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
+def format_iso_to_vn(iso_str: str) -> str:
+    if not iso_str or not isinstance(iso_str, str):
+        return ""
+    try:
+        normalized = iso_str.strip().replace("Z", "+00:00")
+        dt = datetime.fromisoformat(normalized).astimezone(VN_TZ)
+        return dt.strftime("%H:%M %d/%m")
+    except ValueError:
+        return ""
+
+def format_timestamp_to_vn(ts) -> str:
+    if ts is None:
+        return ""
+    try:
+        dt = datetime.fromtimestamp(float(ts), tz=VN_TZ)
+        return dt.strftime("%H:%M %d/%m")
+    except (ValueError, TypeError, OSError):
+        return ""
+
+def format_channel_name(time_str: str, title: str, blv_label: str) -> str:
+    time_part = f"[{time_str.strip()}] " if time_str and time_str.strip() else ""
+    blv_part = f" [{blv_label.strip()}]" if blv_label and blv_label.strip() else ""
+    return f"{time_part}{title.strip()}{blv_part}"
 
 def build_tradatv_entries(raw_data) -> list[str]:
     if isinstance(raw_data, list):
@@ -28,15 +52,22 @@ def build_tradatv_entries(raw_data) -> list[str]:
 
     lines = []
     for match in matches:
+        if not isinstance(match, dict):
+            continue
+
         title = (match.get("title") or "Trận đấu").strip()
         sport = (match.get("sport") or "").strip()
+        time_str = format_iso_to_vn(match.get("startTime") or "")
         commentators = match.get("commentators") or []
         streams = match.get("streams") or []
 
-        blv_map = {c.get("id"): c for c in commentators if c.get("id")}
-        default_blv = commentators[0] if commentators else {}
+        blv_map = {c.get("id"): c for c in commentators if isinstance(c, dict) and c.get("id")}
+        default_blv = commentators[0] if commentators and isinstance(commentators[0], dict) else {}
 
         for stream in streams:
+            if not isinstance(stream, dict):
+                continue
+
             url = (stream.get("url") or "").strip()
             if not url:
                 continue
@@ -44,15 +75,14 @@ def build_tradatv_entries(raw_data) -> list[str]:
             blv = blv_map.get(stream.get("commentatorId")) or default_blv
             avatar_url = (blv.get("avatarUrl") or "").strip()
 
-            label = (stream.get("label") or "").strip()
-            if not label and blv.get("name"):
-                label = f"BLV {blv['name'].strip()}"
+            raw_label = (stream.get("label") or "").strip()
+            if not raw_label and blv.get("name"):
+                raw_label = f"BLV {blv['name'].strip()}"
 
-            display_title = f"{title} [{label}]" if label else title
-            sport_attr = f' tvg-sport="{sport}"' if sport else ""
+            display_title = format_channel_name(time_str, title, raw_label)
 
             lines.append(
-                f'#EXTINF:-1 group-title="Trà Đá TV" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyQCSmQcjlaV591HXja0Chg7VvYZfmRWybUV203d2Jcfr-8VQm-DaOZTln2hqUhXQmEH-7CEpe5pc4Gi3H_uPKE8UarQXY38tNnkEZmFuXXjgeEMh7LH1QlMzk69MN9-O-tse-CZxCYTB0Xl1oOeJzt7n0AZmnLWBtmKD87PyWfNZmopLD1pxLUiswHe9N/s260/TraDaTV_logo.png" '
+                f'#EXTINF:-1 group-title="🔴 ⚽ 🏐 TRÀ ĐÁ TV" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyQCSmQcjlaV591HXja0Chg7VvYZfmRWybUV203d2Jcfr-8VQm-DaOZTln2hqUhXQmEH-7CEpe5pc4Gi3H_uPKE8UarQXY38tNnkEZmFuXXjgeEMh7LH1QlMzk69MN9-O-tse-CZxCYTB0Xl1oOeJzt7n0AZmnLWBtmKD87PyWfNZmopLD1pxLUiswHe9N/s260/TraDaTV_logo.png" '
                 f'tvg-logo="{avatar_url}", {display_title}'
             )
             lines.append(url)
@@ -84,6 +114,11 @@ def build_gavangtv_entries(raw_data) -> list[str]:
         else:
             title = (home_name or away_name or "Trận đấu").strip()
 
+        norm_time = (match.get("matchNormalizedTime") or "").strip()
+        norm_date = (match.get("matchNormalizedDate") or "").strip()
+        ts_time = format_timestamp_to_vn(match.get("matchTime"))
+        time_str = norm_time or norm_date or ts_time
+
         fallback_logo = (
             ((match.get("homeTeam") or {}).get("logo") or "").strip()
             or ((match.get("competition") or {}).get("logo") or "").strip()
@@ -100,17 +135,14 @@ def build_gavangtv_entries(raw_data) -> list[str]:
             avatar_url = (anchor.get("userImage") or "").strip() or fallback_logo
             stream_urls = anchor.get("streamUrls") or []
 
-            # Lấy các luồng hợp lệ (ưu tiên .m3u8 trước, sau đó đến các link khác)
             valid_urls = [u.strip() for u in stream_urls if isinstance(u, str) and u.strip()]
-            m3u8_urls = [u for u in valid_urls if ".m3u8" in u.lower()]
-            selected_urls = m3u8_urls if m3u8_urls else valid_urls
 
             label = f"BLV {nick_name}" if nick_name else ""
-            display_title = f"{title} [{label}]" if label else title
-
+            display_title = format_channel_name(time_str, title, blv_label)
+            
             for url in selected_urls:
                 lines.append(
-                    f'#EXTINF:-1 group-title="Gà Vàng 33" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMx0r-H3ReHAdc_tYvcyeW5wYS_KJcQ_yumoJVfIs5rqMvu18oGGkr55AVSXMdsZMpHS0py9qOS-v8CtOrDYYe19MJYcVG2jffxDWQ2UfPYZtH8wBdieg7WJQtpuWTkgSchYnY_zA5_h65aMD8BRZKVYOILgc0DbMjPpNotW8EkQEwCtmEaAL9FtYF_qv/s197/GaVang33_logo.png" '
+                    f'#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMx0r-H3ReHAdc_tYvcyeW5wYS_KJcQ_yumoJVfIs5rqMvu18oGGkr55AVSXMdsZMpHS0py9qOS-v8CtOrDYYe19MJYcVG2jffxDWQ2UfPYZtH8wBdieg7WJQtpuWTkgSchYnY_zA5_h65aMD8BRZKVYOILgc0DbMjPpNotW8EkQEwCtmEaAL9FtYF_qv/s197/GaVang33_logo.png" '
                     f'tvg-logo="{avatar_url}", {display_title}'
                 )
                 lines.append(url)
@@ -121,7 +153,7 @@ def build_gavangtv_entries(raw_data) -> list[str]:
             default_link = (match.get("defaultLink") or "").strip()
             if default_link:
                 lines.append(
-                    f'#EXTINF:-1 group-title="Gà Vàng 33" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMx0r-H3ReHAdc_tYvcyeW5wYS_KJcQ_yumoJVfIs5rqMvu18oGGkr55AVSXMdsZMpHS0py9qOS-v8CtOrDYYe19MJYcVG2jffxDWQ2UfPYZtH8wBdieg7WJQtpuWTkgSchYnY_zA5_h65aMD8BRZKVYOILgc0DbMjPpNotW8EkQEwCtmEaAL9FtYF_qv/s197/GaVang33_logo.png" '
+                    f'#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMx0r-H3ReHAdc_tYvcyeW5wYS_KJcQ_yumoJVfIs5rqMvu18oGGkr55AVSXMdsZMpHS0py9qOS-v8CtOrDYYe19MJYcVG2jffxDWQ2UfPYZtH8wBdieg7WJQtpuWTkgSchYnY_zA5_h65aMD8BRZKVYOILgc0DbMjPpNotW8EkQEwCtmEaAL9FtYF_qv/s197/GaVang33_logo.png" '
                     f'tvg-logo="{fallback_logo}", {title}'
                 )
                 lines.append(default_link)
