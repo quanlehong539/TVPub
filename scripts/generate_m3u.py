@@ -2,7 +2,7 @@ import json
 import urllib.request
 
 API_URL = "https://htdk.httdtvnb.xyz/matches"
-OUTPUT_FILE = "playlist.m3u"
+OUTPUT_FILE = "TraDaTV.m3u"
 
 
 def fetch_matches(url: str) -> list:
@@ -21,7 +21,7 @@ def fetch_matches(url: str) -> list:
 
 
 def build_m3u(matches: list) -> str:
-    lines = ["#EXTM3U"]
+    lines = ["#EXTM3U group-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/TraDaTV_logo.png""]
 
     for match in matches:
         title = (match.get("title") or "Trận đấu").strip()
