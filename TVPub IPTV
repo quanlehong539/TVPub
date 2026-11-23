@@ -263,9 +263,7 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da9
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="arirang" tvg-logo="https://img.vtvprime.vn/lN2OAu85CLrie1I6sizfedNPj6ICEaXS3m8v_bzmrU0/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNzFkMjcyZmItZDBmZS00MTVkLTk5YzktMzczMjBmMDI5NDhlLnBuZw==.png", Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="newsmax" tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png", Newsmax
-https://n1ctsota.akamaized.net/hls/live/2113880/Live_1/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="rai1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b9/Rai_1_%282016-.n.v.%29.png/revision/latest?cb=20170507080601", Rai 1
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-id="rai1" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Rai_1_2016.png/revision/latest?cb=20240816130811&path-prefix=vi", Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-id="bloomberg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch321_425_305", Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -562,28 +560,30 @@ https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="NGƯỜI LỚN", AdultIPTV Threesome
 https://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-thieu-nhi" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastThieunhi_logo.png", VTVgo Thiếu nhi
+#EXTINF:-1 group-title="ONE VTV - FAST CHANNELS" tvg-id="vtvprime-fast-phim-viet" tvg-logo="https://img.vtvprime.vn/BbWQKcX8QrPq7VZkouPkWNzf-Ka5rP_ltNq1JsK2qJw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRlMjA5NmMtMWJiMC00ODgzLTlhZGMtNjZiZTRiNzNmYjE5LnBuZw==.png", VTVprime Phim Việt
+https://srsfkobxdcliv.vcdn.cloud/hls/playout.m3u8
+#EXTINF:-1 group-title="ONE VTV - FAST CHANNELS" tvg-id="vtvgo-fast-thieu-nhi" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastThieunhi_logo.png", VTVgo Thiếu nhi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-phim-truyen" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtruyen_logo.png", VTVgo Phim truyện
+#EXTINF:-1 group-title="ONE VTV - FAST CHANNELS" tvg-id="vtvgo-fast-phim-truyen" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtruyen_logo.png", VTVgo Phim truyện
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-truyen/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-game-show" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastGameshow_logo.png", VTVgo Game show
+#EXTINF:-1 group-title="ONE VTV - FAST CHANNELS" tvg-id="vtvgo-fast-game-show" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastGameshow_logo.png", VTVgo Game show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-game-show/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-tai-lieu" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtailieu_logo.png", VTVgo Phim tài liệu
+#EXTINF:-1 group-title="ONE VTV - FAST CHANNELS" tvg-id="vtvgo-fast-tai-lieu" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastPhimtailieu_logo.png", VTVgo Phim tài liệu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-ca-nhac" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastCanhac_logo.png", VTVgo Ca nhạc
+#EXTINF:-1 group-title="ONE VTV - FAST CHANNELS" tvg-id="vtvgo-fast-ca-nhac" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastCanhac_logo.png", VTVgo Ca nhạc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-ca-nhac/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-du-lich" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastDulich_logo.png", VTVgo Du lịch - Trải nghiệm - Khám phá
+#EXTINF:-1 group-title="ONE VTV - FAST CHANNELS" tvg-id="vtvgo-fast-du-lich" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastDulich_logo.png", VTVgo Du lịch - Trải nghiệm - Khám phá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-suc-khoe-nguoi-gia" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastSuckhoe_logo.png", VTVgo Sức khỏe - Người già
+#EXTINF:-1 group-title="ONE VTV - FAST CHANNELS" tvg-id="vtvgo-fast-suc-khoe-nguoi-gia" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastSuckhoe_logo.png", VTVgo Sức khỏe - Người già
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
-#EXTINF:-1 group-title="VTVGO - FAST CHANNELS" tvg-id="vtvgo-fast-vui-ve" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastVuive_logo.png", VTVgo Vui vẻ
+#EXTINF:-1 group-title="ONE VTV - FAST CHANNELS" tvg-id="vtvgo-fast-vui-ve" tvg-logo="https://raw.githubusercontent.com/quanlehong539/TVPub/refs/heads/main/VTVgoFastVuive_logo.png", VTVgo Vui vẻ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-vui-ve/master.m3u8
 
