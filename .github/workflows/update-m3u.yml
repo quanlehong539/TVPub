@@ -1,0 +1,34 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    - cron: "*/5 * * * *" # Chạy mỗi 5 phút (UTC)
+  workflow_dispatch:       # Cho phép bấm chạy thủ công trên GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Generate TVPubSports.m3u
+        run: python scripts/generate_m3u.py
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add TVPubSports.m3u
+            git commit -m "chore: update TVPubSports.m3u"
+            git push
+          fi
