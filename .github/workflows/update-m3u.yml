@@ -2,7 +2,7 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: "*/1 * * * *" # Chạy mỗi 5 phút (UTC)
+    - cron: "*/5 * * * *" # Chạy mỗi 5 phút (UTC)
   workflow_dispatch:       # Cho phép bấm chạy thủ công trên GitHub
 
 permissions:
