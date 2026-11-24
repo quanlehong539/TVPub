@@ -31,7 +31,7 @@ jobs:
         run: python scripts/generate_m3u.py
 
       - name: Run script
-        run: echo "Run every 5 minutes at $(date -u)"
+        run: echo "Run every 15 minutes at $(date -u)"
       
       - name: Commit and push if changed
         run: |
