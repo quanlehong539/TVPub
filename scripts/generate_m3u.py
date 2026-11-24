@@ -52,7 +52,7 @@ def build_tradatv_entries(raw_data) -> list[str]:
             sport_attr = f' tvg-sport="{sport}"' if sport else ""
 
             lines.append(
-                f'#EXTINF:-1 group-title="Trà Đá TV" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyQCSmQcjlaV591HXja0Chg7VvYZfmRWybUV203d2Jcfr-8VQm-DaOZTln2hqUhXQmEH-7CEpe5pc4Gi3H_uPKE8UarQXY38tNnkEZmFuXXjgeEMh7LH1QlMzk69MN9-O-tse-CZxCYTB0Xl1oOeJzt7n0AZmnLWBtmKD87PyWfNZmopLD1pxLUiswHe9N/s600/TraDaTV_logo.png" '
+                f'#EXTINF:-1 group-title="🔴 ⚽ 🏐 TRÀ ĐÁ TV" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyQCSmQcjlaV591HXja0Chg7VvYZfmRWybUV203d2Jcfr-8VQm-DaOZTln2hqUhXQmEH-7CEpe5pc4Gi3H_uPKE8UarQXY38tNnkEZmFuXXjgeEMh7LH1QlMzk69MN9-O-tse-CZxCYTB0Xl1oOeJzt7n0AZmnLWBtmKD87PyWfNZmopLD1pxLUiswHe9N/s600/TraDaTV_logo.png" '
                 f'tvg-logo="{avatar_url}", {display_title}'
             )
             lines.append(url)
@@ -110,7 +110,7 @@ def build_gavangtv_entries(raw_data) -> list[str]:
 
             for url in selected_urls:
                 lines.append(
-                    f'#EXTINF:-1 group-title="Gà Vàng 33" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMx0r-H3ReHAdc_tYvcyeW5wYS_KJcQ_yumoJVfIs5rqMvu18oGGkr55AVSXMdsZMpHS0py9qOS-v8CtOrDYYe19MJYcVG2jffxDWQ2UfPYZtH8wBdieg7WJQtpuWTkgSchYnY_zA5_h65aMD8BRZKVYOILgc0DbMjPpNotW8EkQEwCtmEaAL9FtYF_qv/s600/GaVang33_logo.png" '
+                    f'#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMx0r-H3ReHAdc_tYvcyeW5wYS_KJcQ_yumoJVfIs5rqMvu18oGGkr55AVSXMdsZMpHS0py9qOS-v8CtOrDYYe19MJYcVG2jffxDWQ2UfPYZtH8wBdieg7WJQtpuWTkgSchYnY_zA5_h65aMD8BRZKVYOILgc0DbMjPpNotW8EkQEwCtmEaAL9FtYF_qv/s600/GaVang33_logo.png" '
                     f'tvg-logo="{avatar_url}", {display_title}'
                 )
                 lines.append(url)
@@ -121,7 +121,7 @@ def build_gavangtv_entries(raw_data) -> list[str]:
             default_link = (match.get("defaultLink") or "").strip()
             if default_link:
                 lines.append(
-                    f'#EXTINF:-1 group-title="Gà Vàng 33" '
+                    f'#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMx0r-H3ReHAdc_tYvcyeW5wYS_KJcQ_yumoJVfIs5rqMvu18oGGkr55AVSXMdsZMpHS0py9qOS-v8CtOrDYYe19MJYcVG2jffxDWQ2UfPYZtH8wBdieg7WJQtpuWTkgSchYnY_zA5_h65aMD8BRZKVYOILgc0DbMjPpNotW8EkQEwCtmEaAL9FtYF_qv/s600/GaVang33_logo.png" '
                     f'tvg-logo="{fallback_logo}", {title}'
                 )
                 lines.append(default_link)
