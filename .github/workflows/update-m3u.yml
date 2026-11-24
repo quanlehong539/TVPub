@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: "*/15 * * * *" # Chạy mỗi 15 phút (UTC)
   workflow_dispatch:       # Cho phép bấm chạy thủ công trên GitHub
-
+  push:
+    paths:
+      - "generate_m3u.py"   # Tự chạy khi cập nhật code
+      
 permissions:
   contents: write
 
