@@ -1,4 +1,3 @@
-
 import json
 import urllib.request
 
@@ -92,104 +91,6 @@ def build_tradatv_entries(raw_data) -> list[str]:
             lines.append(url)
 
     return lines
-
-
-def build_gavangtv_entries(raw_data) -> list[str]:
-    if not isinstance(raw_data, dict):
-        return []
-
-    data_obj = raw_data.get("data")
-
-    if isinstance(data_obj, dict):
-        matches = list(data_obj.values())
-    elif isinstance(data_obj, list):
-        matches = data_obj
-    else:
-        matches = []
-
-    lines = []
-
-    for match in matches:
-        if not isinstance(match, dict):
-            continue
-
-        home = match.get("homeTeam") or {}
-        away = match.get("awayTeam") or {}
-
-        home_name = (home.get("name") or "").strip()
-        away_name = (away.get("name") or "").strip()
-
-        if home_name and away_name:
-            title = f"{home_name} vs {away_name}"
-        else:
-            title = home_name or away_name or "Trận đấu"
-
-        fallback_logo = (
-            (home.get("logo") or "").strip()
-            or (
-                (match.get("competition") or {}).get("logo")
-                or ""
-            ).strip()
-        )
-
-        anchors = match.get("anchorAppointmentVoList") or []
-        added_any = False
-
-        for anchor in anchors:
-            if not isinstance(anchor, dict):
-                continue
-
-            nick_name = (anchor.get("nickName") or "").strip()
-            avatar_url = (
-                (anchor.get("userImage") or "").strip()
-                or fallback_logo
-            )
-
-            stream_urls = anchor.get("streamUrls") or []
-
-            valid_urls = list(dict.fromkeys(
-                u.strip()
-                for u in stream_urls
-                if isinstance(u, str) and u.strip()
-            ))
-
-            m3u8_urls = [
-                u for u in valid_urls
-                if ".m3u8" in u.lower()
-            ]
-
-            selected_urls = m3u8_urls or valid_urls
-
-            label = f"BLV {nick_name}" if nick_name else ""
-            display_title = (
-                f"{title} [{label}]" if label else title
-            )
-
-            for url in selected_urls:
-                lines.append(
-                    f'#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" '
-                    f'group-logo="{GAVANGTV_LOGO}" '
-                    f'tvg-logo="{avatar_url}", {display_title}'
-                )
-
-                lines.append(url)
-                added_any = True
-
-        # Fallback sang defaultLink nếu không có stream từ BLV
-        if not added_any:
-            default_link = (match.get("defaultLink") or "").strip()
-
-            if default_link:
-                lines.append(
-                    f'#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" '
-                    f'group-logo="{GAVANGTV_LOGO}" '
-                    f'tvg-logo="{fallback_logo}", {title}'
-                )
-
-                lines.append(default_link)
-
-    return lines
-
 
 # ==========================================================
 # COLA TV
@@ -310,7 +211,8 @@ def build_colatv_entries(raw_data) -> list[str]:
 
             for url in selected_urls:
                 lines.append(
-                    f'#EXTINF:-1 group-title="🔴 ⚽ COLA TV" '
+                    f'#EXTINF:-1 group-title="🔴 ⚽ 🏀 COLA TV" '
+                    f'group-logo="{COLATV_LOGO}" '
                     f'tvg-logo="{avatar_url}", {display_title}'
                 )
 
@@ -318,6 +220,101 @@ def build_colatv_entries(raw_data) -> list[str]:
 
     return lines
 
+def build_gavangtv_entries(raw_data) -> list[str]:
+    if not isinstance(raw_data, dict):
+        return []
+
+    data_obj = raw_data.get("data")
+
+    if isinstance(data_obj, dict):
+        matches = list(data_obj.values())
+    elif isinstance(data_obj, list):
+        matches = data_obj
+    else:
+        matches = []
+
+    lines = []
+
+    for match in matches:
+        if not isinstance(match, dict):
+            continue
+
+        home = match.get("homeTeam") or {}
+        away = match.get("awayTeam") or {}
+
+        home_name = (home.get("name") or "").strip()
+        away_name = (away.get("name") or "").strip()
+
+        if home_name and away_name:
+            title = f"{home_name} vs {away_name}"
+        else:
+            title = home_name or away_name or "Trận đấu"
+
+        fallback_logo = (
+            (home.get("logo") or "").strip()
+            or (
+                (match.get("competition") or {}).get("logo")
+                or ""
+            ).strip()
+        )
+
+        anchors = match.get("anchorAppointmentVoList") or []
+        added_any = False
+
+        for anchor in anchors:
+            if not isinstance(anchor, dict):
+                continue
+
+            nick_name = (anchor.get("nickName") or "").strip()
+            avatar_url = (
+                (anchor.get("userImage") or "").strip()
+                or fallback_logo
+            )
+
+            stream_urls = anchor.get("streamUrls") or []
+
+            valid_urls = list(dict.fromkeys(
+                u.strip()
+                for u in stream_urls
+                if isinstance(u, str) and u.strip()
+            ))
+
+            m3u8_urls = [
+                u for u in valid_urls
+                if ".m3u8" in u.lower()
+            ]
+
+            selected_urls = m3u8_urls or valid_urls
+
+            label = f"BLV {nick_name}" if nick_name else ""
+            display_title = (
+                f"{title} [{label}]" if label else title
+            )
+
+            for url in selected_urls:
+                lines.append(
+                    f'#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" '
+                    f'group-logo="{GAVANGTV_LOGO}" '
+                    f'tvg-logo="{avatar_url}", {display_title}'
+                )
+
+                lines.append(url)
+                added_any = True
+
+        # Fallback sang defaultLink nếu không có stream từ BLV
+        if not added_any:
+            default_link = (match.get("defaultLink") or "").strip()
+
+            if default_link:
+                lines.append(
+                    f'#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" '
+                    f'group-logo="{GAVANGTV_LOGO}" '
+                    f'tvg-logo="{fallback_logo}", {title}'
+                )
+
+                lines.append(default_link)
+
+    return lines
 
 # ==========================================================
 # BUILD PLAYLIST
@@ -333,15 +330,15 @@ def build_m3u() -> str:
             build_tradatv_entries,
         ),
         (
-            "Gà Vàng 33",
-            GAVANGTV_API_URL,
-            build_gavangtv_entries,
-        ),
-        (
             "Cola TV",
             COLATV_API_URL,
             build_colatv_entries,
         ),
+        (
+            "Gà Vàng 33",
+            GAVANGTV_API_URL,
+            build_gavangtv_entries,
+        )
     ]
 
     for source_name, api_url, builder in sources:
