@@ -2,41 +2,92 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: "*/15 * * * *" # Chạy mỗi 15 phút (UTC)
-  workflow_dispatch:       # Cho phép bấm chạy thủ công trên GitHub
+    # 4 lần mỗi giờ, cách nhau 15 phút
+    - cron: "7,22,37,52 * * * *"
+
+  workflow_dispatch:
+
   push:
+    branches:
+      - main
     paths:
-      - "generate_m3u.py"   # Tự chạy khi cập nhật code
-      
+      - "scripts/generate_m3u.py"
+      - ".github/workflows/update-m3u.yml"
+
 permissions:
   contents: write
 
+# Không cho phép nhiều phiên bản cập nhật đồng thời
+concurrency:
+  group: tvpubsports-playlist
+  cancel-in-progress: false
+  queue: max
+
 jobs:
   update-playlist:
+    name: Generate and Update M3U
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
+      # 1. Lấy mã nguồn mới nhất
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
+          ref: main
+          persist-credentials: true
+
+      # 2. Cài đặt Python
       - name: Set up Python
         uses: actions/setup-python@v7
         with:
           python-version: "3.14.6"
 
+      # 3. Kiểm tra Python
+      - name: Check Python version
+        run: python --version
+
+      # 4. Chạy chương trình tạo playlist
       - name: Generate TVPubSports.m3u
         run: python scripts/generate_m3u.py
 
-      - name: Run script
-        run: echo "Run every 15 minutes at $(date -u)"
-      
+      # 5. Kiểm tra file M3U
+      - name: Validate playlist
+        run: |
+          if [ ! -s TVPubSports.m3u ]; then
+            echo "ERROR: TVPubSports.m3u is missing or empty!"
+            exit 1
+          fi
+
+          if ! grep -q '^#EXTM3U' TVPubSports.m3u; then
+            echo "ERROR: Invalid M3U header!"
+            exit 1
+          fi
+
+          echo "Playlist validation passed."
+          echo "Total lines: $(wc -l < TVPubSports.m3u)"
+
+      # 6. Commit nếu có thay đổi
       - name: Commit and push if changed
         run: |
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add TVPubSports.m3u
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add TVPubSports.m3u
+
+          if git diff --cached --quiet; then
+            echo "Playlist unchanged. No commit needed."
+          else
             git commit -m "chore: update TVPubSports.m3u"
-            git push
+            git push origin HEAD:main
+            echo "Playlist successfully updated!"
+          fi
+
+      # 7. Ghi nhận thời gian chạy
+      - name: Workflow summary
+        if: always()
+        run: |
+          echo "## M3U Playlist Update" >> "$GITHUB_STEP_SUMMARY"
+          echo "- UTC time: $(date -u)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Trigger: ${{ github.event_name }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Status: ${{ job.status }}" >> "$GITHUB_STEP_SUMMARY"
